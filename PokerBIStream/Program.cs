@@ -10,6 +10,7 @@ namespace testJson
 
         static void Main(string[] args)
         {
+            //Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory);
 
             IConfigurationBuilder builder = new ConfigurationBuilder()
                .SetBasePath(Directory.GetCurrentDirectory())

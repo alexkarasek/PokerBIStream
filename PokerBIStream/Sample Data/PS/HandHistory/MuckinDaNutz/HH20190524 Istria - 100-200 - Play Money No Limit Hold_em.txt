@@ -1,0 +1,190 @@
+﻿PokerStars Hand #200148085733:  Hold'em No Limit (100/200) - 2019/05/24 15:48:00 ET
+Table 'Istria' 6-max (Play Money) Seat #3 is the button
+Seat 1: MuckinDaNutz (15100 in chips) 
+Seat 3: Alleyoop488 (7330 in chips) 
+Seat 4: Edgel345000 (18605 in chips) 
+Seat 5: Aberrant_Press (23150 in chips) 
+Edgel345000: posts small blind 100
+Aberrant_Press: posts big blind 200
+*** HOLE CARDS ***
+Dealt to MuckinDaNutz [Js 5c]
+MuckinDaNutz: folds 
+Alleyoop488: calls 200
+Edgel345000: calls 100
+Aberrant_Press: raises 12800 to 13000
+Alleyoop488 has timed out
+Alleyoop488: folds 
+Edgel345000: folds 
+Uncalled bet (12800) returned to Aberrant_Press
+Aberrant_Press collected 600 from pot
+Aberrant_Press: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: MuckinDaNutz folded before Flop (didn't bet)
+Seat 3: Alleyoop488 (button) folded before Flop
+Seat 4: Edgel345000 (small blind) folded before Flop
+Seat 5: Aberrant_Press (big blind) collected (600)
+
+
+
+PokerStars Hand #200148085892:  Hold'em No Limit (100/200) - 2019/05/24 15:49:02 ET
+Table 'Istria' 6-max (Play Money) Seat #4 is the button
+Seat 1: MuckinDaNutz (15100 in chips) 
+Seat 2: gilchub (19600 in chips) 
+Seat 3: Alleyoop488 (7130 in chips) 
+Seat 4: Edgel345000 (18405 in chips) 
+Seat 5: Aberrant_Press (23550 in chips) 
+Aberrant_Press: posts small blind 100
+MuckinDaNutz: posts big blind 200
+gilchub: posts small & big blinds 300
+*** HOLE CARDS ***
+Dealt to MuckinDaNutz [Kh 5d]
+gilchub: checks 
+Alleyoop488: calls 200
+Edgel345000: calls 200
+Aberrant_Press: calls 100
+MuckinDaNutz: checks 
+*** FLOP *** [2d Jc Qh]
+Aberrant_Press: checks 
+MuckinDaNutz: checks 
+gilchub: checks 
+Alleyoop488: checks 
+Edgel345000: bets 600
+Aberrant_Press: folds 
+MuckinDaNutz: folds 
+gilchub: folds 
+Alleyoop488: calls 600
+*** TURN *** [2d Jc Qh] [Kc]
+Alleyoop488: checks 
+Edgel345000: bets 600
+Alleyoop488: calls 600
+*** RIVER *** [2d Jc Qh Kc] [9h]
+Alleyoop488: bets 5730 and is all-in
+Edgel345000: folds 
+Uncalled bet (5730) returned to Alleyoop488
+Alleyoop488 collected 3325 from pot
+IownUR (_I_) was removed from the table for failing to post
+IownUR (_I_) leaves the table
+Alleyoop488: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 175 
+Board [2d Jc Qh Kc 9h]
+Seat 1: MuckinDaNutz (big blind) folded on the Flop
+Seat 2: gilchub folded on the Flop (didn't bet)
+Seat 3: Alleyoop488 collected (3325)
+Seat 4: Edgel345000 (button) folded on the River
+Seat 5: Aberrant_Press (small blind) folded on the Flop
+
+
+
+PokerStars Hand #200148086098:  Hold'em No Limit (100/200) - 2019/05/24 15:50:12 ET
+Table 'Istria' 6-max (Play Money) Seat #5 is the button
+Seat 1: MuckinDaNutz (14900 in chips) 
+Seat 2: gilchub (19300 in chips) 
+Seat 3: Alleyoop488 (9055 in chips) 
+Seat 4: Edgel345000 (17005 in chips) 
+Seat 5: Aberrant_Press (23350 in chips) 
+MuckinDaNutz: posts small blind 100
+gilchub: posts big blind 200
+*** HOLE CARDS ***
+Dealt to MuckinDaNutz [5c 4d]
+Alleyoop488: raises 800 to 1000
+Edgel345000: folds 
+Aberrant_Press: folds 
+MuckinDaNutz: folds 
+gilchub: raises 2100 to 3100
+Alleyoop488: calls 2100
+*** FLOP *** [3h As 2s]
+gilchub: bets 6000
+Alleyoop488: calls 5955 and is all-in
+Uncalled bet (45) returned to gilchub
+*** TURN *** [3h As 2s] [6d]
+*** RIVER *** [3h As 2s 6d] [3s]
+*** SHOW DOWN ***
+gilchub: shows [Qs Qd] (two pair, Queens and Threes)
+Alleyoop488: shows [Ac 5h] (two pair, Aces and Threes)
+Alleyoop488 collected 17299 from pot
+*** SUMMARY ***
+Total pot 18210 | Rake 911 
+Board [3h As 2s 6d 3s]
+Seat 1: MuckinDaNutz (small blind) folded before Flop
+Seat 2: gilchub (big blind) showed [Qs Qd] and lost with two pair, Queens and Threes
+Seat 3: Alleyoop488 showed [Ac 5h] and won (17299) with two pair, Aces and Threes
+Seat 4: Edgel345000 folded before Flop (didn't bet)
+Seat 5: Aberrant_Press (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #200148086324:  Hold'em No Limit (100/200) - 2019/05/24 15:51:27 ET
+Table 'Istria' 6-max (Play Money) Seat #1 is the button
+Seat 1: MuckinDaNutz (14800 in chips) 
+Seat 2: gilchub (10245 in chips) 
+Seat 3: Alleyoop488 (17299 in chips) 
+Seat 4: Edgel345000 (17005 in chips) 
+Seat 5: Aberrant_Press (23350 in chips) 
+gilchub: posts small blind 100
+Alleyoop488: posts big blind 200
+*** HOLE CARDS ***
+Dealt to MuckinDaNutz [8d Jc]
+Edgel345000: calls 200
+Aberrant_Press: calls 200
+MuckinDaNutz: folds 
+gilchub: calls 100
+Alleyoop488: checks 
+*** FLOP *** [2s 2d Qc]
+gilchub: checks 
+Alleyoop488: checks 
+Edgel345000: checks 
+Aberrant_Press: checks 
+*** TURN *** [2s 2d Qc] [6c]
+gilchub: checks 
+Alleyoop488: checks 
+Edgel345000: checks 
+Aberrant_Press: checks 
+*** RIVER *** [2s 2d Qc 6c] [3c]
+gilchub: bets 600
+Alleyoop488: folds 
+Edgel345000: folds 
+Aberrant_Press: folds 
+Uncalled bet (600) returned to gilchub
+gilchub collected 760 from pot
+gilchub: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 40 
+Board [2s 2d Qc 6c 3c]
+Seat 1: MuckinDaNutz (button) folded before Flop (didn't bet)
+Seat 2: gilchub (small blind) collected (760)
+Seat 3: Alleyoop488 (big blind) folded on the River
+Seat 4: Edgel345000 folded on the River
+Seat 5: Aberrant_Press folded on the River
+
+
+
+PokerStars Hand #200148086539:  Hold'em No Limit (100/200) - 2019/05/24 15:52:52 ET
+Table 'Istria' 6-max (Play Money) Seat #2 is the button
+Seat 1: MuckinDaNutz (14800 in chips) 
+Seat 2: gilchub (10805 in chips) 
+Seat 3: Alleyoop488 (17099 in chips) 
+Seat 4: Edgel345000 (16805 in chips) 
+Seat 5: Aberrant_Press (23150 in chips) 
+Alleyoop488: posts small blind 100
+Edgel345000: posts big blind 200
+*** HOLE CARDS ***
+Dealt to MuckinDaNutz [7d 9h]
+Aberrant_Press: folds 
+MuckinDaNutz: folds 
+gilchub: folds 
+Alleyoop488 has timed out
+Alleyoop488: folds 
+Uncalled bet (100) returned to Edgel345000
+Edgel345000 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: MuckinDaNutz folded before Flop (didn't bet)
+Seat 2: gilchub (button) folded before Flop (didn't bet)
+Seat 3: Alleyoop488 (small blind) folded before Flop
+Seat 4: Edgel345000 (big blind) collected (200)
+Seat 5: Aberrant_Press folded before Flop (didn't bet)
+
+
+
