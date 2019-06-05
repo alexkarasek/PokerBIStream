@@ -9,7 +9,7 @@ namespace testJson
 {
     class FileParser   
     {
-        public FileParser(string filename_in)
+        public FileParser(string filename_in, string url, string key)
         {
             Games g = new Games();
             string line_in = "";  //seed for first game in file
@@ -20,7 +20,7 @@ namespace testJson
 
                 while ((line_in = sr.ReadLine()) != null)
                 {
-                    GameParser gp = new GameParser(line_in, g, streetname, gameActionCtr);
+                    GameParser gp = new GameParser(line_in, g, streetname, gameActionCtr, url, key);
                     streetname = gp.Streetname;  //persist streetname
                     gameActionCtr = gp.GameActionCtr;  //persist action ctr
                 }
@@ -36,7 +36,12 @@ namespace testJson
                     StreamReader str = new StreamReader(ms);
                     Console.Write("JSON form of Games object: ");
                     Console.WriteLine(str.ReadToEnd());
-                }
+
+                CosmosDb p = new CosmosDb(url, key);
+            }
+
+ 
+
             Console.ReadLine();
         }
     }
@@ -69,7 +74,7 @@ namespace testJson
             patterns.Add(@"\sposts\sthe\sante");  //Ante
             patterns.Add(@"\*\*\*\s.+\s\*\*\*");  //New Street
             patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s[0-9]+");  //Raise
-            patterns.Add(@"Seat+\s\d\:\s");  //Seats
+            patterns.Add(@"Seat+\s\d\:\s.+\D+\sin\schips\)");  //Seats
 
             Streetname = streetname;
             GameActionCtr = gameactionctr;
@@ -204,7 +209,7 @@ namespace testJson
         public string Streetname { get; set; }  //allows street to be persisted
         public int GameActionCtr { get; set; } //allows action counter to be persisted
        
-        public GameParser(string line_in, Games g, string streetname, int gameActionCtr) 
+        public GameParser(string line_in, Games g, string streetname, int gameActionCtr, string url, string key) 
         {
 
             LineParser lp = new LineParser(line_in, streetname, gameActionCtr);
@@ -216,6 +221,8 @@ namespace testJson
             {
                 if (g.gameid != null)
                 {
+                    CosmosDb p = new CosmosDb(url, key);
+
                     MemoryStream ms = new MemoryStream();
                     DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
                     j.WriteObject(ms, g);
