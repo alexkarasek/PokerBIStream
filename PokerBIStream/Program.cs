@@ -29,7 +29,8 @@ namespace testJson
             string url = configuration["EndpointUrl"];
             string key = configuration["PrimaryKey"];
 
-            int isGame = 0;
+          
+            //int isGame = 0;
             Games g = new Games();  //TODO: remove later. this is only so code below doesn't fail
 
 

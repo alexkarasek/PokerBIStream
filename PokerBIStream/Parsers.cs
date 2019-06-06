@@ -26,23 +26,13 @@ namespace testJson
                 }
            
                 {
-                    //allows output after last hand
 
-                    MemoryStream ms = new MemoryStream();
-                    DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
-                    j.WriteObject(ms, g);
+                CosmosDb cosmosDb = new CosmosDb(url, key, g);
+                cosmosDb.GetStartedDemo(url, key, g).Wait();
 
-                    ms.Position = 0;
-                    StreamReader str = new StreamReader(ms);
-                    Console.Write("JSON form of Games object: ");
-                    Console.WriteLine(str.ReadToEnd());
 
-                CosmosDb p = new CosmosDb(url, key);
             }
 
- 
-
-            Console.ReadLine();
         }
     }
 
@@ -74,7 +64,7 @@ namespace testJson
             patterns.Add(@"\sposts\sthe\sante");  //Ante
             patterns.Add(@"\*\*\*\s.+\s\*\*\*");  //New Street
             patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s[0-9]+");  //Raise
-            patterns.Add(@"Seat+\s\d\:\s.+\D+\sin\schips\)");  //Seats
+            patterns.Add(@"Seat+\s\d\:\s.+\sin\schips\)");  //Seats
 
             Streetname = streetname;
             GameActionCtr = gameactionctr;
@@ -221,7 +211,9 @@ namespace testJson
             {
                 if (g.gameid != null)
                 {
-                    CosmosDb p = new CosmosDb(url, key);
+                    CosmosDb cosmosDb = new CosmosDb(url, key, g);
+                    cosmosDb.GetStartedDemo(url, key, g).Wait();
+
 
                     MemoryStream ms = new MemoryStream();
                     DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
@@ -232,7 +224,7 @@ namespace testJson
                     Console.Write("JSON form of Games object: ");
                     Console.WriteLine(str.ReadToEnd());
 
-                    Console.ReadLine();
+                   // Console.ReadLine();
                 }
 
                 //clear action level vars

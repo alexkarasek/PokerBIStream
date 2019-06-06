@@ -2,6 +2,7 @@
 using System.Runtime.Serialization.Json;
 using System.IO;
 using System.Collections.Generic;
+using Newtonsoft.Json;
 
 namespace testJson
     
@@ -9,10 +10,15 @@ namespace testJson
 {
     public class Games
     {
+        [JsonProperty(PropertyName = "id")]
         public string gameid;
         public string timestamp;
         public List<Seats> seats = new List<Seats>();
         public List<Actions> actions = new List<Actions>();
+        public override string ToString()
+        {
+            return JsonConvert.SerializeObject(this);
+        }
 
         public void Addactions(Actions a)
         {
