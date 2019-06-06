@@ -26,8 +26,11 @@ namespace testJson
             string Outputfile = configuration["OutputFile"];
             string RefreshAll = configuration["RefreshAll"];
             string site = configuration["site"];
+            string url = configuration["EndpointUrl"];
+            string key = configuration["PrimaryKey"];
 
-            int isGame = 0;
+          
+            //int isGame = 0;
             Games g = new Games();  //TODO: remove later. this is only so code below doesn't fail
 
 
@@ -37,7 +40,7 @@ namespace testJson
             {
                string inputfile_in = inputpath + Path.GetFileName(fileName);   //file to read
 
-                FileParser fp = new FileParser(inputfile_in);
+                FileParser fp = new FileParser(inputfile_in, url, key);
 
 
             }
