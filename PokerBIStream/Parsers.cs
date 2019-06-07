@@ -4,33 +4,39 @@ using System.Text;
 using System.IO;
 using System.Text.RegularExpressions;
 using System.Runtime.Serialization.Json;
+using PokerBIStream;
+using System.Dynamic;
 
 namespace testJson
 {
-    class FileParser   
+    class FileParser
     {
-        public FileParser(string filename_in, string url, string key)
+
+        public FileParser(string filename_in, string url, string key, string archivepath)
         {
             Games g = new Games();
+
             string line_in = "";  //seed for first game in file
             string streetname = "Pre-Flop";  //seed for first game in file
             int gameActionCtr = 0; //seed action ctr (used for GameActionId for sorting later)
 
             using (StreamReader sr = new StreamReader(filename_in))
 
-                while ((line_in = sr.ReadLine()) != null)
-                {
-                    GameParser gp = new GameParser(line_in, g, streetname, gameActionCtr, url, key);
-                    streetname = gp.Streetname;  //persist streetname
-                    gameActionCtr = gp.GameActionCtr;  //persist action ctr
-                }
-           
-                {
+            while ((line_in = sr.ReadLine()) != null)
+            {
+                GameParser gp = new GameParser(line_in, g, streetname, gameActionCtr, url, key, archivepath); //, lines);
+                streetname = gp.Streetname;  //persist streetname
+                gameActionCtr = gp.GameActionCtr;  //persist action ctr  
 
+                using (StreamWriter sw = new StreamWriter(archivepath + g.gameid + ".txt", true))
+                {
+                    sw.WriteLine(line_in);
+                }
+            }
+           
+            {
                 CosmosDb cosmosDb = new CosmosDb(url, key, g);
                 cosmosDb.GetStartedDemo(url, key, g).Wait();
-
-
             }
 
         }
@@ -189,8 +195,6 @@ namespace testJson
                 }
             }
 
-
-                    
         }
     }
 
@@ -198,22 +202,21 @@ namespace testJson
     {
         public string Streetname { get; set; }  //allows street to be persisted
         public int GameActionCtr { get; set; } //allows action counter to be persisted
-       
-        public GameParser(string line_in, Games g, string streetname, int gameActionCtr, string url, string key) 
+        
+        public GameParser(string line_in, Games g, string streetname, int gameActionCtr, string url, string key, string archivepath) 
         {
 
             LineParser lp = new LineParser(line_in, streetname, gameActionCtr);
             Streetname = lp.Streetname;
             GameActionCtr = lp.GameActionCtr;
-            
 
             if (lp.NewGame == 1)  //start of new game. print Games object from previous game
             {
+
                 if (g.gameid != null)
                 {
                     CosmosDb cosmosDb = new CosmosDb(url, key, g);
                     cosmosDb.GetStartedDemo(url, key, g).Wait();
-
 
                     MemoryStream ms = new MemoryStream();
                     DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
@@ -224,7 +227,6 @@ namespace testJson
                     Console.Write("JSON form of Games object: ");
                     Console.WriteLine(str.ReadToEnd());
 
-                   // Console.ReadLine();
                 }
 
                 //clear action level vars
@@ -233,10 +235,17 @@ namespace testJson
                 Streetname = "Pre-flop";
                 GameActionCtr = 0;
 
+
                 //assign game level vars
-                g.gameid = lp.GameId; 
+                g.gameid = lp.GameId;
                 g.timestamp = lp.TimeStamp;
-             }
+
+                //delete file if it already exists for this game
+                using (StreamWriter sw = new StreamWriter(archivepath + g.gameid + ".txt"))
+                {
+                    sw.WriteLine(line_in);
+                }
+            }
             
             else if (lp.Streetname != "" && lp.Action != null)  //assign Actions values
             {
@@ -250,11 +259,31 @@ namespace testJson
                 }
             }
 
-
             Console.WriteLine(line_in);
 
         }
-        
+
     }
+    public class Lines
+    {
+        public List<string> L { get; set; }  //aggregate lines for each game to write later
+
+        public Lines()
+        {
+            L = new List<string>();
+        }
+
+        public void AddLines(string linetoadd)
+        {
+            L.Add(linetoadd);
+        }
+        public void ClearLines ()
+        {
+            L.Clear();
+        }
+
+    }
+
+
 }
 

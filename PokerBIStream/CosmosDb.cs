@@ -18,8 +18,6 @@ namespace testJson
            
         }
 
-       
-
         public void WriteToConsoleAndPromptToContinue(string format, params object[] args)
         {
             Console.WriteLine(format, args);
@@ -41,7 +39,7 @@ namespace testJson
             try
             {
                 await this.client.ReadDocumentAsync(UriFactory.CreateDocumentUri("Poker_Logs", "GameActions", games.gameid));
-                this.WriteToConsoleAndPromptToContinue("Found {0}", games.gameid);
+               // this.WriteToConsoleAndPromptToContinue("Found {0}", games.gameid);
             }
             catch (DocumentClientException de)
             {

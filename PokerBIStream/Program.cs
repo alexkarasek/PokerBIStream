@@ -10,7 +10,6 @@ namespace testJson
 
         static void Main(string[] args)
         {
-            //Console.WriteLine(AppDomain.CurrentDomain.BaseDirectory);
 
             IConfigurationBuilder builder = new ConfigurationBuilder()
                .SetBasePath(Directory.GetCurrentDirectory())
@@ -30,26 +29,21 @@ namespace testJson
             string key = configuration["PrimaryKey"];
 
           
-            //int isGame = 0;
-            Games g = new Games();  //TODO: remove later. this is only so code below doesn't fail
-
-
             //Loop through log file directory and pass each filename into parser
             string[] fileEntries = Directory.GetFiles(inputpath);
             foreach (string fileName in fileEntries)
             {
                string inputfile_in = inputpath + Path.GetFileName(fileName);   //file to read
 
-                FileParser fp = new FileParser(inputfile_in, url, key);
-
+                FileParser fp = new FileParser(inputfile_in, url, key, archivepath);
 
             }
 
-
-            
             //Console.WriteLine(sr.ReadToEnd());
 
             Console.ReadLine();
+
+            //TODO: Add logic to copy log files to ADLS
 
 
 
