@@ -35,8 +35,12 @@ namespace testJson
             }
            
             {
-                CosmosDb cosmosDb = new CosmosDb(url, key, g);
-                cosmosDb.GetStartedDemo(url, key, g).Wait();
+                //CosmosDb cosmosDb = new CosmosDb(url, key, g);
+                // cosmosDb.GetStartedDemo(url, key, g).Wait();
+                using (StreamWriter sw2 = new StreamWriter(archivepath + g.gameid + ".json", true))
+                {
+                    sw2.WriteLine(g);
+                }
             }
 
         }
@@ -215,8 +219,12 @@ namespace testJson
 
                 if (g.gameid != null)
                 {
-                    CosmosDb cosmosDb = new CosmosDb(url, key, g);
-                    cosmosDb.GetStartedDemo(url, key, g).Wait();
+                    //CosmosDb cosmosDb = new CosmosDb(url, key, g);
+                    //cosmosDb.GetStartedDemo(url, key, g).Wait();
+                    using (StreamWriter sw2 = new StreamWriter(archivepath + g.gameid + ".json", true))
+                    {
+                        sw2.WriteLine(g);
+                    }
 
                     MemoryStream ms = new MemoryStream();
                     DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
