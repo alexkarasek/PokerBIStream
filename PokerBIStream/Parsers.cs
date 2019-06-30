@@ -28,7 +28,7 @@ namespace testJson
                 streetname = gp.Streetname;  //persist streetname
                 gameActionCtr = gp.GameActionCtr;  //persist action ctr  
 
-                using (StreamWriter sw = new StreamWriter(archivepath + g.gameid + ".txt", true))
+                using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt", true))
                 {
                     sw.WriteLine(line_in);
                 }
@@ -37,7 +37,7 @@ namespace testJson
             {
                 //CosmosDb cosmosDb = new CosmosDb(url, key, g);
                 // cosmosDb.GetStartedDemo(url, key, g).Wait();
-                using (StreamWriter sw2 = new StreamWriter(archivepath + g.gameid + ".json", true))
+                using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
                 {
                     sw2.WriteLine(g);
                 }
@@ -54,7 +54,7 @@ namespace testJson
         public string TimeStamp { get; set; }
         public string Streetname { get; set; }
         public string Action { get; set; }
-        public int Amount { get; set; }
+        public float Amount { get; set; }
         public string Player { get; set; }
         public int GameActionCtr { get; set; }
         public int Seatnumber { get; set; }
@@ -69,11 +69,13 @@ namespace testJson
             patterns.Add(@"\sposts\s.+\sblind");  //Blind
             patterns.Add(@"\sfolds\s");   //Fold
             patterns.Add(@"\scalls\s");  //Call
-            patterns.Add(@"\scollected\s[0-9]");  //Win
+            //patterns.Add(@"\scollected\s[0-9]");  //Win
+            patterns.Add(@"\scollected\s\$[0-9]");  //Win
             patterns.Add(@"\schecks\s");  //Check
             patterns.Add(@"\sposts\sthe\sante");  //Ante
             patterns.Add(@"\*\*\*\s.+\s\*\*\*");  //New Street
-            patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s[0-9]+");  //Raise
+            //patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s[0-9]+");  //Raise
+            patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s\$[0-9]+");  //Raise
             patterns.Add(@"Seat+\s\d\:\s.+\sin\schips\)");  //Seats
 
             Streetname = streetname;
@@ -110,19 +112,23 @@ namespace testJson
                             break;
 
                         case 2:  //BET
-                            rgxStage = new Regex(@"bets\s\d+");
-                            Stage = rgxStage.Matches(line_in);
-                            Amount = Convert.ToInt32(Stage[0].Value.Substring(5, Stage[0].Length - 5));
+                            //rgxStage = new Regex(@"bets\s\d+");
+                            rgxStage = new Regex(@"bets\s\$.+");
+                            Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
+                            //Amount = Convert.ToInt32(Stage[0].Value.Substring(5, Stage[0].Length - 5));
+                            Amount = float.Parse(Stage[0].Value.Substring(6, Stage[0].Length - 6));
                             Action = "bet";
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr++;
                             break;
 
                         case 3:  //BLIND  
-                            rgxStage = new Regex(@"\s\d+");
-                            Stage = rgxStage.Matches(line_in);
+                            //rgxStage = new Regex(@"\s\d+");
+                            rgxStage = new Regex(@"\$.+");
+                            Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "blind";
-                            Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
+                            //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
+                            Amount = float.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 1));
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr ++;
                             break;
@@ -135,19 +141,23 @@ namespace testJson
                             break;
 
                         case 5:  //CALL
-                            rgxStage = new Regex(@"\s\d+");
-                            Stage = rgxStage.Matches(line_in);
+                            //rgxStage = new Regex(@"\s\d+");
+                            rgxStage = new Regex(@"\$.+");
+                            Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "call";
-                            Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
+                            //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
+                            Amount = float.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 1));
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr++;
                             break;
 
                         case 6:  //WIN
-                            rgxStage = new Regex(@"\d+\sfrom\s");
+                            //rgxStage = new Regex(@"\d+\sfrom\s");
+                            rgxStage = new Regex(@"\$\d.+\s");
                             Stage = rgxStage.Matches(line_in);
                             Action = "win";
-                            Amount = Convert.ToInt32(Stage[0].Value.Substring(0, Stage[0].Length - 6));
+                            //Amount = Convert.ToInt32(Stage[0].Value.Substring(0, Stage[0].Length - 6));
+                            Amount = float.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 6));
                             rgxStage = new Regex(@".+\scollect");
                             Player = line_in.Substring(0, line_in.Replace(": collect", " collect").IndexOf(" collect"));
                             gameactionctr++;
@@ -177,10 +187,12 @@ namespace testJson
                             break;
 
                         case 10:  //RAISE
-                            rgxStage = new Regex(@"\s\d+\s");
-                            Stage = rgxStage.Matches(line_in);
+                            //rgxStage = new Regex(@"\s\d+\s");
+                            rgxStage = new Regex(@"\s\$.+\sto");
+                            Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "raise";
-                            Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 2));
+                            //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 2));
+                            Amount = float.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 5));
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr++;
                             break;
@@ -221,19 +233,19 @@ namespace testJson
                 {
                     //CosmosDb cosmosDb = new CosmosDb(url, key, g);
                     //cosmosDb.GetStartedDemo(url, key, g).Wait();
-                    using (StreamWriter sw2 = new StreamWriter(archivepath + g.gameid + ".json", true))
+                    using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
                     {
                         sw2.WriteLine(g);
                     }
 
-                    MemoryStream ms = new MemoryStream();
-                    DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
-                    j.WriteObject(ms, g);
+                    //MemoryStream ms = new MemoryStream();
+                    //DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
+                    //j.WriteObject(ms, g);
 
-                    ms.Position = 0;
-                    StreamReader str = new StreamReader(ms);
-                    Console.Write("JSON form of Games object: ");
-                    Console.WriteLine(str.ReadToEnd());
+                    //ms.Position = 0;
+                    //StreamReader str = new StreamReader(ms);
+                    //Console.Write("JSON form of Games object: ");
+                    //Console.WriteLine(str.ReadToEnd());
 
                 }
 
@@ -248,11 +260,11 @@ namespace testJson
                 g.gameid = lp.GameId;
                 g.timestamp = lp.TimeStamp;
 
-                //delete file if it already exists for this game
-                using (StreamWriter sw = new StreamWriter(archivepath + g.gameid + ".txt"))
-                {
-                    sw.WriteLine(line_in);
-                }
+                ////delete file if it already exists for this game
+                //using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt"))
+                //{
+                //    sw.WriteLine(line_in);
+                //}
             }
             
             else if (lp.Streetname != "" && lp.Action != null)  //assign Actions values

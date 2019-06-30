@@ -56,6 +56,6 @@ namespace testJson
         public string streetname;
         public string action;
         public string actor;
-        public int amount;
+        public float amount;
     }
 }

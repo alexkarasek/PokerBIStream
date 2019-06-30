@@ -1,0 +1,5048 @@
+﻿PokerStars Hand #201566520975:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:30:06 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($4.01 in chips) 
+Seat 4: CheburaLLLKa ($10.10 in chips) 
+Seat 5: Ext.HuliGan ($10.15 in chips) 
+svenikkk: posts small blind $0.05
+Azim Adilov: posts big blind $0.10
+*** HOLE CARDS ***
+CheburaLLLKa: folds 
+Ext.HuliGan: folds 
+svenikkk: folds 
+Uncalled bet ($0.05) returned to Azim Adilov
+Azim Adilov collected $0.10 from pot
+Azim Adilov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: Azim Adilov (big blind) collected ($0.10)
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 5: Ext.HuliGan (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566523889:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:30:13 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($4.06 in chips) 
+Seat 4: CheburaLLLKa ($10.10 in chips) 
+Seat 5: Ext.HuliGan ($10.15 in chips) 
+Azim Adilov: posts small blind $0.05
+CheburaLLLKa: posts big blind $0.10
+Aviator321: sits out 
+*** HOLE CARDS ***
+Ext.HuliGan: folds 
+svenikkk: folds 
+Azim Adilov: calls $0.05
+CheburaLLLKa: checks 
+*** FLOP *** [Qc Jc 4s]
+Azim Adilov: checks 
+CheburaLLLKa: bets $0.20
+Azim Adilov: calls $0.20
+*** TURN *** [Qc Jc 4s] [Jh]
+Azim Adilov: checks 
+CheburaLLLKa: bets $0.50
+Azim Adilov: calls $0.50
+*** RIVER *** [Qc Jc 4s Jh] [Ah]
+Azim Adilov: checks 
+CheburaLLLKa: bets $1.40
+Azim Adilov: folds 
+Uncalled bet ($1.40) returned to CheburaLLLKa
+CheburaLLLKa collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Qc Jc 4s Jh Ah]
+Seat 2: svenikkk (button) folded before Flop (didn't bet)
+Seat 3: Azim Adilov (small blind) folded on the River
+Seat 4: CheburaLLLKa (big blind) collected ($1.53)
+Seat 5: Ext.HuliGan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566540199:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:30:58 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.26 in chips) 
+Seat 4: CheburaLLLKa ($10.83 in chips) 
+Seat 5: Ext.HuliGan ($10.15 in chips) 
+CheburaLLLKa: posts small blind $0.05
+Ext.HuliGan: posts big blind $0.10
+Aviator321: sits out 
+*** HOLE CARDS ***
+svenikkk: folds 
+Azim Adilov: folds 
+CheburaLLLKa: raises $0.20 to $0.30
+Ext.HuliGan: calls $0.20
+*** FLOP *** [5d 7c Kh]
+CheburaLLLKa: checks 
+Ext.HuliGan: checks 
+*** TURN *** [5d 7c Kh] [8s]
+CheburaLLLKa: checks 
+Ext.HuliGan: checks 
+*** RIVER *** [5d 7c Kh 8s] [Th]
+CheburaLLLKa: checks 
+Ext.HuliGan: checks 
+*** SHOW DOWN ***
+CheburaLLLKa: shows [8d As] (a pair of Eights)
+Ext.HuliGan: mucks hand 
+CheburaLLLKa collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [5d 7c Kh 8s Th]
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: Azim Adilov (button) folded before Flop (didn't bet)
+Seat 4: CheburaLLLKa (small blind) showed [8d As] and won ($0.57) with a pair of Eights
+Seat 5: Ext.HuliGan (big blind) mucked
+
+
+
+PokerStars Hand #201566552743:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:31:32 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.26 in chips) 
+Seat 4: CheburaLLLKa ($11.10 in chips) 
+Seat 5: Ext.HuliGan ($10 in chips) 
+Seat 6: Aviator321 ($10 in chips) 
+Ext.HuliGan: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+Azim Adilov: folds 
+CheburaLLLKa: folds 
+Ext.HuliGan: raises $0.15 to $0.25
+Aviator321: calls $0.15
+*** FLOP *** [Qs Kd 2s]
+Ext.HuliGan: checks 
+Aviator321: checks 
+*** TURN *** [Qs Kd 2s] [Kh]
+Ext.HuliGan: checks 
+Aviator321: checks 
+*** RIVER *** [Qs Kd 2s Kh] [3h]
+Ext.HuliGan: checks 
+Aviator321: checks 
+*** SHOW DOWN ***
+Ext.HuliGan: shows [Jh 9d] (a pair of Kings)
+Aviator321: shows [Jd As] (a pair of Kings - Ace kicker)
+Aviator321 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Qs Kd 2s Kh 3h]
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: Azim Adilov folded before Flop (didn't bet)
+Seat 4: CheburaLLLKa (button) folded before Flop (didn't bet)
+Seat 5: Ext.HuliGan (small blind) showed [Jh 9d] and lost with a pair of Kings
+Seat 6: Aviator321 (big blind) showed [Jd As] and won ($0.48) with a pair of Kings
+
+
+
+PokerStars Hand #201566563696:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:32:01 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.26 in chips) 
+Seat 4: CheburaLLLKa ($11.10 in chips) 
+Seat 5: Ext.HuliGan ($10 in chips) 
+Seat 6: Aviator321 ($10.23 in chips) 
+Aviator321: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+Azim Adilov: folds 
+CheburaLLLKa: folds 
+Ext.HuliGan: raises $0.15 to $0.25
+Aviator321: folds 
+svenikkk: calls $0.15
+*** FLOP *** [6d 3d Qd]
+svenikkk: checks 
+Ext.HuliGan: checks 
+*** TURN *** [6d 3d Qd] [Ts]
+svenikkk: checks 
+Ext.HuliGan: checks 
+*** RIVER *** [6d 3d Qd Ts] [Jc]
+svenikkk: checks 
+Ext.HuliGan: checks 
+*** SHOW DOWN ***
+svenikkk: shows [Kc 2c] (high card King)
+Ext.HuliGan: shows [Ac 9h] (high card Ace)
+Ext.HuliGan collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6d 3d Qd Ts Jc]
+Seat 2: svenikkk (big blind) showed [Kc 2c] and lost with high card King
+Seat 3: Azim Adilov folded before Flop (didn't bet)
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 5: Ext.HuliGan (button) showed [Ac 9h] and won ($0.53) with high card Ace
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566578527:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:32:41 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.26 in chips) 
+Seat 4: CheburaLLLKa ($11.10 in chips) 
+Seat 5: Ext.HuliGan ($10.28 in chips) 
+Seat 6: Aviator321 ($10.18 in chips) 
+svenikkk: posts small blind $0.05
+Azim Adilov: posts big blind $0.10
+*** HOLE CARDS ***
+CheburaLLLKa: folds 
+Ext.HuliGan: folds 
+Aviator321: raises $0.20 to $0.30
+svenikkk: folds 
+Azim Adilov: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: Azim Adilov (big blind) folded before Flop
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 5: Ext.HuliGan folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) collected ($0.25)
+
+
+
+PokerStars Hand #201566584463:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:32:57 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.16 in chips) 
+Seat 4: CheburaLLLKa ($11.10 in chips) 
+Seat 5: Ext.HuliGan ($10.28 in chips) 
+Seat 6: Aviator321 ($10.33 in chips) 
+Azim Adilov: posts small blind $0.05
+CheburaLLLKa: posts big blind $0.10
+*** HOLE CARDS ***
+Ext.HuliGan: folds 
+Aviator321: raises $0.20 to $0.30
+svenikkk: folds 
+Azim Adilov: folds 
+CheburaLLLKa: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: svenikkk (button) folded before Flop (didn't bet)
+Seat 3: Azim Adilov (small blind) folded before Flop
+Seat 4: CheburaLLLKa (big blind) folded before Flop
+Seat 5: Ext.HuliGan folded before Flop (didn't bet)
+Seat 6: Aviator321 collected ($0.25)
+
+
+
+PokerStars Hand #201566588057:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:33:06 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.11 in chips) 
+Seat 4: CheburaLLLKa ($11 in chips) 
+Seat 6: Aviator321 ($10.48 in chips) 
+CheburaLLLKa: posts small blind $0.05
+Ext.HuliGan: is sitting out 
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+Ext.HuliGan leaves the table
+SERG244 joins the table at seat #5 
+svenikkk: raises $0.20 to $0.30
+Azim Adilov: folds 
+CheburaLLLKa: folds 
+Aviator321: folds 
+Uncalled bet ($0.20) returned to svenikkk
+svenikkk collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: svenikkk collected ($0.25)
+Seat 3: Azim Adilov (button) folded before Flop (didn't bet)
+Seat 4: CheburaLLLKa (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201566591777:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:33:17 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 2: svenikkk ($10.15 in chips) 
+Seat 3: Azim Adilov ($3.11 in chips) 
+Seat 4: CheburaLLLKa ($10.95 in chips) 
+Seat 6: Aviator321 ($10.38 in chips) 
+Aviator321: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+Azim Adilov: calls $0.10
+CheburaLLLKa: folds 
+Aviator321: folds 
+svenikkk: checks 
+*** FLOP *** [Kd Kc 9s]
+svenikkk: checks 
+Azim Adilov: checks 
+*** TURN *** [Kd Kc 9s] [3c]
+svenikkk: checks 
+Azim Adilov: checks 
+*** RIVER *** [Kd Kc 9s 3c] [8s]
+svenikkk: checks 
+Azim Adilov: checks 
+*** SHOW DOWN ***
+svenikkk: shows [Qc 6c] (a pair of Kings)
+Azim Adilov: shows [Ad Js] (a pair of Kings - Ace kicker)
+Azim Adilov collected $0.24 from pot
+kda7 was removed from the table for failing to post
+kda7 leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kd Kc 9s 3c 8s]
+Seat 2: svenikkk (big blind) showed [Qc 6c] and lost with a pair of Kings
+Seat 3: Azim Adilov showed [Ad Js] and won ($0.24) with a pair of Kings
+Seat 4: CheburaLLLKa (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566602161:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:33:45 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 2: svenikkk ($10.05 in chips) 
+Seat 3: Azim Adilov ($3.25 in chips) 
+Seat 4: CheburaLLLKa ($10.95 in chips) 
+Seat 6: Aviator321 ($10.33 in chips) 
+svenikkk: posts small blind $0.05
+Azim Adilov: posts big blind $0.10
+*** HOLE CARDS ***
+faust36 joins the table at seat #1 
+CheburaLLLKa: raises $0.20 to $0.30
+Aviator321: raises $0.60 to $0.90
+svenikkk: folds 
+Azim Adilov: folds 
+CheburaLLLKa: folds 
+Uncalled bet ($0.60) returned to Aviator321
+Aviator321 collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: Azim Adilov (big blind) folded before Flop
+Seat 4: CheburaLLLKa folded before Flop
+Seat 6: Aviator321 (button) collected ($0.75)
+
+
+
+PokerStars Hand #201566608902:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:34:03 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($3.15 in chips) 
+Seat 4: CheburaLLLKa ($10.65 in chips) 
+Seat 6: Aviator321 ($10.78 in chips) 
+Azim Adilov: posts small blind $0.05
+CheburaLLLKa: posts big blind $0.10
+faust36: sits out 
+*** HOLE CARDS ***
+Aviator321: folds 
+svenikkk: raises $0.20 to $0.30
+Azim Adilov: calls $0.25
+CheburaLLLKa: raises $1 to $1.30
+svenikkk: calls $1
+Azim Adilov: folds 
+*** FLOP *** [9h 2h Kh]
+CheburaLLLKa: bets $0.97
+svenikkk: folds 
+Uncalled bet ($0.97) returned to CheburaLLLKa
+CheburaLLLKa collected $2.77 from pot
+*** SUMMARY ***
+Total pot $2.90 | Rake $0.13 
+Board [9h 2h Kh]
+Seat 2: svenikkk (button) folded on the Flop
+Seat 3: Azim Adilov (small blind) folded before Flop
+Seat 4: CheburaLLLKa (big blind) collected ($2.77)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566619273:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:34:31 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($2.85 in chips) 
+Seat 4: CheburaLLLKa ($12.12 in chips) 
+Seat 6: Aviator321 ($10.78 in chips) 
+CheburaLLLKa: posts small blind $0.05
+Aviator321: posts big blind $0.10
+faust36: sits out 
+*** HOLE CARDS ***
+svenikkk: folds 
+Azim Adilov: calls $0.10
+CheburaLLLKa: raises $0.35 to $0.45
+Aviator321: folds 
+Azim Adilov: calls $0.35
+*** FLOP *** [7s 3d 2c]
+CheburaLLLKa: bets $0.63
+Azim Adilov: folds 
+Uncalled bet ($0.63) returned to CheburaLLLKa
+CheburaLLLKa collected $0.96 from pot
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [7s 3d 2c]
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: Azim Adilov (button) folded on the Flop
+Seat 4: CheburaLLLKa (small blind) collected ($0.96)
+Seat 6: Aviator321 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201566628024:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:34:55 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($2.40 in chips) 
+Seat 4: CheburaLLLKa ($12.63 in chips) 
+Seat 6: Aviator321 ($10.68 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+Azim Adilov: calls $0.10
+CheburaLLLKa: folds 
+Aviator321: folds 
+faust36: raises $0.30 to $0.40
+Azim Adilov: raises $2 to $2.40 and is all-in
+faust36: folds 
+Uncalled bet ($2) returned to Azim Adilov
+Azim Adilov collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: Azim Adilov collected ($0.85)
+Seat 4: CheburaLLLKa (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566633134:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:35:09 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($2.85 in chips) 
+Seat 4: CheburaLLLKa ($12.63 in chips) 
+Seat 6: Aviator321 ($10.63 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+Azim Adilov: folds 
+CheburaLLLKa: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+SERG244 leaves the table
+svenikkk: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: svenikkk (big blind) folded before Flop
+Seat 3: Azim Adilov folded before Flop (didn't bet)
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) collected ($0.25)
+
+
+
+PokerStars Hand #201566638660:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:35:24 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($9.95 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($2.85 in chips) 
+Seat 4: CheburaLLLKa ($12.63 in chips) 
+Seat 6: Aviator321 ($10.78 in chips) 
+svenikkk: posts small blind $0.05
+Azim Adilov: posts big blind $0.10
+*** HOLE CARDS ***
+CheburaLLLKa: folds 
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+svenikkk: folds 
+Azim Adilov: calls $0.12
+*** FLOP *** [Jc Td 2c]
+Azim Adilov: checks 
+faust36: checks 
+*** TURN *** [Jc Td 2c] [Kc]
+Zokath joins the table at seat #5 
+Azim Adilov: checks 
+faust36: checks 
+*** RIVER *** [Jc Td 2c Kc] [9c]
+Azim Adilov: checks 
+faust36: bets $1
+Azim Adilov: calls $1
+*** SHOW DOWN ***
+faust36: shows [5h Ac] (a flush, Ace high)
+Azim Adilov: mucks hand 
+faust36 collected $2.38 from pot
+*** SUMMARY ***
+Total pot $2.49 | Rake $0.11 
+Board [Jc Td 2c Kc 9c]
+Seat 1: faust36 (button) showed [5h Ac] and won ($2.38) with a flush, Ace high
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: Azim Adilov (big blind) mucked
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566653469:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:36:04 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($11.11 in chips) 
+Seat 2: svenikkk ($10 in chips) 
+Seat 3: Azim Adilov ($1.63 in chips) 
+Seat 4: CheburaLLLKa ($12.63 in chips) 
+Seat 6: Aviator321 ($10.78 in chips) 
+Azim Adilov: posts small blind $0.05
+CheburaLLLKa: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: raises $0.20 to $0.30
+Azim Adilov: raises $1.33 to $1.63 and is all-in
+CheburaLLLKa: folds 
+svenikkk: calls $1.33
+*** FLOP *** [Qc 4s As]
+*** TURN *** [Qc 4s As] [7s]
+*** RIVER *** [Qc 4s As 7s] [6d]
+*** SHOW DOWN ***
+Azim Adilov: shows [7c 9h] (a pair of Sevens)
+svenikkk: shows [9d Ad] (a pair of Aces)
+svenikkk collected $3.21 from pot
+*** SUMMARY ***
+Total pot $3.36 | Rake $0.15 
+Board [Qc 4s As 7s 6d]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk (button) showed [9d Ad] and won ($3.21) with a pair of Aces
+Seat 3: Azim Adilov (small blind) showed [7c 9h] and lost with a pair of Sevens
+Seat 4: CheburaLLLKa (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566662679:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:36:29 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($11.11 in chips) 
+Seat 2: svenikkk ($11.58 in chips) 
+Seat 4: CheburaLLLKa ($12.53 in chips) 
+Seat 6: Aviator321 ($10.78 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+Azim Adilov leaves the table
+svenikkk: raises $0.20 to $0.30
+CheburaLLLKa: raises $0.66 to $0.96
+1RagingBull1 joins the table at seat #3 
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+Uncalled bet ($0.66) returned to CheburaLLLKa
+CheburaLLLKa collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: svenikkk folded before Flop
+Seat 4: CheburaLLLKa (button) collected ($0.75)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566672482:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:36:56 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($11.01 in chips) 
+Seat 2: svenikkk ($11.28 in chips) 
+Seat 4: CheburaLLLKa ($12.98 in chips) 
+Seat 6: Aviator321 ($10.73 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+1RagingBull1: sits out 
+Zokath: sits out 
+*** HOLE CARDS ***
+CheburaLLLKa: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+svenikkk: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: svenikkk (big blind) folded before Flop
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) collected ($0.25)
+
+
+
+PokerStars Hand #201566677984:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:37:11 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.96 in chips) 
+Seat 2: svenikkk ($11.18 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: CheburaLLLKa ($12.98 in chips) 
+Seat 6: Aviator321 ($10.88 in chips) 
+svenikkk: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+CheburaLLLKa: folds 
+CheburaLLLKa leaves the table
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+drianoher joins the table at seat #4 
+svenikkk: folds 
+1RagingBull1: raises $0.38 to $0.60
+faust36: folds 
+Uncalled bet ($0.38) returned to 1RagingBull1
+1RagingBull1 collected $0.49 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0 
+Seat 1: faust36 (button) folded before Flop
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) collected ($0.49)
+Seat 4: CheburaLLLKa folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566686577:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:37:34 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.13 in chips) 
+Seat 3: 1RagingBull1 ($10.27 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 6: Aviator321 ($10.88 in chips) 
+1RagingBull1: posts small blind $0.05
+drianoher: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: raises $0.20 to $0.30
+1RagingBull1: folds 
+drianoher: folds 
+Uncalled bet ($0.20) returned to svenikkk
+svenikkk collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk (button) collected ($0.25)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: drianoher (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566692924:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:37:51 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.28 in chips) 
+Seat 3: 1RagingBull1 ($10.22 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: Aviator321 ($10.88 in chips) 
+drianoher: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: calls $0.10
+*** FLOP *** [5d 7d Qh]
+Zokath: checks 
+1RagingBull1: bets $0.22
+Zokath: calls $0.22
+*** TURN *** [5d 7d Qh] [Ac]
+Zokath: checks 
+1RagingBull1: checks 
+*** RIVER *** [5d 7d Qh Ac] [Js]
+Zokath: bets $0.61
+1RagingBull1: raises $1.04 to $1.65
+Zokath: calls $1.04
+*** SHOW DOWN ***
+1RagingBull1: shows [Jh Qc] (two pair, Queens and Jacks)
+Zokath: shows [7h Ah] (two pair, Aces and Sevens)
+Zokath collected $4 from pot
+*** SUMMARY ***
+Total pot $4.19 | Rake $0.19 
+Board [5d 7d Qh Ac Js]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) showed [Jh Qc] and lost with two pair, Queens and Jacks
+Seat 4: drianoher (small blind) folded before Flop
+Seat 5: Zokath (big blind) showed [7h Ah] and won ($4) with two pair, Aces and Sevens
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566714554:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:38:49 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.28 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($11.93 in chips) 
+Seat 6: Aviator321 ($10.88 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: raises $0.14 to $0.24
+Aviator321: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.20 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) collected ($0.20)
+Seat 6: Aviator321 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201566721194:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:39:07 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.28 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($12.03 in chips) 
+Seat 6: Aviator321 ($10.78 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.25 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 collected ($0.25)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566727653:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:39:24 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.64 in chips) 
+Seat 2: svenikkk ($11.28 in chips) 
+Seat 3: 1RagingBull1 ($10.15 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($12.03 in chips) 
+Seat 6: Aviator321 ($10.73 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: raises $0.16 to $0.26
+svenikkk: folds 
+Uncalled bet ($0.16) returned to faust36
+faust36 collected $0.20 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 (small blind) collected ($0.20)
+Seat 2: svenikkk (big blind) folded before Flop
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566732730:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:39:37 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.18 in chips) 
+Seat 3: 1RagingBull1 ($10.15 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($12.03 in chips) 
+Seat 6: Aviator321 ($10.73 in chips) 
+svenikkk: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+drianoher: folds 
+Zokath: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 collected ($0.25)
+
+
+
+PokerStars Hand #201566738250:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:39:52 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.13 in chips) 
+Seat 3: 1RagingBull1 ($10.05 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($12.03 in chips) 
+Seat 6: Aviator321 ($10.88 in chips) 
+1RagingBull1: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: drianoher (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 collected ($0.25)
+
+
+
+PokerStars Hand #201566743513:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:40:07 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.13 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10 in chips) 
+Seat 5: Zokath ($12.03 in chips) 
+Seat 6: Aviator321 ($11.03 in chips) 
+drianoher: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: raises $0.70 to $0.90
+Zokath: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.70) returned to drianoher
+drianoher collected $0.50 from pot
+drianoher: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop
+Seat 4: drianoher (small blind) collected ($0.50)
+Seat 5: Zokath (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566751728:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:40:29 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.13 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.30 in chips) 
+Seat 5: Zokath ($11.93 in chips) 
+Seat 6: Aviator321 ($11.03 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Uncalled bet ($0.05) returned to Aviator321
+Aviator321 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201566758640:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:40:48 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.74 in chips) 
+Seat 2: svenikkk ($11.13 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.30 in chips) 
+Seat 5: Zokath ($11.88 in chips) 
+Seat 6: Aviator321 ($11.08 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.25 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 collected ($0.25)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566767421:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:41:11 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.64 in chips) 
+Seat 2: svenikkk ($11.13 in chips) 
+Seat 3: 1RagingBull1 ($10.15 in chips) 
+Seat 4: drianoher ($10.30 in chips) 
+Seat 5: Zokath ($11.88 in chips) 
+Seat 6: Aviator321 ($11.03 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+svenikkk: raises $0.70 to $0.90
+1RagingBull1: raises $1.50 to $2.40
+svenikkk: calls $1.50
+*** FLOP *** [8h 9h 8d]
+svenikkk: checks 
+1RagingBull1: checks 
+*** TURN *** [8h 9h 8d] [7d]
+svenikkk: checks 
+1RagingBull1: checks 
+*** RIVER *** [8h 9h 8d 7d] [2d]
+svenikkk: bets $2.40
+1RagingBull1: folds 
+Uncalled bet ($2.40) returned to svenikkk
+svenikkk collected $4.63 from pot
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.22 
+Board [8h 9h 8d 7d 2d]
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: svenikkk (big blind) collected ($4.63)
+Seat 3: 1RagingBull1 folded on the River
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566812094:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:43:10 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.36 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.30 in chips) 
+Seat 5: Zokath ($11.88 in chips) 
+Seat 6: Aviator321 ($11.03 in chips) 
+svenikkk: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+drianoher: folds 
+Zokath: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 collected ($0.25)
+
+
+
+PokerStars Hand #201566817920:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:43:25 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.31 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.30 in chips) 
+Seat 5: Zokath ($11.88 in chips) 
+Seat 6: Aviator321 ($11.18 in chips) 
+1RagingBull1: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.20 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) collected ($0.20)
+Seat 4: drianoher (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566823666:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:43:41 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.31 in chips) 
+Seat 3: 1RagingBull1 ($10.10 in chips) 
+Seat 4: drianoher ($10.20 in chips) 
+Seat 5: Zokath ($11.88 in chips) 
+Seat 6: Aviator321 ($11.18 in chips) 
+drianoher: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: raises $0.20 to $0.30
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Uncalled bet ($0.20) returned to svenikkk
+svenikkk collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk collected ($0.25)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: drianoher (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566831975:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:44:03 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.46 in chips) 
+Seat 3: 1RagingBull1 ($10.10 in chips) 
+Seat 4: drianoher ($10.15 in chips) 
+Seat 5: Zokath ($11.78 in chips) 
+Seat 6: Aviator321 ($11.18 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+svenikkk: raises $0.20 to $0.30
+1RagingBull1: folds 
+drianoher: raises $0.60 to $0.90
+Zokath: folds 
+Aviator321: folds 
+svenikkk: folds 
+Uncalled bet ($0.60) returned to drianoher
+drianoher collected $0.75 from pot
+drianoher: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher (button) collected ($0.75)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201566837443:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:44:18 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.16 in chips) 
+Seat 3: 1RagingBull1 ($10.10 in chips) 
+Seat 4: drianoher ($10.60 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($11.08 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+Uncalled bet ($0.05) returned to faust36
+faust36 collected $0.10 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (big blind) collected ($0.10)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566842713:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:44:32 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.64 in chips) 
+Seat 2: svenikkk ($13.16 in chips) 
+Seat 3: 1RagingBull1 ($10.10 in chips) 
+Seat 4: drianoher ($10.60 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($11.03 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: calls $0.20
+Aviator321: folds 
+faust36: folds 
+svenikkk: calls $0.10
+*** FLOP *** [2c Td Js]
+svenikkk: checks 
+1RagingBull1: checks 
+Zokath: checks 
+*** TURN *** [2c Td Js] [9c]
+svenikkk: bets $0.47
+1RagingBull1: folds 
+Zokath: folds 
+Uncalled bet ($0.47) returned to svenikkk
+svenikkk collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2c Td Js 9c]
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: svenikkk (big blind) collected ($0.62)
+Seat 3: 1RagingBull1 folded on the Turn
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded on the Turn
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566861736:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:45:22 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.58 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.60 in chips) 
+Seat 5: Zokath ($11.53 in chips) 
+Seat 6: Aviator321 ($11.03 in chips) 
+svenikkk: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+drianoher: folds 
+Zokath: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: calls $0.20
+*** FLOP *** [4d Jh Jc]
+1RagingBull1: checks 
+Aviator321: bets $0.23
+1RagingBull1: calls $0.23
+*** TURN *** [4d Jh Jc] [3d]
+1RagingBull1: checks 
+Aviator321: bets $0.55
+1RagingBull1: calls $0.55
+*** RIVER *** [4d Jh Jc 3d] [3s]
+1RagingBull1: checks 
+Aviator321: checks 
+*** SHOW DOWN ***
+1RagingBull1: shows [9d Ad] (two pair, Jacks and Threes)
+Aviator321: shows [Ah Ks] (two pair, Jacks and Threes)
+1RagingBull1 collected $1.06 from pot
+Aviator321 collected $1.05 from pot
+*** SUMMARY ***
+Total pot $2.21 | Rake $0.10 
+Board [4d Jh Jc 3d 3s]
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) showed [9d Ad] and won ($1.06) with two pair, Jacks and Threes
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 showed [Ah Ks] and won ($1.05) with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #201566887539:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:46:30 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.53 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.60 in chips) 
+Seat 5: Zokath ($11.53 in chips) 
+Seat 6: Aviator321 ($11 in chips) 
+1RagingBull1: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath has timed out
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+svenikkk: raises $0.20 to $0.30
+1RagingBull1: folds 
+drianoher: calls $0.20
+*** FLOP *** [3d 2d Qc]
+drianoher: checks 
+svenikkk: checks 
+*** TURN *** [3d 2d Qc] [5d]
+drianoher: bets $0.50
+svenikkk: folds 
+Uncalled bet ($0.50) returned to drianoher
+drianoher collected $0.62 from pot
+drianoher: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [3d 2d Qc 5d]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk (button) folded on the Turn
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: drianoher (big blind) collected ($0.62)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566899257:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:47:01 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.92 in chips) 
+Seat 5: Zokath ($11.53 in chips) 
+Seat 6: Aviator321 ($11 in chips) 
+drianoher: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: raises $0.60 to $0.80
+1RagingBull1: folds 
+Uncalled bet ($0.60) returned to Zokath
+Zokath collected $0.45 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop
+Seat 4: drianoher (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($0.45)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566908834:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:47:27 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.59 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($10 in chips) 
+Seat 4: drianoher ($10.87 in chips) 
+Seat 5: Zokath ($11.78 in chips) 
+Seat 6: Aviator321 ($11 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: raises $0.12 to $0.22
+svenikkk: folds 
+1RagingBull1: raises $0.38 to $0.60
+drianoher: folds 
+Zokath: folds 
+Aviator321: raises $1.20 to $1.80
+faust36: folds 
+1RagingBull1: calls $1.20
+*** FLOP *** [9c 7h Kd]
+Aviator321: bets $1.37
+1RagingBull1: calls $1.37
+*** TURN *** [9c 7h Kd] [Kc]
+Aviator321: checks 
+1RagingBull1: bets $2.08
+Aviator321: calls $2.08
+*** RIVER *** [9c 7h Kd Kc] [3s]
+Aviator321: checks 
+1RagingBull1: checks 
+*** SHOW DOWN ***
+Aviator321: shows [Jd Jc] (two pair, Kings and Jacks)
+1RagingBull1: shows [Qh Qd] (two pair, Kings and Queens)
+1RagingBull1 collected $10.29 from pot
+*** SUMMARY ***
+Total pot $10.77 | Rake $0.48 
+Board [9c 7h Kd Kc 3s]
+Seat 1: faust36 folded before Flop
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 showed [Qh Qd] and won ($10.29) with two pair, Kings and Queens
+Seat 4: drianoher (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) showed [Jd Jc] and lost with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #201566954348:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:49:28 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.87 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($5.75 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+Uncalled bet ($0.05) returned to faust36
+faust36 collected $0.10 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (big blind) collected ($0.10)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201566960844:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:49:45 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.42 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.87 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($5.70 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.05) returned to svenikkk
+svenikkk collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: svenikkk (big blind) collected ($0.10)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566965838:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:49:58 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.28 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.87 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($10 in chips) 
+svenikkk: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+drianoher: folds 
+Zokath: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 collected ($0.25)
+
+
+
+PokerStars Hand #201566977837:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:50:29 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($14.94 in chips) 
+Seat 4: drianoher ($10.87 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+1RagingBull1: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.20 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) collected ($0.20)
+Seat 4: drianoher (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566986270:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:50:51 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.77 in chips) 
+Seat 5: Zokath ($11.73 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+drianoher: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: raises $0.20 to $0.30
+Zokath: calls $0.20
+*** FLOP *** [9c 2s 9d]
+drianoher: bets $0.19
+Zokath: raises $0.41 to $0.60
+drianoher: folds 
+Uncalled bet ($0.41) returned to Zokath
+Zokath collected $0.94 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.98 | Rake $0.04 
+Board [9c 2s 9d]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: drianoher (small blind) folded on the Flop
+Seat 5: Zokath (big blind) collected ($0.94)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201566997030:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:51:20 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.28 in chips) 
+Seat 5: Zokath ($12.18 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Uncalled bet ($0.05) returned to Aviator321
+Aviator321 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201567001450:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:51:31 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.28 in chips) 
+Seat 5: Zokath ($12.13 in chips) 
+Seat 6: Aviator321 ($10.20 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+svenikkk: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+Uncalled bet ($0.05) returned to faust36
+faust36 collected $0.10 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (big blind) collected ($0.10)
+Seat 2: svenikkk folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567004874:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:51:40 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.42 in chips) 
+Seat 2: svenikkk ($13.23 in chips) 
+Seat 3: 1RagingBull1 ($15.04 in chips) 
+Seat 4: drianoher ($10.28 in chips) 
+Seat 5: Zokath ($12.13 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+faust36: posts small blind $0.05
+svenikkk: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+svenikkk: calls $0.10
+*** FLOP *** [9c Ah 4d]
+svenikkk: checks 
+1RagingBull1: bets $0.14
+svenikkk: calls $0.14
+*** TURN *** [9c Ah 4d] [Kd]
+svenikkk: checks 
+1RagingBull1: checks 
+*** RIVER *** [9c Ah 4d Kd] [Qc]
+svenikkk: bets $0.53
+1RagingBull1: folds 
+Uncalled bet ($0.53) returned to svenikkk
+svenikkk collected $0.70 from pot
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [9c Ah 4d Kd Qc]
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: svenikkk (big blind) collected ($0.70)
+Seat 3: 1RagingBull1 folded on the River
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567024244:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:52:31 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.37 in chips) 
+Seat 2: svenikkk ($13.59 in chips) 
+Seat 3: 1RagingBull1 ($14.70 in chips) 
+Seat 4: drianoher ($10.28 in chips) 
+Seat 5: Zokath ($12.13 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+svenikkk: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+drianoher: folds 
+Zokath: folds 
+Aviator321 has timed out
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+svenikkk: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.12) returned to faust36
+faust36 collected $0.25 from pot
+faust36: doesn't show hand 
+svenikkk leaves the table
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) collected ($0.25)
+Seat 2: svenikkk (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567033139:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:52:54 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.52 in chips) 
+Seat 3: 1RagingBull1 ($14.60 in chips) 
+Seat 4: drianoher ($10.28 in chips) 
+Seat 5: Zokath ($12.13 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+drianoher: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Sun_Set_pro8 joins the table at seat #2 
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Uncalled bet ($0.12) returned to faust36
+faust36 collected $0.25 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 collected ($0.25)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: drianoher (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567038723:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:53:09 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.67 in chips) 
+Seat 3: 1RagingBull1 ($14.60 in chips) 
+Seat 4: drianoher ($10.23 in chips) 
+Seat 5: Zokath ($12.03 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+1RagingBull1: folds 
+drianoher: folds 
+Zokath: folds 
+Uncalled bet ($0.05) returned to Aviator321
+Aviator321 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: drianoher (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201567042690:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:53:20 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.67 in chips) 
+Seat 3: 1RagingBull1 ($14.60 in chips) 
+Seat 4: drianoher ($10.23 in chips) 
+Seat 5: Zokath ($11.98 in chips) 
+Seat 6: Aviator321 ($10.20 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+drianoher: folds 
+Sun_Set_pro8 leaves the table
+Zokath: calls $0.20
+Aviator321: folds 
+koiotity joins the table at seat #2 
+faust36: folds 
+*** FLOP *** [4h 2c Ks]
+1RagingBull1: bets $0.17
+Zokath: folds 
+Uncalled bet ($0.17) returned to 1RagingBull1
+1RagingBull1 collected $0.53 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4h 2c Ks]
+Seat 1: faust36 (big blind) folded before Flop
+Seat 3: 1RagingBull1 collected ($0.53)
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded on the Flop
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567058977:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:54:03 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.57 in chips) 
+Seat 2: koiotity ($10 in chips) 
+Seat 3: 1RagingBull1 ($14.93 in chips) 
+Seat 4: drianoher ($10.23 in chips) 
+Seat 5: Zokath ($11.78 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+drianoher has timed out
+drianoher: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: raises $0.70 to $0.90
+koiotity: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.70) returned to faust36
+faust36 collected $0.50 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: faust36 (small blind) collected ($0.50)
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 folded before Flop
+Seat 4: drianoher folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567073685:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:54:42 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.87 in chips) 
+Seat 2: koiotity ($10 in chips) 
+Seat 3: 1RagingBull1 ($14.73 in chips) 
+Seat 5: Zokath ($11.78 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath has timed out
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1: folds 
+Uncalled bet ($0.15) returned to koiotity
+koiotity collected $0.20 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) collected ($0.20)
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567084445:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:55:11 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: koiotity ($10.10 in chips) 
+Seat 3: 1RagingBull1 ($14.63 in chips) 
+Seat 5: Zokath ($11.78 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+1RagingBull1: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1: folds 
+Zokath: calls $0.15
+*** FLOP *** [2h 8h Ks]
+Zokath: checks 
+koiotity: bets $0.25
+Zokath: calls $0.25
+*** TURN *** [2h 8h Ks] [Ad]
+Zokath: checks 
+koiotity: bets $0.70
+Zokath: folds 
+Uncalled bet ($0.70) returned to koiotity
+koiotity collected $1 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [2h 8h Ks Ad]
+Seat 2: koiotity (button) collected ($1)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded on the Turn
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567095981:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:55:46 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 2: koiotity ($10.60 in chips) 
+Seat 3: 1RagingBull1 ($14.58 in chips) 
+Seat 5: Zokath ($11.28 in chips) 
+Seat 6: Aviator321 ($10.15 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+1RagingBull1: folds 
+Zokath: raises $0.14 to $0.24
+Aviator321: raises $0.66 to $0.90
+Zokath: folds 
+Uncalled bet ($0.66) returned to Aviator321
+Aviator321 collected $0.48 from pot
+*** SUMMARY ***
+Total pot $0.48 | Rake $0 
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) collected ($0.48)
+
+
+
+PokerStars Hand #201567101484:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:56:03 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 2: koiotity ($10.60 in chips) 
+Seat 3: 1RagingBull1 ($14.58 in chips) 
+Seat 5: Zokath ($11.04 in chips) 
+Seat 6: Aviator321 ($10.39 in chips) 
+Aviator321: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+Zokath: folds 
+Aviator321: folds 
+koiotity: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.25 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 collected ($0.25)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567104307:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:56:12 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 2: koiotity ($10.50 in chips) 
+Seat 3: 1RagingBull1 ($14.73 in chips) 
+Seat 5: Zokath ($11.04 in chips) 
+Seat 6: Aviator321 ($10.34 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1: folds 
+Uncalled bet ($0.15) returned to koiotity
+drianoher leaves the table
+koiotity collected $0.20 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: koiotity (small blind) collected ($0.20)
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567110083:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:56:29 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: koiotity ($10.60 in chips) 
+Seat 3: 1RagingBull1 ($14.63 in chips) 
+Seat 5: Zokath ($11.04 in chips) 
+Seat 6: Aviator321 ($10.34 in chips) 
+Sun_Set_pro8 joins the table at seat #4 
+1RagingBull1: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+koiotity: raises $0.15 to $0.25
+Sun_Set_pro8 leaves the table
+1RagingBull1: folds 
+Zokath: folds 
+Uncalled bet ($0.15) returned to koiotity
+zuckergus70 joins the table at seat #4 
+koiotity collected $0.25 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: koiotity (button) collected ($0.25)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567114300:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:56:43 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 2: koiotity ($10.75 in chips) 
+Seat 3: 1RagingBull1 ($14.58 in chips) 
+Seat 5: Zokath ($10.94 in chips) 
+Seat 6: Aviator321 ($10.34 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: raises $0.15 to $0.25
+1RagingBull1: folds 
+Zokath: raises $0.85 to $1.10
+Aviator321: folds 
+koiotity: calls $0.85
+*** FLOP *** [8h 5d Ts]
+Zokath: bets $0.70
+koiotity: calls $0.70
+*** TURN *** [8h 5d Ts] [6s]
+Zokath: checks 
+koiotity: checks 
+*** RIVER *** [8h 5d Ts 6s] [Tc]
+Zokath: checks 
+koiotity: bets $1.80
+Zokath: folds 
+Uncalled bet ($1.80) returned to koiotity
+koiotity collected $3.53 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.70 | Rake $0.17 
+Board [8h 5d Ts 6s Tc]
+Seat 2: koiotity collected ($3.53)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded on the River
+Seat 6: Aviator321 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567135007:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:57:47 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 2: koiotity ($12.48 in chips) 
+Seat 3: 1RagingBull1 ($14.58 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: Aviator321 ($10.24 in chips) 
+Aviator321: posts small blind $0.05
+koiotity: posts big blind $0.10
+zuckergus70: sits out 
+*** HOLE CARDS ***
+1RagingBull1: folds 
+Zokath: raises $0.14 to $0.24
+Aviator321: folds 
+koiotity: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 5: Zokath (button) collected ($0.25)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567138339:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:57:57 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 2: koiotity ($12.38 in chips) 
+Seat 3: 1RagingBull1 ($14.58 in chips) 
+Seat 5: Zokath ($10.15 in chips) 
+Seat 6: Aviator321 ($10.19 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+zuckergus70: sits out 
+*** HOLE CARDS ***
+Zokath: raises $0.14 to $0.24
+Aviator321: raises $0.66 to $0.90
+koiotity: folds 
+1RagingBull1: folds 
+Zokath: folds 
+Uncalled bet ($0.66) returned to Aviator321
+Aviator321 collected $0.63 from pot
+*** SUMMARY ***
+Total pot $0.63 | Rake $0 
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 5: Zokath folded before Flop
+Seat 6: Aviator321 (button) collected ($0.63)
+
+
+
+PokerStars Hand #201567143920:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:58:15 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: koiotity ($12.33 in chips) 
+Seat 3: 1RagingBull1 ($14.48 in chips) 
+Seat 4: zuckergus70 ($8 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: Aviator321 ($10.58 in chips) 
+1RagingBull1: posts small blind $0.05
+zuckergus70: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: raises $0.14 to $0.24
+Aviator321: raises $0.66 to $0.90
+koiotity: folds 
+1RagingBull1: folds 
+zuckergus70: folds 
+Zokath: calls $0.66
+*** FLOP *** [6d Ac 6h]
+Zokath: checks 
+Aviator321: bets $0.80
+Zokath: calls $0.80
+*** TURN *** [6d Ac 6h] [Kh]
+Zokath: checks 
+Aviator321: bets $1.80
+Zokath: folds 
+Uncalled bet ($1.80) returned to Aviator321
+Aviator321 collected $3.39 from pot
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.16 
+Board [6d Ac 6h Kh]
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: zuckergus70 (big blind) folded before Flop
+Seat 5: Zokath folded on the Turn
+Seat 6: Aviator321 collected ($3.39)
+
+
+
+PokerStars Hand #201567158358:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:58:59 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 2: koiotity ($12.33 in chips) 
+Seat 3: 1RagingBull1 ($14.43 in chips) 
+Seat 4: zuckergus70 ($7.90 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: Aviator321 ($12.27 in chips) 
+zuckergus70: posts small blind $0.05
+Zokath: posts big blind $0.10
+faust36: sits out 
+*** HOLE CARDS ***
+Aviator321: folds 
+koiotity: folds 
+1RagingBull1: folds 
+zuckergus70: folds 
+Uncalled bet ($0.05) returned to Zokath
+zuckergus70 leaves the table
+Zokath collected $0.10 from pot
+Zokath: doesn't show hand 
+JDOL69 joins the table at seat #4 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: zuckergus70 (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($0.10)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567161620:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:59:09 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.87 in chips) 
+Seat 2: koiotity ($12.33 in chips) 
+Seat 3: 1RagingBull1 ($14.43 in chips) 
+Seat 5: Zokath ($10.05 in chips) 
+Seat 6: Aviator321 ($12.27 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+JDOL69: sits out 
+*** HOLE CARDS ***
+JDOL69 leaves the table
+koiotity: folds 
+1RagingBull1: folds 
+Zokath: raises $0.14 to $0.24
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 5: Zokath (button) collected ($0.25)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567167555:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:59:27 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.77 in chips) 
+Seat 2: koiotity ($12.33 in chips) 
+Seat 3: 1RagingBull1 ($14.43 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($12.22 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.05) returned to koiotity
+koiotity collected $0.10 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) collected ($0.10)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567173308:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 9:59:45 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.72 in chips) 
+Seat 2: koiotity ($12.38 in chips) 
+Seat 3: 1RagingBull1 ($14.43 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($12.22 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1: raises $0.45 to $0.70
+koiotity: folds 
+Uncalled bet ($0.45) returned to 1RagingBull1
+1RagingBull1 collected $0.50 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) collected ($0.50)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567184709:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:00:20 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.72 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($14.68 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($12.22 in chips) 
+1RagingBull1: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: folds 
+koiotity: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.05) returned to Zokath
+Zokath collected $0.10 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($0.10)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567188363:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:00:31 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.72 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($14.63 in chips) 
+Seat 5: Zokath ($10.25 in chips) 
+Seat 6: Aviator321 ($12.22 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+1RagingBull1: folds 
+Zokath: folds 
+mojitoPRO joins the table at seat #4 
+mojitoPRO leaves the table
+Aviator321: calls $0.12
+*** FLOP *** [2c Qc 6s]
+VsegdaBlefuy joins the table at seat #4 
+Aviator321: checks 
+faust36: checks 
+*** TURN *** [2c Qc 6s] [2h]
+Aviator321: bets $0.17
+faust36: folds 
+Uncalled bet ($0.17) returned to Aviator321
+Aviator321 collected $0.47 from pot
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [2c Qc 6s 2h]
+Seat 1: faust36 folded on the Turn
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) collected ($0.47)
+
+
+
+PokerStars Hand #201567204021:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:01:16 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.50 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($14.63 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($12.47 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+VsegdaBlefuy: sits out 
+*** HOLE CARDS ***
+koiotity: folds 
+1RagingBull1: folds 
+Zokath: folds 
+Aviator321: raises $0.20 to $0.30
+faust36: folds 
+Uncalled bet ($0.20) returned to Aviator321
+Aviator321 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #201567211522:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:01:37 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.40 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($14.63 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($12.57 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+VsegdaBlefuy: sits out 
+*** HOLE CARDS ***
+1RagingBull1: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.05) returned to koiotity
+koiotity collected $0.10 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) collected ($0.10)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567215696:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:01:48 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.35 in chips) 
+Seat 2: koiotity ($12.18 in chips) 
+Seat 3: 1RagingBull1 ($14.63 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($12.57 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+VsegdaBlefuy: sits out 
+*** HOLE CARDS ***
+Zokath: raises $0.14 to $0.24
+Aviator321: folds 
+faust36: folds 
+koiotity: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 5: Zokath collected ($0.25)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567220796:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:02:01 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.35 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($14.53 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: Aviator321 ($12.57 in chips) 
+1RagingBull1: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: calls $0.12
+*** FLOP *** [Ks 4c 3c]
+VsegdaBlefuy: checks 
+faust36: bets $0.24
+VsegdaBlefuy: folds 
+Uncalled bet ($0.24) returned to faust36
+faust36 collected $0.47 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.49 | Rake $0.02 
+Board [Ks 4c 3c]
+Seat 1: faust36 collected ($0.47)
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded on the Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567230826:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:02:28 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.60 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($14.48 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: Aviator321 ($12.57 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+1RagingBull1: calls $0.22
+VsegdaBlefuy: folds 
+Zokath: folds 
+*** FLOP *** [Qh 5d 6h]
+faust36: bets $0.28
+1RagingBull1: calls $0.28
+*** TURN *** [Qh 5d 6h] [Kh]
+faust36: checks 
+1RagingBull1: bets $0.55
+faust36: folds 
+Uncalled bet ($0.55) returned to 1RagingBull1
+1RagingBull1 collected $1.10 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [Qh 5d 6h Kh]
+Seat 1: faust36 folded on the Turn
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) collected ($1.10)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded before Flop
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567258363:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:03:41 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.10 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($15.08 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.25 in chips) 
+Seat 6: Aviator321 ($12.57 in chips) 
+Zokath: posts small blind $0.05
+Aviator321: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+1RagingBull1: raises $0.38 to $0.60
+VsegdaBlefuy: folds 
+Zokath: folds 
+Aviator321: calls $0.50
+faust36: calls $0.38
+*** FLOP *** [7d 3c 3s]
+Aviator321: checks 
+faust36: checks 
+1RagingBull1: bets $0.58
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.58) returned to 1RagingBull1
+1RagingBull1 collected $1.77 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [7d 3c 3s]
+Seat 1: faust36 folded on the Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 collected ($1.77)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: Aviator321 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201567282378:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:04:44 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($16.25 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($11.97 in chips) 
+Aviator321: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+1RagingBull1: raises $0.10 to $0.20
+VsegdaBlefuy: folds 
+Zokath: folds 
+Aviator321: folds 
+faust36: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.25 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 collected ($0.25)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: Aviator321 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567293320:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:05:12 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($9.90 in chips) 
+Seat 2: koiotity ($12.13 in chips) 
+Seat 3: 1RagingBull1 ($16.40 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: Aviator321 ($11.92 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Zokath: raises $0.14 to $0.24
+Aviator321: folds 
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath collected ($0.25)
+Seat 6: Aviator321 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567302075:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:05:35 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($12.03 in chips) 
+Seat 3: 1RagingBull1 ($16.40 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: Aviator321 ($11.92 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath: raises $0.14 to $0.24
+Aviator321: folds 
+faust36: folds 
+koiotity: folds 
+1RagingBull1: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) folded before Flop
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath collected ($0.25)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567307989:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:05:50 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($11.98 in chips) 
+Seat 3: 1RagingBull1 ($16.30 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+Seat 6: Aviator321 ($11.92 in chips) 
+1RagingBull1: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+Aviator321: folds 
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Uncalled bet ($0.12) returned to faust36
+faust36 collected $0.25 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 collected ($0.25)
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567314277:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:06:07 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.15 in chips) 
+Seat 2: koiotity ($11.98 in chips) 
+Seat 3: 1RagingBull1 ($16.25 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+Seat 6: Aviator321 ($11.92 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321 has timed out
+Aviator321: folds 
+faust36: folds 
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Uncalled bet ($0.05) returned to Zokath
+Zokath collected $0.10 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($0.10)
+Seat 6: Aviator321 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567325504:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:06:36 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.15 in chips) 
+Seat 2: koiotity ($11.98 in chips) 
+Seat 3: 1RagingBull1 ($16.25 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.55 in chips) 
+Zokath: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+1RagingBull1: raises $0.10 to $0.20
+VsegdaBlefuy: folds 
+Zokath: folds 
+faust36: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.25 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 collected ($0.25)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567334885:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:07:00 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.05 in chips) 
+Seat 2: koiotity ($11.98 in chips) 
+Seat 3: 1RagingBull1 ($16.40 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+Aviator321 leaves the table
+reeqar joins the table at seat #6 
+1RagingBull1: folds 
+VsegdaBlefuy: raises $0.15 to $0.25
+Zokath: folds 
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.15) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.25 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy collected ($0.25)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567340475:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:07:14 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($11.88 in chips) 
+Seat 3: 1RagingBull1 ($16.40 in chips) 
+Seat 4: VsegdaBlefuy ($10.15 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath: folds 
+reeqar leaves the table
+JDOL69 joins the table at seat #6 
+JDOL69 leaves the table
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.05) returned to 1RagingBull1
+1RagingBull1 collected $0.10 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: 1RagingBull1 (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567349748:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:07:38 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($11.83 in chips) 
+Seat 3: 1RagingBull1 ($16.45 in chips) 
+Seat 4: VsegdaBlefuy ($10.15 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+1RagingBull1: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+diman1991 joins the table at seat #6 
+Zokath: folds 
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1: folds 
+VsegdaBlefuy: raises $0.65 to $0.90
+koiotity: calls $0.65
+*** FLOP *** [Ts 9c 2h]
+diman1991 leaves the table
+VsegdaBlefuy: bets $0.89
+koiotity: calls $0.89
+*** TURN *** [Ts 9c 2h] [4d]
+VsegdaBlefuy: bets $1.74
+Shomsie joins the table at seat #6 
+koiotity: calls $1.74
+*** RIVER *** [Ts 9c 2h 4d] [8h]
+VsegdaBlefuy: checks 
+koiotity: bets $8.30 and is all-in
+VsegdaBlefuy: folds 
+Uncalled bet ($8.30) returned to koiotity
+koiotity collected $6.79 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.11 | Rake $0.32 
+Board [Ts 9c 2h 4d 8h]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity (button) collected ($6.79)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded on the River
+Seat 5: Zokath folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567380328:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:08:58 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($15.09 in chips) 
+Seat 3: 1RagingBull1 ($16.40 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+Shomsie: sits out 
+*** HOLE CARDS ***
+Shomsie leaves the table
+faust36: raises $0.12 to $0.22
+chana88851 joins the table at seat #6 
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+Uncalled bet ($0.12) returned to faust36
+faust36 collected $0.25 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 collected ($0.25)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567387338:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:09:16 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.15 in chips) 
+Seat 2: koiotity ($15.09 in chips) 
+Seat 3: 1RagingBull1 ($16.40 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.40 in chips) 
+Seat 6: chana88851 ($8 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+koiotity: folds 
+1RagingBull1: raises $0.10 to $0.20
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: raises $0.10 to $0.30
+1RagingBull1: calls $0.10
+*** FLOP *** [6s 6c 9d]
+chana88851: checks 
+1RagingBull1: checks 
+*** TURN *** [6s 6c 9d] [6d]
+chana88851: bets $0.10
+1RagingBull1: calls $0.10
+*** RIVER *** [6s 6c 9d 6d] [Jh]
+chana88851: bets $0.81
+1RagingBull1: folds 
+Uncalled bet ($0.81) returned to chana88851
+chana88851 collected $0.81 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [6s 6c 9d 6d Jh]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded on the River
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) collected ($0.81)
+
+
+
+PokerStars Hand #201567410538:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:10:16 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.15 in chips) 
+Seat 2: koiotity ($15.09 in chips) 
+Seat 3: 1RagingBull1 ($16 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.41 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+Uncalled bet ($0.05) returned to faust36
+faust36 collected $0.10 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (big blind) collected ($0.10)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567419760:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:10:39 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.20 in chips) 
+Seat 2: koiotity ($15.09 in chips) 
+Seat 3: 1RagingBull1 ($16 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: raises $0.16 to $0.26
+koiotity: folds 
+Uncalled bet ($0.16) returned to faust36
+faust36 collected $0.20 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 (small blind) collected ($0.20)
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567430499:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:11:07 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.30 in chips) 
+Seat 2: koiotity ($14.99 in chips) 
+Seat 3: 1RagingBull1 ($16 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1: calls $0.15
+*** FLOP *** [Qs Ks 2c]
+koiotity: checks 
+1RagingBull1: checks 
+*** TURN *** [Qs Ks 2c] [4h]
+koiotity: bets $0.10
+1RagingBull1: folds 
+Uncalled bet ($0.10) returned to koiotity
+koiotity collected $0.48 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [Qs Ks 2c 4h]
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) collected ($0.48)
+Seat 3: 1RagingBull1 (big blind) folded on the Turn
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567443074:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:11:40 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.30 in chips) 
+Seat 2: koiotity ($15.22 in chips) 
+Seat 3: 1RagingBull1 ($15.75 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+1RagingBull1: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+1RagingBull1: raises $0.10 to $0.20
+VsegdaBlefuy: raises $0.60 to $0.80
+1RagingBull1: folds 
+Uncalled bet ($0.60) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.40 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) collected ($0.40)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567451370:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:12:01 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.30 in chips) 
+Seat 2: koiotity ($15.22 in chips) 
+Seat 3: 1RagingBull1 ($15.55 in chips) 
+Seat 4: VsegdaBlefuy ($10.20 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Uncalled bet ($0.05) returned to Zokath
+Zokath collected $0.10 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($0.10)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567459206:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:12:21 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.30 in chips) 
+Seat 2: koiotity ($15.22 in chips) 
+Seat 3: 1RagingBull1 ($15.55 in chips) 
+Seat 4: VsegdaBlefuy ($10.15 in chips) 
+Seat 5: Zokath ($10.40 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+koiotity: folds 
+1RagingBull1: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+Uncalled bet ($0.05) returned to chana88851
+chana88851 collected $0.10 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201567464712:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:12:35 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.30 in chips) 
+Seat 2: koiotity ($15.22 in chips) 
+Seat 3: 1RagingBull1 ($15.55 in chips) 
+Seat 4: VsegdaBlefuy ($10.15 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.41 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: raises $0.20 to $0.30
+1RagingBull1: folds 
+VsegdaBlefuy: calls $0.30
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+*** FLOP *** [Jd Ah Kd]
+koiotity: bets $0.50
+VsegdaBlefuy: folds 
+Uncalled bet ($0.50) returned to koiotity
+koiotity collected $0.72 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Jd Ah Kd]
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity collected ($0.72)
+Seat 3: 1RagingBull1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded on the Flop
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567474978:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:13:02 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.20 in chips) 
+Seat 2: koiotity ($15.64 in chips) 
+Seat 3: 1RagingBull1 ($15.55 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+1RagingBull1: raises $0.10 to $0.20
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.10) returned to 1RagingBull1
+1RagingBull1 collected $0.25 from pot
+1RagingBull1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) folded before Flop
+Seat 3: 1RagingBull1 collected ($0.25)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567481301:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:13:18 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.15 in chips) 
+Seat 2: koiotity ($15.54 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+koiotity: posts small blind $0.05
+1RagingBull1: is sitting out 
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: raises $0.14 to $0.24
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+VsegdaBlefuy: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded before Flop
+Seat 5: Zokath collected ($0.25)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567487748:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:13:34 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10.15 in chips) 
+Seat 2: koiotity ($15.49 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10.50 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+VsegdaBlefuy: folds 
+Zokath: calls $0.12
+*** FLOP *** [6h 7s Ks]
+Zokath: checks 
+faust36: bets $0.28
+Zokath: calls $0.28
+*** TURN *** [6h 7s Ks] [3c]
+Zokath: checks 
+faust36: bets $0.70
+Zokath: calls $0.70
+*** RIVER *** [6h 7s Ks 3c] [Js]
+Zokath: bets $1.80
+faust36: folds 
+Uncalled bet ($1.80) returned to Zokath
+Zokath collected $2.34 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [6h 7s Ks 3c Js]
+Seat 1: faust36 folded on the River
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($2.34)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567507542:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:14:25 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($15.49 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($11.64 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+1RagingBull1 leaves the table
+VsegdaBlefuy: folds 
+Zokath: folds 
+Marcin7878 joins the table at seat #3 
+chana88851: folds 
+Uncalled bet ($0.15) returned to koiotity
+koiotity collected $0.25 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity collected ($0.25)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567518347:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:14:52 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($15.64 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($11.59 in chips) 
+Seat 6: chana88851 ($8.26 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+Marcin7878: sits out 
+*** HOLE CARDS ***
+koiotity: raises $0.20 to $0.30
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.20) returned to koiotity
+koiotity collected $0.25 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity collected ($0.25)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567525153:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:15:10 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($9.90 in chips) 
+Seat 2: koiotity ($15.79 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($11.59 in chips) 
+Seat 6: chana88851 ($8.21 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+Marcin7878: sits out 
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath has timed out
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.05) returned to koiotity
+koiotity collected $0.10 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567533525:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:15:30 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($15.84 in chips) 
+Seat 3: Marcin7878 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.21 in chips) 
+koiotity: posts small blind $0.05
+Marcin7878: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.05) returned to Marcin7878
+Marcin7878 collected $0.10 from pot
+Marcin7878: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: Marcin7878 (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567537498:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:15:40 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($15.79 in chips) 
+Seat 3: Marcin7878 ($10.05 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.21 in chips) 
+Marcin7878: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+Marcin7878: folds 
+Uncalled bet ($0.05) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.10 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: Marcin7878 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) collected ($0.10)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567542832:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:15:54 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10 in chips) 
+Seat 2: koiotity ($15.79 in chips) 
+Seat 3: Marcin7878 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.05 in chips) 
+Seat 6: chana88851 ($8.21 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: raises $0.12 to $0.22
+koiotity: folds 
+Marcin7878: folds 
+VsegdaBlefuy: calls $0.17
+chana88851: folds 
+*** FLOP *** [Th 8c 6h]
+VsegdaBlefuy: checks 
+faust36: bets $0.31
+VsegdaBlefuy: calls $0.31
+*** TURN *** [Th 8c 6h] [8d]
+VsegdaBlefuy: checks 
+faust36: bets $0.70
+VsegdaBlefuy: calls $0.70
+*** RIVER *** [Th 8c 6h 8d] [7s]
+VsegdaBlefuy: checks 
+faust36: checks 
+*** SHOW DOWN ***
+VsegdaBlefuy: shows [Kd Td] (two pair, Tens and Eights)
+faust36: shows [As Ah] (two pair, Aces and Eights)
+faust36 collected $2.44 from pot
+*** SUMMARY ***
+Total pot $2.56 | Rake $0.12 
+Board [Th 8c 6h 8d 7s]
+Seat 1: faust36 showed [As Ah] and won ($2.44) with two pair, Aces and Eights
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: Marcin7878 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) showed [Kd Td] and lost with two pair, Tens and Eights
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567559832:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:16:37 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($11.21 in chips) 
+Seat 2: koiotity ($15.79 in chips) 
+Seat 3: Marcin7878 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.11 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: raises $0.20 to $0.30
+Marcin7878: calls $0.30
+VsegdaBlefuy: folds 
+chana88851: folds 
+faust36: calls $0.20
+*** FLOP *** [2c Ac 3h]
+faust36: checks 
+koiotity: bets $0.60
+Marcin7878: folds 
+faust36: calls $0.60
+*** TURN *** [2c Ac 3h] [3c]
+faust36: checks 
+koiotity: checks 
+*** RIVER *** [2c Ac 3h 3c] [Qc]
+faust36: checks 
+koiotity: checks 
+*** SHOW DOWN ***
+faust36: shows [9c 9h] (a flush, Ace high)
+koiotity: mucks hand 
+faust36 collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [2c Ac 3h 3c Qc]
+Seat 1: faust36 (big blind) showed [9c 9h] and won ($2.05) with a flush, Ace high
+Seat 2: koiotity mucked
+Seat 3: Marcin7878 folded on the Flop
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567582128:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:17:34 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($12.36 in chips) 
+Seat 2: koiotity ($14.89 in chips) 
+Seat 3: Marcin7878 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.06 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+Marcin7878: folds 
+VsegdaBlefuy: folds 
+chana88851: calls $0.10
+faust36: folds 
+koiotity: raises $0.35 to $0.45
+chana88851: folds 
+Uncalled bet ($0.35) returned to koiotity
+koiotity collected $0.25 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) collected ($0.25)
+Seat 3: Marcin7878 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop
+
+
+
+PokerStars Hand #201567592547:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:18:00 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($12.31 in chips) 
+Seat 2: koiotity ($15.04 in chips) 
+Seat 3: Marcin7878 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($7.96 in chips) 
+koiotity: posts small blind $0.05
+Marcin7878: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.05) returned to Marcin7878
+Marcin7878 collected $0.10 from pot
+Marcin7878: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: Marcin7878 (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567598072:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:18:14 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($12.31 in chips) 
+Seat 2: koiotity ($14.99 in chips) 
+Seat 3: Marcin7878 ($10.05 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($7.96 in chips) 
+Marcin7878: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+chana88851: folds 
+faust36 has timed out
+faust36: folds 
+koiotity: folds 
+Marcin7878: raises $0.17 to $0.27
+VsegdaBlefuy: raises $0.63 to $0.90
+Marcin7878: folds 
+Uncalled bet ($0.63) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.54 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.54 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: Marcin7878 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) collected ($0.54)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567609418:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:18:42 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($12.31 in chips) 
+Seat 2: koiotity ($14.99 in chips) 
+Seat 4: VsegdaBlefuy ($10.27 in chips) 
+Seat 6: chana88851 ($7.96 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+Marcin7878 leaves the table
+VsegdaBlefuy: raises $0.15 to $0.25
+Y.Z.#9 joins the table at seat #3 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.15) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.25 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) collected ($0.25)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567614943:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:18:57 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($12.21 in chips) 
+Seat 2: koiotity ($14.99 in chips) 
+Seat 4: VsegdaBlefuy ($10.42 in chips) 
+Seat 6: chana88851 ($7.91 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.05) returned to koiotity
+koiotity collected $0.10 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567620996:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:19:12 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($12.16 in chips) 
+Seat 2: koiotity ($15.04 in chips) 
+Seat 4: VsegdaBlefuy ($10.42 in chips) 
+Seat 6: chana88851 ($7.91 in chips) 
+koiotity: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+Zokath: sits out 
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: raises $0.12 to $0.22
+koiotity: calls $0.17
+VsegdaBlefuy: raises $0.98 to $1.20
+faust36: folds 
+koiotity: folds 
+Uncalled bet ($0.98) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.66 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.66 | Rake $0 
+Seat 1: faust36 (button) folded before Flop
+Seat 2: koiotity (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) collected ($0.66)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567634831:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:19:47 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($11.94 in chips) 
+Seat 2: koiotity ($14.82 in chips) 
+Seat 4: VsegdaBlefuy ($10.86 in chips) 
+Seat 5: Zokath ($11.59 in chips) 
+Seat 6: chana88851 ($7.91 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+VsegdaBlefuy: folds 
+Zokath: calls $0.15
+*** FLOP *** [Kd Jh Kc]
+Zokath: checks 
+koiotity: bets $0.25
+Zokath: calls $0.25
+*** TURN *** [Kd Jh Kc] [Qh]
+Zokath: checks 
+koiotity: checks 
+*** RIVER *** [Kd Jh Kc Qh] [9d]
+Zokath: checks 
+koiotity: checks 
+*** SHOW DOWN ***
+Zokath: shows [8h Kh] (three of a kind, Kings)
+koiotity: shows [Ks Ac] (three of a kind, Kings - Ace kicker)
+koiotity collected $1 from pot
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Kd Jh Kc Qh 9d]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity (button) showed [Ks Ac] and won ($1) with three of a kind, Kings
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) showed [8h Kh] and lost with three of a kind, Kings
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567647483:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:20:19 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($11.94 in chips) 
+Seat 2: koiotity ($15.32 in chips) 
+Seat 4: VsegdaBlefuy ($10.81 in chips) 
+Seat 5: Zokath ($11.09 in chips) 
+Seat 6: chana88851 ($7.91 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+koiotity: raises $0.15 to $0.25
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+Uncalled bet ($0.15) returned to koiotity
+koiotity collected $0.25 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity collected ($0.25)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567654398:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:20:37 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($11.94 in chips) 
+Seat 2: koiotity ($15.47 in chips) 
+Seat 4: VsegdaBlefuy ($10.81 in chips) 
+Seat 5: Zokath ($11.04 in chips) 
+Seat 6: chana88851 ($7.81 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+VsegdaBlefuy: folds 
+Zokath: raises $0.14 to $0.24
+chana88851: folds 
+faust36: raises $0.66 to $0.90
+Zokath: folds 
+Uncalled bet ($0.66) returned to faust36
+faust36 collected $0.53 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.53 | Rake $0 
+Seat 1: faust36 (big blind) collected ($0.53)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567662931:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:20:58 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($12.23 in chips) 
+Seat 2: koiotity ($15.47 in chips) 
+Seat 4: VsegdaBlefuy ($10.81 in chips) 
+Seat 5: Zokath ($10.80 in chips) 
+Seat 6: chana88851 ($7.76 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.05) returned to koiotity
+koiotity collected $0.10 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567668730:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:21:13 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($12.18 in chips) 
+Seat 2: koiotity ($15.52 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.81 in chips) 
+Seat 5: Zokath ($10.80 in chips) 
+Seat 6: chana88851 ($7.76 in chips) 
+koiotity: posts small blind $0.05
+Y.Z.#9: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: raises $0.10 to $0.20
+faust36: folds 
+koiotity: folds 
+Y.Z.#9: folds 
+Uncalled bet ($0.10) returned to chana88851
+chana88851 collected $0.25 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: Y.Z.#9 (big blind) folded before Flop
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 collected ($0.25)
+
+
+
+PokerStars Hand #201567676762:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:21:33 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($12.18 in chips) 
+Seat 2: koiotity ($15.47 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.81 in chips) 
+Seat 5: Zokath ($10.80 in chips) 
+Seat 6: chana88851 ($7.91 in chips) 
+Y.Z.#9: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+chana88851: folds 
+faust36: raises $0.12 to $0.22
+koiotity: raises $0.44 to $0.66
+Y.Z.#9: calls $0.61
+VsegdaBlefuy: folds 
+faust36: folds 
+*** FLOP *** [3d 9h Td]
+Y.Z.#9: checks 
+koiotity: checks 
+*** TURN *** [3d 9h Td] [Jh]
+Y.Z.#9: checks 
+koiotity: bets $0.90
+Y.Z.#9: folds 
+Uncalled bet ($0.90) returned to koiotity
+koiotity collected $1.57 from pot
+koiotity: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.64 | Rake $0.07 
+Board [3d 9h Td Jh]
+Seat 1: faust36 folded before Flop
+Seat 2: koiotity (button) collected ($1.57)
+Seat 3: Y.Z.#9 (small blind) folded on the Turn
+Seat 4: VsegdaBlefuy (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567696224:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:22:22 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($11.96 in chips) 
+Seat 2: koiotity ($16.38 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.71 in chips) 
+Seat 5: Zokath ($10.80 in chips) 
+Seat 6: chana88851 ($7.91 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: calls $0.10
+faust36: folds 
+koiotity: raises $0.30 to $0.40
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: calls $0.30
+chana88851: raises $0.30 to $0.70
+koiotity: calls $0.30
+Zokath: calls $0.30
+*** FLOP *** [7s 5c 5s]
+Zokath: checks 
+chana88851: checks 
+koiotity: checks 
+*** TURN *** [7s 5c 5s] [Qc]
+Zokath: checks 
+chana88851: bets $1.03
+koiotity: folds 
+Zokath: folds 
+Uncalled bet ($1.03) returned to chana88851
+chana88851 collected $2.05 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [7s 5c 5s Qc]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded on the Turn
+Seat 3: Y.Z.#9 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) folded on the Turn
+Seat 6: chana88851 collected ($2.05)
+
+
+
+PokerStars Hand #201567718717:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:23:19 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($11.96 in chips) 
+Seat 2: koiotity ($15.68 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.66 in chips) 
+Seat 5: Zokath ($10.10 in chips) 
+Seat 6: chana88851 ($9.26 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+koiotity: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: raises $0.14 to $0.24
+chana88851: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.20 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) collected ($0.20)
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567729509:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:23:46 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($11.96 in chips) 
+Seat 2: koiotity ($15.68 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.66 in chips) 
+Seat 5: Zokath ($10.20 in chips) 
+Seat 6: chana88851 ($9.16 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: raises $0.14 to $0.24
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.14) returned to Zokath
+Zokath collected $0.25 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) collected ($0.25)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567739528:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:24:11 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($11.86 in chips) 
+Seat 2: koiotity ($15.68 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.66 in chips) 
+Seat 5: Zokath ($10.35 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+faust36: posts small blind $0.05
+koiotity: posts big blind $0.10
+*** HOLE CARDS ***
+Y.Z.#9: folds 
+VsegdaBlefuy: raises $0.15 to $0.25
+Zokath: calls $0.25
+chana88851: folds 
+faust36: folds 
+koiotity: calls $0.15
+*** FLOP *** [4c 9h 6c]
+koiotity: checks 
+VsegdaBlefuy: checks 
+Zokath: bets $0.55
+koiotity: calls $0.55
+VsegdaBlefuy: folds 
+*** TURN *** [4c 9h 6c] [Ks]
+koiotity: checks 
+Zokath: bets $1.30
+koiotity: calls $1.30
+*** RIVER *** [4c 9h 6c Ks] [Ah]
+koiotity: checks 
+Zokath: bets $2.89
+koiotity: calls $2.89
+*** SHOW DOWN ***
+Zokath: shows [Jc Tc] (high card Ace)
+koiotity: shows [Ac 2c] (a pair of Aces)
+koiotity collected $9.82 from pot
+*** SUMMARY ***
+Total pot $10.28 | Rake $0.46 
+Board [4c 9h 6c Ks Ah]
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: koiotity (big blind) showed [Ac 2c] and won ($9.82) with a pair of Aces
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded on the Flop
+Seat 5: Zokath showed [Jc Tc] and lost with high card Ace
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567773249:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:25:36 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($11.81 in chips) 
+Seat 2: koiotity ($20.51 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.41 in chips) 
+Seat 5: Zokath ($8.60 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+koiotity: posts small blind $0.05
+Y.Z.#9: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: raises $0.15 to $0.25
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+Y.Z.#9: folds 
+Uncalled bet ($0.15) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.25 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: koiotity (small blind) folded before Flop
+Seat 3: Y.Z.#9 (big blind) folded before Flop
+Seat 4: VsegdaBlefuy collected ($0.25)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567778153:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:25:48 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($11.81 in chips) 
+Seat 2: koiotity ($20.46 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.56 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+Y.Z.#9: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: raises $0.14 to $0.24
+chana88851: folds 
+faust36: calls $0.24
+koiotity: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+*** FLOP *** [2c Jd 2s]
+Zokath: bets $0.19
+faust36: calls $0.19
+*** TURN *** [2c Jd 2s] [Qc]
+Zokath: bets $0.50
+faust36: calls $0.50
+*** RIVER *** [2c Jd 2s Qc] [Jc]
+Zokath: bets $1.40
+faust36: folds 
+Uncalled bet ($1.40) returned to Zokath
+Zokath collected $1.92 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.01 | Rake $0.09 
+Board [2c Jd 2s Qc Jc]
+Seat 1: faust36 folded on the River
+Seat 2: koiotity (button) folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded before Flop
+Seat 5: Zokath collected ($1.92)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567798708:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:26:40 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.88 in chips) 
+Seat 2: koiotity ($20.46 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.46 in chips) 
+Seat 5: Zokath ($10.99 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: folds 
+koiotity: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Uncalled bet ($0.05) returned to Zokath
+Zokath collected $0.10 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: Zokath (big blind) collected ($0.10)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567806356:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:26:59 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.88 in chips) 
+Seat 2: koiotity ($20.46 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.41 in chips) 
+Seat 5: Zokath ($11.04 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+koiotity: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+Uncalled bet ($0.05) returned to chana88851
+chana88851 collected $0.10 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201567814973:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:27:21 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.88 in chips) 
+Seat 2: koiotity ($20.46 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.41 in chips) 
+Seat 5: Zokath ($10.99 in chips) 
+Seat 6: chana88851 ($9.16 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity: folds 
+Y.Z.#9: raises $0.18 to $0.28
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.18) returned to Y.Z.#9
+Y.Z.#9 collected $0.25 from pot
+Y.Z.#9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (big blind) folded before Flop
+Seat 2: koiotity folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 collected ($0.25)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567827861:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:27:53 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.78 in chips) 
+Seat 3: Y.Z.#9 ($10.15 in chips) 
+Seat 4: VsegdaBlefuy ($10.41 in chips) 
+Seat 5: Zokath ($10.99 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+faust36: posts small blind $0.05
+koiotity: is sitting out 
+Y.Z.#9: posts big blind $0.10
+*** HOLE CARDS ***
+koiotity leaves the table
+Sun_Set_pro8 joins the table at seat #2 
+VsegdaBlefuy: raises $0.15 to $0.25
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Y.Z.#9: calls $0.15
+*** FLOP *** [2d 3h 6h]
+Sun_Set_pro8 leaves the table
+Jonni DOP joins the table at seat #2 
+Y.Z.#9: checks 
+VsegdaBlefuy: checks 
+*** TURN *** [2d 3h 6h] [Kc]
+Y.Z.#9: checks 
+VsegdaBlefuy: bets $0.30
+Y.Z.#9: folds 
+Uncalled bet ($0.30) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.53 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [2d 3h 6h Kc]
+Seat 1: faust36 (small blind) folded before Flop
+Seat 3: Y.Z.#9 (big blind) folded on the Turn
+Seat 4: VsegdaBlefuy collected ($0.53)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567862061:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:29:19 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($10.73 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.69 in chips) 
+Seat 5: Zokath ($10.99 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+Y.Z.#9: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: raises $0.14 to $0.24
+Jonni DOP leaves the table
+chana88851: folds 
+faust36: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: calls $0.14
+*** FLOP *** [5d Ks Jd]
+VsegdaBlefuy: checks 
+Zokath: checks 
+*** TURN *** [5d Ks Jd] [5c]
+VsegdaBlefuy: bets $0.34
+Debussy1 joins the table at seat #2 
+Zokath: calls $0.34
+*** RIVER *** [5d Ks Jd 5c] [Qd]
+VsegdaBlefuy: checks 
+Zokath: bets $0.90
+VsegdaBlefuy: folds 
+Uncalled bet ($0.90) returned to Zokath
+Zokath collected $1.16 from pot
+Zokath: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.05 
+Board [5d Ks Jd 5c Qd]
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded on the River
+Seat 5: Zokath collected ($1.16)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567880150:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:30:04 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($10.73 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.11 in chips) 
+Seat 5: Zokath ($11.57 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+Debussy1: sits out 
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: folds 
+Y.Z.#9: raises $0.10 to $0.20
+VsegdaBlefuy: raises $0.60 to $0.80
+Zokath: folds 
+Y.Z.#9: folds 
+Uncalled bet ($0.60) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.50 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (button) folded before Flop
+Seat 4: VsegdaBlefuy (small blind) collected ($0.50)
+Seat 5: Zokath (big blind) folded before Flop
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567890290:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:30:29 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($10.73 in chips) 
+Seat 3: Y.Z.#9 ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.41 in chips) 
+Seat 5: Zokath ($11.47 in chips) 
+Seat 6: chana88851 ($9.11 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+Debussy1: sits out 
+*** HOLE CARDS ***
+faust36: raises $0.12 to $0.22
+Y.Z.#9: raises $0.73 to $0.95
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Uncalled bet ($0.73) returned to Y.Z.#9
+Y.Z.#9 collected $0.59 from pot
+Y.Z.#9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.59 | Rake $0 
+Seat 1: faust36 folded before Flop
+Seat 3: Y.Z.#9 collected ($0.59)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201567902374:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:31:00 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($10.51 in chips) 
+Seat 3: Y.Z.#9 ($10.37 in chips) 
+Seat 4: VsegdaBlefuy ($10.41 in chips) 
+Seat 5: Zokath ($11.42 in chips) 
+Seat 6: chana88851 ($9.01 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+Debussy1: sits out 
+*** HOLE CARDS ***
+Y.Z.#9: folds 
+VsegdaBlefuy: raises $0.15 to $0.25
+Zokath: calls $0.25
+chana88851: folds 
+faust36: raises $0.75 to $1
+VsegdaBlefuy: folds 
+Zokath: calls $0.75
+*** FLOP *** [6d 9c Qs]
+faust36: bets $1
+Zokath: calls $1
+*** TURN *** [6d 9c Qs] [5d]
+faust36: checks 
+Zokath: checks 
+*** RIVER *** [6d 9c Qs 5d] [Ah]
+faust36: bets $2.06
+Zokath: folds 
+Uncalled bet ($2.06) returned to faust36
+faust36 collected $4.11 from pot
+faust36: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.30 | Rake $0.19 
+Board [6d 9c Qs 5d Ah]
+Seat 1: faust36 (big blind) collected ($4.11)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop
+Seat 5: Zokath (button) folded on the River
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201567935959:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:32:23 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($12.62 in chips) 
+Seat 2: Debussy1 ($10 in chips) 
+Seat 3: Y.Z.#9 ($10.37 in chips) 
+Seat 4: VsegdaBlefuy ($10.16 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($8.96 in chips) 
+faust36: posts small blind $0.05
+Debussy1: posts big blind $0.10
+*** HOLE CARDS ***
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: raises $0.10 to $0.20
+faust36: folds 
+Debussy1: raises $0.60 to $0.80
+chana88851: folds 
+Uncalled bet ($0.60) returned to Debussy1
+Debussy1 collected $0.45 from pot
+Debussy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: Debussy1 (big blind) collected ($0.45)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop
+
+
+
+PokerStars Hand #201567956653:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:33:14 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: faust36 ($12.57 in chips) 
+Seat 2: Debussy1 ($10.25 in chips) 
+Seat 3: Y.Z.#9 ($10.37 in chips) 
+Seat 4: VsegdaBlefuy ($10.16 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($8.76 in chips) 
+Debussy1: posts small blind $0.05
+Y.Z.#9: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Debussy1: folds 
+Uncalled bet ($0.05) returned to Y.Z.#9
+Y.Z.#9 collected $0.10 from pot
+Y.Z.#9: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: faust36 (button) folded before Flop (didn't bet)
+Seat 2: Debussy1 (small blind) folded before Flop
+Seat 3: Y.Z.#9 (big blind) collected ($0.10)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567964856:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:33:34 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: faust36 ($12.57 in chips) 
+Seat 2: Debussy1 ($10.20 in chips) 
+Seat 3: Y.Z.#9 ($10.42 in chips) 
+Seat 4: VsegdaBlefuy ($10.16 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($8.76 in chips) 
+Y.Z.#9: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+chana88851: folds 
+faust36: folds 
+Debussy1: raises $0.10 to $0.20
+Y.Z.#9: folds 
+VsegdaBlefuy: raises $0.70 to $0.90
+Debussy1: raises $1.30 to $2.20
+VsegdaBlefuy: folds 
+Uncalled bet ($1.30) returned to Debussy1
+Debussy1 collected $1.85 from pot
+Debussy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: Debussy1 (button) collected ($1.85)
+Seat 3: Y.Z.#9 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded before Flop
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201567982871:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:34:18 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: faust36 ($12.57 in chips) 
+Seat 2: Debussy1 ($11.15 in chips) 
+Seat 3: Y.Z.#9 ($10.37 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($8.76 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: folds 
+faust36: folds 
+Debussy1: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: raises $0.20 to $0.30
+Zokath: calls $0.20
+*** FLOP *** [Tc Jh 4h]
+VsegdaBlefuy: bets $0.38
+Zokath: folds 
+Uncalled bet ($0.38) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.57 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Tc Jh 4h]
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) collected ($0.57)
+Seat 5: Zokath (big blind) folded on the Flop
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568001085:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:35:04 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: faust36 ($12.57 in chips) 
+Seat 2: Debussy1 ($11.15 in chips) 
+Seat 3: Y.Z.#9 ($10.37 in chips) 
+Seat 4: VsegdaBlefuy ($10.27 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($8.76 in chips) 
+Zokath: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+faust36: folds 
+Debussy1: folds 
+Y.Z.#9: raises $0.15 to $0.25
+VsegdaBlefuy: folds 
+Zokath: raises $0.75 to $1
+chana88851: folds 
+Y.Z.#9: raises $1.25 to $2.25
+Zokath: folds 
+Uncalled bet ($1.25) returned to Y.Z.#9
+Y.Z.#9 collected $2.10 from pot
+Y.Z.#9: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0 
+Seat 1: faust36 folded before Flop (didn't bet)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 collected ($2.10)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: Zokath (small blind) folded before Flop
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201568016275:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:35:41 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: faust36 ($12.57 in chips) 
+Seat 2: Debussy1 ($11.15 in chips) 
+Seat 3: Y.Z.#9 ($11.47 in chips) 
+Seat 4: VsegdaBlefuy ($10.27 in chips) 
+Seat 5: Zokath ($10 in chips) 
+Seat 6: chana88851 ($8.66 in chips) 
+chana88851: posts small blind $0.05
+faust36: posts big blind $0.10
+*** HOLE CARDS ***
+Debussy1: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: raises $0.14 to $0.24
+chana88851: raises $0.14 to $0.38
+faust36: calls $0.28
+Zokath: calls $0.14
+*** FLOP *** [Js Ah 8h]
+chana88851: checks 
+faust36: checks 
+Zokath: bets $0.57
+chana88851: folds 
+faust36: calls $0.57
+*** TURN *** [Js Ah 8h] [Ks]
+faust36: checks 
+Zokath: bets $1.57
+faust36: calls $1.57
+*** RIVER *** [Js Ah 8h Ks] [5h]
+faust36: checks 
+Zokath: checks 
+*** SHOW DOWN ***
+faust36: shows [Kd Jd] (two pair, Kings and Jacks)
+Zokath: shows [8c Ad] (two pair, Aces and Eights)
+Zokath collected $5.18 from pot
+*** SUMMARY ***
+Total pot $5.42 | Rake $0.24 
+Board [Js Ah 8h Ks 5h]
+Seat 1: faust36 (big blind) showed [Kd Jd] and lost with two pair, Kings and Jacks
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath (button) showed [8c Ad] and won ($5.18) with two pair, Aces and Eights
+Seat 6: chana88851 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #201568051994:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:37:10 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: faust36 ($10.05 in chips) 
+Seat 2: Debussy1 ($11.15 in chips) 
+Seat 3: Y.Z.#9 ($11.47 in chips) 
+Seat 4: VsegdaBlefuy ($10.27 in chips) 
+Seat 5: Zokath ($12.66 in chips) 
+Seat 6: chana88851 ($8.28 in chips) 
+faust36: posts small blind $0.05
+Debussy1: posts big blind $0.10
+*** HOLE CARDS ***
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+Zokath: folds 
+chana88851: raises $0.10 to $0.20
+faust36: folds 
+Debussy1: folds 
+Uncalled bet ($0.10) returned to chana88851
+faust36 leaves the table
+chana88851 collected $0.25 from pot
+chana88851: doesn't show hand 
+Jonni DOP joins the table at seat #1 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: faust36 (small blind) folded before Flop
+Seat 2: Debussy1 (big blind) folded before Flop
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 (button) collected ($0.25)
+
+
+
+PokerStars Hand #201568060625:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:37:31 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: Debussy1 ($11.05 in chips) 
+Seat 3: Y.Z.#9 ($11.47 in chips) 
+Seat 4: VsegdaBlefuy ($10.27 in chips) 
+Seat 5: Zokath ($12.66 in chips) 
+Seat 6: chana88851 ($8.43 in chips) 
+Y.Z.#9: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath: folds 
+chana88851: folds 
+Debussy1: raises $0.10 to $0.20
+Jonni DOP leaves the table
+micksher joins the table at seat #1 
+Y.Z.#9: folds 
+VsegdaBlefuy: calls $0.10
+*** FLOP *** [4c 9s 3d]
+VsegdaBlefuy: checks 
+micksher leaves the table
+yretcprof060204 joins the table at seat #1 
+Debussy1: bets $0.14
+VsegdaBlefuy: calls $0.14
+*** TURN *** [4c 9s 3d] [Td]
+VsegdaBlefuy: checks 
+Debussy1: bets $0.91
+VsegdaBlefuy: folds 
+Uncalled bet ($0.91) returned to Debussy1
+Debussy1 collected $0.70 from pot
+Debussy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.73 | Rake $0.03 
+Board [4c 9s 3d Td]
+Seat 2: Debussy1 (button) collected ($0.70)
+Seat 3: Y.Z.#9 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded on the Turn
+Seat 5: Zokath folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568085578:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:38:33 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: yretcprof060204 ($10 in chips) 
+Seat 2: Debussy1 ($11.41 in chips) 
+Seat 3: Y.Z.#9 ($11.42 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.43 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+Zokath: is sitting out 
+chana88851: posts big blind $0.10
+yretcprof060204: posts big blind $0.10
+*** HOLE CARDS ***
+Zokath leaves the table
+yretcprof060204: checks 
+Debussy1: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: raises $0.40 to $0.50
+chana88851: folds 
+drianoher joins the table at seat #5 
+yretcprof060204: calls $0.40
+*** FLOP *** [7h 5s 9s]
+VsegdaBlefuy: checks 
+yretcprof060204: bets $0.50
+VsegdaBlefuy: folds 
+Uncalled bet ($0.50) returned to yretcprof060204
+yretcprof060204 collected $1.05 from pot
+yretcprof060204: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [7h 5s 9s]
+Seat 1: yretcprof060204 collected ($1.05)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded on the Flop
+Seat 6: chana88851 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201568098921:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:39:07 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: yretcprof060204 ($10.55 in chips) 
+Seat 2: Debussy1 ($11.41 in chips) 
+Seat 3: Y.Z.#9 ($11.42 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.33 in chips) 
+chana88851: posts small blind $0.05
+yretcprof060204: posts big blind $0.10
+*** HOLE CARDS ***
+Debussy1: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: raises $0.15 to $0.25
+chana88851: calls $0.20
+yretcprof060204 has timed out
+yretcprof060204: folds 
+*** FLOP *** [Qs 8s Kh]
+chana88851: checks 
+VsegdaBlefuy: checks 
+*** TURN *** [Qs 8s Kh] [7s]
+chana88851: bets $0.29
+VsegdaBlefuy: folds 
+Uncalled bet ($0.29) returned to chana88851
+chana88851 collected $0.57 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Qs 8s Kh 7s]
+Seat 1: yretcprof060204 (big blind) folded before Flop
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) folded on the Turn
+Seat 6: chana88851 (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #201568131214:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:40:26 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: yretcprof060204 ($10.45 in chips) 
+Seat 2: Debussy1 ($11.41 in chips) 
+Seat 3: Y.Z.#9 ($11.42 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($8.65 in chips) 
+yretcprof060204: posts small blind $0.05
+Debussy1: posts big blind $0.10
+drianoher: sits out 
+*** HOLE CARDS ***
+Y.Z.#9: folds 
+VsegdaBlefuy: folds 
+chana88851: raises $0.10 to $0.20
+yretcprof060204: folds 
+Debussy1: calls $0.10
+*** FLOP *** [7s 8c 6s]
+yretcprof060204 leaves the table
+Debussy1: checks 
+chana88851: checks 
+*** TURN *** [7s 8c 6s] [3h]
+reeqar joins the table at seat #1 
+Debussy1: bets $0.22
+chana88851: raises $0.22 to $0.44
+Debussy1: folds 
+Uncalled bet ($0.22) returned to chana88851
+chana88851 collected $0.85 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [7s 8c 6s 3h]
+Seat 1: yretcprof060204 (small blind) folded before Flop
+Seat 2: Debussy1 (big blind) folded on the Turn
+Seat 3: Y.Z.#9 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 6: chana88851 (button) collected ($0.85)
+
+
+
+PokerStars Hand #201568163965:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:41:48 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: Debussy1 ($10.99 in chips) 
+Seat 3: Y.Z.#9 ($11.42 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($9.08 in chips) 
+Y.Z.#9: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+drianoher: sits out 
+*** HOLE CARDS ***
+chana88851: calls $0.10
+Debussy1: folds 
+Y.Z.#9: folds 
+VsegdaBlefuy: checks 
+*** FLOP *** [8s Qh 2s]
+VsegdaBlefuy: checks 
+chana88851: checks 
+*** TURN *** [8s Qh 2s] [Ac]
+VsegdaBlefuy: checks 
+chana88851: bets $0.12
+Y.Z.#9 leaves the table
+VsegdaBlefuy: folds 
+Uncalled bet ($0.12) returned to chana88851
+chana88851 collected $0.24 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8s Qh 2s Ac]
+Seat 2: Debussy1 (button) folded before Flop (didn't bet)
+Seat 3: Y.Z.#9 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded on the Turn
+Seat 6: chana88851 collected ($0.24)
+
+
+
+PokerStars Hand #201568188699:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:42:49 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: reeqar ($10 in chips) 
+Seat 2: Debussy1 ($10.99 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($9.22 in chips) 
+chana88851: posts small blind $0.05
+reeqar: posts big blind $0.10
+*** HOLE CARDS ***
+Debussy1: folds 
+VsegdaBlefuy: folds 
+Shomsie joins the table at seat #3 
+chana88851: raises $0.10 to $0.20
+reeqar: calls $0.10
+*** FLOP *** [Js 7d Jh]
+chana88851: checks 
+reeqar: bets $0.19
+chana88851: folds 
+Uncalled bet ($0.19) returned to reeqar
+reeqar collected $0.38 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.40 | Rake $0.02 
+Board [Js 7d Jh]
+Seat 1: reeqar (big blind) collected ($0.38)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #201568213792:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:43:50 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: reeqar ($10.18 in chips) 
+Seat 2: Debussy1 ($10.99 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($9.02 in chips) 
+reeqar: posts small blind $0.05
+Debussy1: posts big blind $0.10
+Shomsie: sits out 
+drianoher: sits out 
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+chana88851: folds 
+reeqar: raises $0.20 to $0.30
+Debussy1: folds 
+Uncalled bet ($0.20) returned to reeqar
+reeqar collected $0.20 from pot
+reeqar: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: reeqar (small blind) collected ($0.20)
+Seat 2: Debussy1 (big blind) folded before Flop
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 6: chana88851 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568221374:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:44:09 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: reeqar ($10.28 in chips) 
+Seat 2: Debussy1 ($10.89 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 6: chana88851 ($9.02 in chips) 
+Debussy1: posts small blind $0.05
+Shomsie: posts big blind $0.10
+drianoher: sits out 
+*** HOLE CARDS ***
+VsegdaBlefuy: raises $0.15 to $0.25
+chana88851: folds 
+reeqar: folds 
+Debussy1: folds 
+Shomsie: folds 
+Uncalled bet ($0.15) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.25 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: Debussy1 (small blind) folded before Flop
+Seat 3: Shomsie (big blind) folded before Flop
+Seat 4: VsegdaBlefuy collected ($0.25)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568226340:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:44:22 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: reeqar ($10.28 in chips) 
+Seat 2: Debussy1 ($10.84 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.15 in chips) 
+Seat 6: chana88851 ($9.02 in chips) 
+Shomsie: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+drianoher: sits out 
+*** HOLE CARDS ***
+chana88851: folds 
+reeqar: folds 
+Debussy1: raises $0.10 to $0.20
+Shomsie: folds 
+VsegdaBlefuy: calls $0.10
+*** FLOP *** [Td Ac Jh]
+VsegdaBlefuy: checks 
+Debussy1: checks 
+*** TURN *** [Td Ac Jh] [Ah]
+VsegdaBlefuy: checks 
+Debussy1: checks 
+*** RIVER *** [Td Ac Jh Ah] [8d]
+VsegdaBlefuy: checks 
+Debussy1: bets $0.14
+VsegdaBlefuy: folds 
+Uncalled bet ($0.14) returned to Debussy1
+Debussy1 collected $0.43 from pot
+Debussy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Td Ac Jh Ah 8d]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: Debussy1 (button) collected ($0.43)
+Seat 3: Shomsie (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded on the River
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568256128:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:45:36 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: reeqar ($10.28 in chips) 
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: drianoher ($10.23 in chips) 
+Seat 6: chana88851 ($9.02 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+chana88851: raises $0.10 to $0.20
+reeqar: folds 
+Debussy1: folds 
+Shomsie: folds 
+VsegdaBlefuy: folds 
+drianoher: folds 
+Uncalled bet ($0.10) returned to chana88851
+chana88851 collected $0.25 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Shomsie (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: drianoher (big blind) folded before Flop
+Seat 6: chana88851 collected ($0.25)
+
+
+
+PokerStars Hand #201568263767:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:45:54 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 1: reeqar ($10.28 in chips) 
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10 in chips) 
+Seat 5: drianoher ($10.13 in chips) 
+Seat 6: chana88851 ($9.17 in chips) 
+drianoher: posts small blind $0.05
+chana88851: posts big blind $0.10
+*** HOLE CARDS ***
+reeqar: folds 
+Debussy1: folds 
+Shomsie: folds 
+VsegdaBlefuy: raises $0.15 to $0.25
+drianoher: folds 
+chana88851: raises $0.15 to $0.40
+VsegdaBlefuy: calls $0.15
+*** FLOP *** [5d Ad 9d]
+chana88851: bets $0.41
+VsegdaBlefuy: calls $0.41
+*** TURN *** [5d Ad 9d] [Qc]
+chana88851: checks 
+VsegdaBlefuy: bets $0.80
+chana88851: folds 
+Uncalled bet ($0.80) returned to VsegdaBlefuy
+VsegdaBlefuy collected $1.59 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.67 | Rake $0.08 
+Board [5d Ad 9d Qc]
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Shomsie folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (button) collected ($1.59)
+Seat 5: drianoher (small blind) folded before Flop
+Seat 6: chana88851 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #201568283671:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:46:44 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 1: reeqar ($10.28 in chips) 
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($10.78 in chips) 
+Seat 5: drianoher ($10.08 in chips) 
+Seat 6: chana88851 ($8.36 in chips) 
+chana88851: posts small blind $0.05
+reeqar: posts big blind $0.10
+*** HOLE CARDS ***
+Debussy1: folds 
+Shomsie: raises $0.15 to $0.25
+VsegdaBlefuy: raises $0.65 to $0.90
+drianoher: folds 
+chana88851: folds 
+reeqar: folds 
+Shomsie: folds 
+Uncalled bet ($0.65) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.65 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: reeqar (big blind) folded before Flop
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Shomsie folded before Flop
+Seat 4: VsegdaBlefuy collected ($0.65)
+Seat 5: drianoher (button) folded before Flop (didn't bet)
+Seat 6: chana88851 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201568290559:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:47:01 ET
+Table 'Aaltje III' 6-max Seat #6 is the button
+Seat 1: reeqar ($10.18 in chips) 
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($11.18 in chips) 
+Seat 5: drianoher ($10.08 in chips) 
+Seat 6: chana88851 ($8.31 in chips) 
+reeqar: posts small blind $0.05
+Debussy1: posts big blind $0.10
+*** HOLE CARDS ***
+Shomsie: raises $0.15 to $0.25
+VsegdaBlefuy: folds 
+drianoher: folds 
+chana88851: calls $0.25
+reeqar: folds 
+Debussy1: folds 
+*** FLOP *** [7c 7h Qh]
+Shomsie: bets $0.20
+chana88851: raises $0.20 to $0.40
+Shomsie: folds 
+Uncalled bet ($0.20) returned to chana88851
+chana88851 collected $1 from pot
+chana88851: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [7c 7h Qh]
+Seat 1: reeqar (small blind) folded before Flop
+Seat 2: Debussy1 (big blind) folded before Flop
+Seat 3: Shomsie folded on the Flop
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: drianoher folded before Flop (didn't bet)
+Seat 6: chana88851 (button) collected ($1)
+
+
+
+PokerStars Hand #201568304844:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:47:36 ET
+Table 'Aaltje III' 6-max Seat #1 is the button
+Seat 1: reeqar ($10.13 in chips) 
+Seat 2: Debussy1 ($10.97 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($11.18 in chips) 
+Seat 5: drianoher ($10.08 in chips) 
+Seat 6: chana88851 ($8.86 in chips) 
+Debussy1: posts small blind $0.05
+Shomsie: posts big blind $0.10
+*** HOLE CARDS ***
+VsegdaBlefuy: folds 
+drianoher: folds 
+chana88851: folds 
+reeqar: folds 
+Debussy1: raises $0.20 to $0.30
+Shomsie: folds 
+Uncalled bet ($0.20) returned to Debussy1
+chana88851 leaves the table
+Debussy1 collected $0.20 from pot
+Debussy1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: reeqar (button) folded before Flop (didn't bet)
+Seat 2: Debussy1 (small blind) collected ($0.20)
+Seat 3: Shomsie (big blind) folded before Flop
+Seat 4: VsegdaBlefuy folded before Flop (didn't bet)
+Seat 5: drianoher folded before Flop (didn't bet)
+Seat 6: chana88851 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568313033:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:47:56 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 1: reeqar ($10.13 in chips) 
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($11.18 in chips) 
+Seat 5: drianoher ($10.08 in chips) 
+Shomsie: posts small blind $0.05
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+drianoher: folds 
+reeqar: folds 
+Debussy1: folds 
+Shomsie: folds 
+Uncalled bet ($0.05) returned to VsegdaBlefuy
+VsegdaBlefuy collected $0.10 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: Debussy1 (button) folded before Flop (didn't bet)
+Seat 3: Shomsie (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) collected ($0.10)
+Seat 5: drianoher folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201568317539:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:48:08 ET
+Table 'Aaltje III' 6-max Seat #3 is the button
+Seat 1: reeqar ($10.13 in chips) 
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10 in chips) 
+Seat 4: VsegdaBlefuy ($11.23 in chips) 
+Seat 5: drianoher ($10.08 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+reeqar: folds 
+Debussy1: folds 
+Shomsie: raises $0.15 to $0.25
+VsegdaBlefuy: folds 
+drianoher: folds 
+Uncalled bet ($0.15) returned to Shomsie
+Shomsie collected $0.25 from pot
+Shomsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: reeqar folded before Flop (didn't bet)
+Seat 2: Debussy1 folded before Flop (didn't bet)
+Seat 3: Shomsie (button) collected ($0.25)
+Seat 4: VsegdaBlefuy (small blind) folded before Flop
+Seat 5: drianoher (big blind) folded before Flop
+
+
+
+PokerStars Hand #201568324378:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:48:25 ET
+Table 'Aaltje III' 6-max Seat #4 is the button
+Seat 2: Debussy1 ($11.07 in chips) 
+Seat 3: Shomsie ($10.15 in chips) 
+Seat 4: VsegdaBlefuy ($11.18 in chips) 
+Seat 5: drianoher ($10 in chips) 
+drianoher: posts small blind $0.05
+reeqar: is sitting out 
+Debussy1: posts big blind $0.10
+*** HOLE CARDS ***
+Shomsie: raises $0.15 to $0.25
+reeqar leaves the table
+VsegdaBlefuy: folds 
+drianoher: folds 
+Debussy1: calls $0.15
+*** FLOP *** [Qs 4h Qc]
+Debussy1: checks 
+Shomsie: bets $0.17
+Debussy1: calls $0.17
+*** TURN *** [Qs 4h Qc] [3s]
+Debussy1 has timed out
+Debussy1: checks 
+Shomsie: bets $0.66
+Debussy1: folds 
+Uncalled bet ($0.66) returned to Shomsie
+Shomsie collected $0.85 from pot
+Shomsie: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.89 | Rake $0.04 
+Board [Qs 4h Qc 3s]
+Seat 2: Debussy1 (big blind) folded on the Turn
+Seat 3: Shomsie collected ($0.85)
+Seat 4: VsegdaBlefuy (button) folded before Flop (didn't bet)
+Seat 5: drianoher (small blind) folded before Flop
+
+
+
+PokerStars Hand #201568373828:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:50:27 ET
+Table 'Aaltje III' 6-max Seat #5 is the button
+Seat 2: Debussy1 ($10.65 in chips) 
+Seat 4: VsegdaBlefuy ($11.18 in chips) 
+Seat 5: drianoher ($10 in chips) 
+Debussy1: posts small blind $0.05
+Shomsie: is sitting out 
+VsegdaBlefuy: posts big blind $0.10
+*** HOLE CARDS ***
+Shomsie leaves the table
+drianoher: raises $0.15 to $0.25
+Debussy1: folds 
+VsegdaBlefuy: folds 
+Uncalled bet ($0.15) returned to drianoher
+drianoher collected $0.25 from pot
+drianoher: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: Debussy1 (small blind) folded before Flop
+Seat 4: VsegdaBlefuy (big blind) folded before Flop
+Seat 5: drianoher (button) collected ($0.25)
+
+
+
+PokerStars Hand #201568378989:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/20 10:50:40 ET
+Table 'Aaltje III' 6-max Seat #2 is the button
+Seat 2: Debussy1 ($10.60 in chips) 
+Seat 4: VsegdaBlefuy ($11.08 in chips) 
+Seat 5: drianoher ($10.15 in chips) 
+VsegdaBlefuy: posts small blind $0.05
+drianoher: posts big blind $0.10
+*** HOLE CARDS ***
+Debussy1: folds 
+Debussy1 leaves the table
+VsegdaBlefuy: raises $0.15 to $0.25
+drianoher: calls $0.15
+*** FLOP *** [2c 2s 5d]
+VsegdaBlefuy: bets $0.30
+fantomasiks joins the table at seat #1 
+drianoher: calls $0.30
+*** TURN *** [2c 2s 5d] [Qh]
+VsegdaBlefuy: bets $0.53
+drianoher: calls $0.53
+*** RIVER *** [2c 2s 5d Qh] [2h]
+VsegdaBlefuy: bets $1.40
+drianoher: folds 
+Uncalled bet ($1.40) returned to VsegdaBlefuy
+VsegdaBlefuy collected $2.06 from pot
+VsegdaBlefuy: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.16 | Rake $0.10 
+Board [2c 2s 5d Qh 2h]
+Seat 2: Debussy1 (button) folded before Flop (didn't bet)
+Seat 4: VsegdaBlefuy (small blind) collected ($2.06)
+Seat 5: drianoher (big blind) folded on the River
+
+
+
