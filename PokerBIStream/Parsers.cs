@@ -77,6 +77,8 @@ namespace testJson
             //patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s[0-9]+");  //Raise
             patterns.Add(@".+\:\sraises+.+[0-9]+\sto\s\$[0-9]+");  //Raise
             patterns.Add(@"Seat+\s\d\:\s.+\sin\schips\)");  //Seats
+            patterns.Add(@"Uncalled bet"); //Returned Bet
+            patterns.Add(@"\sRake\s\$"); //Rake
 
             Streetname = streetname;
             GameActionCtr = gameactionctr;
@@ -206,6 +208,29 @@ namespace testJson
                             Player = line_in.Substring(8, line_in.Length - 8 - (line_in.Length - line_in.IndexOf(" (")));
                             break;
 
+                        case 12:  //Return
+                            //rgxStage = new Regex(@"\d+\sfrom\s");
+                            rgxStage = new Regex(@"\$\d.+\)");
+                            rgxStage =  rgxStage.Matches(line_in).Count == 0 ? new Regex(@"\$\d\)") : rgxStage;
+                            Stage = rgxStage.Matches(line_in);
+                            Action = "bet_returned";
+                            //Amount = Convert.ToInt32(Stage[0].Value.Substring(0, Stage[0].Length - 6));
+                            Amount = float.Parse(Stage[0].Value.Substring(1,Stage[0].Length - 2));
+                            rgxStage = new Regex(@"returned to\s.+");
+                            Stage = rgxStage.Matches(line_in);
+                            Player = Stage[0].Value.Replace("returned to ","");
+                            gameactionctr++;
+                            break;
+
+                        case 13:  //RAKE
+                            Action = "rake";
+                            int chk1 = line_in.IndexOf("Rake") + 6;
+                            int chk2 = line_in.Length - line_in.IndexOf("Rake") - 7;
+                            string tst = line_in.Substring(chk1, chk2);
+                            Amount = float.Parse(line_in.Substring(line_in.IndexOf("Rake") + 6, line_in.Length - line_in.IndexOf("Rake") - 7));
+                            Player = "house";
+                            gameactionctr++;
+                            break;
 
                     }
                 }
