@@ -184,7 +184,7 @@ namespace testJson
                             if (line_in.Replace("HOLE CARDS", "Pre-flop").Substring(4, line_in.IndexOf("***", 4) - 5) != "SUMMARY"
                                         && line_in.Replace("HOLE CARDS", "Pre-flop").Substring(4, line_in.IndexOf("***", 4) - 5) != "SHOW DOWN")
                             { 
-                            Streetname = line_in.Replace("HOLE CARDS", "Pre-flop").Substring(4, line_in.IndexOf("***", 4) - 5);
+                            Streetname = line_in.Replace("HOLE CARDS", "Pre-flop").Substring(4, line_in.Replace("HOLE CARDS", "Pre-flop").IndexOf("***", 4) - 5);
                             }
                             break;
 
@@ -249,6 +249,7 @@ namespace testJson
 
             LineParser lp = new LineParser(line_in, streetname, gameActionCtr);
             Streetname = lp.Streetname;
+            int actionFlag = GameActionCtr == lp.GameActionCtr ? 0 : 1;
             GameActionCtr = lp.GameActionCtr;
 
             if (lp.NewGame == 1)  //start of new game. print Games object from previous game
@@ -301,6 +302,16 @@ namespace testJson
                 else
                 {
                     g.Addactions(new Actions { GameActionId = lp.GameActionCtr, actor = lp.Player, action = lp.Action, amount = lp.Amount, streetname = lp.Streetname });
+
+                    if (actionFlag == 1)
+                    {
+                        //write action to output file
+                        using (StreamWriter sw3 = new StreamWriter(archivepath + "Text\\" + g.gameid + ".txt", true))
+                        {
+                            sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + lp.Streetname + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
+
+                        }
+                    }
                 }
             }
 
