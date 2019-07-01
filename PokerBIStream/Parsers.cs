@@ -35,12 +35,12 @@ namespace testJson
             }
            
             {
-                //CosmosDb cosmosDb = new CosmosDb(url, key, g);
-                // cosmosDb.GetStartedDemo(url, key, g).Wait();
-                using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
-                {
-                    sw2.WriteLine(g);
-                }
+                ////CosmosDb cosmosDb = new CosmosDb(url, key, g);
+                //// cosmosDb.GetStartedDemo(url, key, g).Wait();
+                //using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                //{
+                //    sw2.WriteLine(g);
+                //}
             }
 
         }
@@ -257,12 +257,12 @@ namespace testJson
 
                 if (g.gameid != null)
                 {
-                    //CosmosDb cosmosDb = new CosmosDb(url, key, g);
-                    //cosmosDb.GetStartedDemo(url, key, g).Wait();
-                    using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
-                    {
-                        sw2.WriteLine(g);
-                    }
+                    ////CosmosDb cosmosDb = new CosmosDb(url, key, g);
+                    ////cosmosDb.GetStartedDemo(url, key, g).Wait();
+                    //using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                    //{
+                    //    sw2.WriteLine(g);
+                    //}
 
                     //MemoryStream ms = new MemoryStream();
                     //DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
@@ -285,6 +285,13 @@ namespace testJson
                 //assign game level vars
                 g.gameid = lp.GameId;
                 g.timestamp = lp.TimeStamp;
+
+                //prep output file
+                using (StreamWriter sw3 = new StreamWriter(archivepath + "Text\\" + g.gameid + ".txt"))
+                {
+                    sw3.WriteLine("GameId" + "|" + "Timestamp" + "|" + "StreetName" + "|" + "Action" + "|" + "Player" + "|" + "Amount");//);
+
+                }
 
                 ////delete file if it already exists for this game
                 //using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt"))
