@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using Newtonsoft.Json;
 
 namespace testJson
-    
+
 
 {
     public class Games
@@ -56,6 +56,12 @@ namespace testJson
         public string streetname;
         public string action;
         public string actor;
-        public float amount;
+        public decimal amount;
+    }
+
+    public class Bets
+    {
+        public string playername { get; set; }
+        public decimal betsum { get; set; }
     }
 }
