@@ -39,10 +39,10 @@ namespace testJson
             {
                 ////CosmosDb cosmosDb = new CosmosDb(url, key, g);
                 //// cosmosDb.GetStartedDemo(url, key, g).Wait();
-                //using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
-                //{
-                //    sw2.WriteLine(g);
-                //}
+                using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                {
+                    sw2.WriteLine(g);
+                }
             }
 
         }
@@ -251,6 +251,11 @@ namespace testJson
         {
 
             LineParser lp = new LineParser(line_in, streetname, gameActionCtr);
+            if(streetname != lp.Streetname)
+            {
+
+                bets.Select(u => { u.betsum = 0; return u; }).ToList();
+            }
             Streetname = lp.Streetname;
             int actionFlag = GameActionCtr == lp.GameActionCtr ? 0 : 1;
             GameActionCtr = lp.GameActionCtr;
@@ -263,10 +268,10 @@ namespace testJson
                 {
                     ////CosmosDb cosmosDb = new CosmosDb(url, key, g);
                     ////cosmosDb.GetStartedDemo(url, key, g).Wait();
-                    //using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
-                    //{
-                    //    sw2.WriteLine(g);
-                    //}
+                    using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                    {
+                        sw2.WriteLine(g);
+                    }
 
                     //MemoryStream ms = new MemoryStream();
                     //DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
@@ -317,39 +322,36 @@ namespace testJson
                 }
                 else
                 {
-                    g.Addactions(new Actions { GameActionId = lp.GameActionCtr, actor = lp.Player, action = lp.Action, amount = lp.Amount, streetname = lp.Streetname });
-
                     if (actionFlag == 1)
                     {
+
                         //write action to output file
                         using (StreamWriter sw3 = new StreamWriter(archivepath + "Text\\" + g.gameid + ".txt", true))
                         {
-                            sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + lp.Streetname + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
 
                             if (lp.Action == "bet" || lp.Action == "blind" || lp.Action == "call" || lp.Action == "raise")
                             {
+
                                 if (lp.Action == "raise")
                                 {
-                                    //Before Update
-                                    decimal allbets = bets.Where(p => p.playername == lp.Player).First().betsum;
-                                    //Console.Write("before:" + lp.Player + " " + allbets.ToString());
-                                    bets.Where(p => p.playername == lp.Player).Select(u => { u.betsum = (lp.Amount - allbets); return u; }).ToList();
-                                    allbets = bets.Where(p => p.playername == lp.Player).First().betsum;
-                                    //Console.Write("after:" + lp.Player + " " + allbets.ToString());
+                                    decimal raiseamt = lp.Amount - bets.Where(p => p.playername == lp.Player).First().betsum;
+                                    bets.Where(p => p.playername == lp.Player).Select(u => { u.betsum = (u.betsum + raiseamt); return u; }).ToList();
+                                    lp.Amount = raiseamt;
                                 }
                                 else
                                 {
-                                    //Before Update
-                                    decimal allbets = bets.Where(p => p.playername == lp.Player).First().betsum;
-                                    //Console.Write("before:" + lp.Player + " " + allbets.ToString());
                                     bets.Where(p => p.playername == lp.Player).Select(u => { u.betsum = (u.betsum + lp.Amount); return u; }).ToList();
-                                    allbets = bets.Where(p => p.playername == lp.Player).First().betsum;
-                                    //Console.Write("after:" + lp.Player + " " + allbets.ToString());
                                 }
+
+                               
                             }
+
+                            sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + lp.Streetname + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
 
                         }
                     }
+
+                    g.Addactions(new Actions { GameActionId = lp.GameActionCtr, actor = lp.Player, action = lp.Action, amount = lp.Amount, streetname = lp.Streetname });
                 }
             }
 
