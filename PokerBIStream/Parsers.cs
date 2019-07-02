@@ -251,7 +251,7 @@ namespace testJson
         {
 
             LineParser lp = new LineParser(line_in, streetname, gameActionCtr);
-            if(streetname != lp.Streetname)
+            if (streetname != lp.Streetname)
             {
 
                 bets.Select(u => { u.betsum = 0; return u; }).ToList();
