@@ -54,6 +54,9 @@ namespace testJson
         public int NewGame { get; set; }
         public int NewStreet { get; set; }
         public string TimeStamp { get; set; }
+        public string SiteName { get; set; }
+        public string TableName { get; set; }
+        public string Limits { get; set; }
         public string Streetname { get; set; }
         public string Action { get; set; }
         public decimal Amount { get; set; }
@@ -81,6 +84,7 @@ namespace testJson
             patterns.Add(@"Seat+\s\d\:\s.+\sin\schips\)");  //Seats
             patterns.Add(@"Uncalled bet"); //Returned Bet
             patterns.Add(@"\sRake\s\$"); //Rake
+            patterns.Add(@"Table\s"); //Table Name
 
             Streetname = streetname;
             GameActionCtr = gameactionctr;
@@ -113,6 +117,10 @@ namespace testJson
                             rgxStage = new Regex(@"\d{4}/\d{2}/\d{2}.+");
                             Stage = rgxStage.Matches(line_in);
                             TimeStamp = Stage[0].Value;
+                            SiteName = line_in.Substring(0, line_in.IndexOf(" "));
+                            rgxStage = new Regex(@"\$.+\)");
+                            Stage = rgxStage.Matches(line_in);
+                            Limits = Stage[0].Value.Substring(0, Stage[0].Value.Length - 1);
                             break;
 
                         case 2:  //BET
@@ -128,11 +136,11 @@ namespace testJson
 
                         case 3:  //BLIND  
                             //rgxStage = new Regex(@"\s\d+");
-                            rgxStage = new Regex(@"\$.+");
+                            rgxStage = new Regex(@"\s\$.+");
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "blind";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 1));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2));
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr ++;
                             break;
@@ -146,25 +154,25 @@ namespace testJson
 
                         case 5:  //CALL
                             //rgxStage = new Regex(@"\s\d+");
-                            rgxStage = new Regex(@"\$.+");
+                            rgxStage = new Regex(@"\s\$.+");
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "call";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 1));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2));
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr++;
                             break;
 
                         case 6:  //WIN
                             //rgxStage = new Regex(@"\d+\sfrom\s");
-                            rgxStage = new Regex(@"\$\d.+\s");
+                            rgxStage = new Regex(@"\$.+\sfrom\s");
                             Stage = rgxStage.Matches(line_in);
                             Action = "win";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(0, Stage[0].Length - 6));
                             Amount = decimal.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 6));
                             rgxStage = new Regex(@".+\scollect");
                             Player = line_in.Substring(0, line_in.Replace(": collect", " collect").IndexOf(" collect"));
-                            gameactionctr++;
+                            GameActionCtr++;
                             break;
 
                         case 7:  //CHECK
@@ -222,7 +230,7 @@ namespace testJson
                             rgxStage = new Regex(@"returned to\s.+");
                             Stage = rgxStage.Matches(line_in);
                             Player = Stage[0].Value.Replace("returned to ","");
-                            gameactionctr++;
+                            GameActionCtr++;
                             break;
 
                         case 13:  //RAKE
@@ -232,7 +240,13 @@ namespace testJson
                             string tst = line_in.Substring(chk1, chk2);
                             Amount = decimal.Parse(line_in.Substring(line_in.IndexOf("Rake") + 6, line_in.Length - line_in.IndexOf("Rake") - 7));
                             Player = "house";
-                            gameactionctr++;
+                            GameActionCtr++;
+                            break;
+
+                        case 14: //TableName
+                            rgxStage = new Regex(@"\'.+\'");
+                            Stage = rgxStage.Matches(line_in);
+                            TableName = Stage[0].Value.Substring(1, Stage[0].Value.Length - 2);
                             break;
 
                     }
@@ -292,15 +306,16 @@ namespace testJson
                 Streetname = "Pre-flop";
                 GameActionCtr = 0;
 
-
                 //assign game level vars
                 g.gameid = lp.GameId;
                 g.timestamp = lp.TimeStamp;
+                g.limits = lp.Limits;
+                g.sitename = lp.SiteName;
 
                 //prep output file
                 using (StreamWriter sw3 = new StreamWriter(archivepath + "Text\\" + g.gameid + ".txt"))
                 {
-                    sw3.WriteLine("GameId" + "|" + "Timestamp" + "|" + "StreetName" + "|" + "Action" + "|" + "Player" + "|" + "Amount");//);
+                    sw3.WriteLine("GameId" + "|" + "Timestamp" + "|" + "SiteName" + "|" + "TableName" + "|" + "Limits" + "|" + "StreetName" + "|" + "GameActionId" + "|" + "Action" + "|" + "Player" + "|" + "Amount");//);
 
                 }
 
@@ -310,7 +325,10 @@ namespace testJson
                 //    sw.WriteLine(line_in);
                 //}
             }
-            
+            else if (lp.TableName != null)
+            {
+                g.tablename = lp.TableName;
+            }
             else if (lp.Streetname != "" && lp.Action != null)  //assign Actions values
             {
                 if (lp.Action == "SeatInfo")
@@ -346,7 +364,7 @@ namespace testJson
                                
                             }
 
-                            sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + lp.Streetname + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
+                            sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + g.sitename + "|" + g.tablename + "|" + g.limits + "|" + lp.Streetname + "|" + lp.GameActionCtr.ToString() + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
 
                         }
                     }

@@ -1,0 +1,537 @@
+﻿PokerStars Hand #201527314099:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:24:44 ET
+Table 'Achilles' 6-max Seat #1 is the button
+Seat 1: Maikl530 ($14.23 in chips) 
+Seat 2: SayInGame ($9.90 in chips) 
+Seat 3: segard ($10 in chips) 
+Seat 4: Synelnikoff ($9.64 in chips) 
+Seat 5: Crockyleader ($8.88 in chips) 
+Seat 6: chiyomo ($7.70 in chips) 
+SayInGame: posts small blind $0.05
+segard: posts big blind $0.10
+*** HOLE CARDS ***
+Synelnikoff: folds 
+Crockyleader: raises $0.10 to $0.20
+chiyomo: folds 
+Maikl530: calls $0.20
+SayInGame: folds 
+segard: calls $0.10
+*** FLOP *** [2d Qs Td]
+segard: checks 
+Crockyleader: checks 
+Maikl530: bets $0.45
+segard: raises $1.05 to $1.50
+Crockyleader: folds 
+Maikl530: calls $1.05
+*** TURN *** [2d Qs Td] [Kh]
+segard: bets $1.80
+Maikl530: raises $10.64 to $12.44
+segard: calls $6.50 and is all-in
+Uncalled bet ($4.14) returned to Maikl530
+*** FIRST RIVER *** [2d Qs Td Kh] [5h]
+*** SECOND RIVER *** [2d Qs Td Kh] [6h]
+*** FIRST SHOW DOWN ***
+segard: shows [Jd Kd] (a pair of Kings)
+Maikl530: shows [9c Jc] (a straight, Nine to King)
+Maikl530 collected $9.67 from pot
+*** SECOND SHOW DOWN ***
+segard: shows [Jd Kd] (a pair of Kings)
+Maikl530: shows [9c Jc] (a straight, Nine to King)
+Maikl530 collected $9.67 from pot
+*** SUMMARY ***
+Total pot $20.25 | Rake $0.91 
+Hand was run twice
+FIRST Board [2d Qs Td Kh 5h]
+SECOND Board [2d Qs Td Kh 6h]
+Seat 1: Maikl530 (button) showed [9c Jc] and won ($9.67) with a straight, Nine to King, and won ($9.67) with a straight, Nine to King
+Seat 2: SayInGame (small blind) folded before Flop
+Seat 3: segard (big blind) showed [Jd Kd] and lost with a pair of Kings, and lost with a pair of Kings
+Seat 4: Synelnikoff folded before Flop (didn't bet)
+Seat 5: Crockyleader folded on the Flop
+Seat 6: chiyomo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527333392:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:26:08 ET
+Table 'Achilles' 6-max Seat #2 is the button
+Seat 1: Maikl530 ($23.57 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: segard ($10 in chips) 
+Seat 4: Synelnikoff ($9.64 in chips) 
+Seat 5: Crockyleader ($8.68 in chips) 
+Seat 6: chiyomo ($7.70 in chips) 
+segard: posts small blind $0.05
+Synelnikoff: posts big blind $0.10
+*** HOLE CARDS ***
+Crockyleader: calls $0.10
+chiyomo: raises $0.30 to $0.40
+Maikl530: folds 
+SayInGame: folds 
+segard: calls $0.35
+Synelnikoff: folds 
+Crockyleader: calls $0.30
+*** FLOP *** [2c 9s Ah]
+segard: checks 
+Crockyleader: checks 
+chiyomo: bets $0.70
+segard: folds 
+Crockyleader: folds 
+Uncalled bet ($0.70) returned to chiyomo
+chiyomo collected $1.24 from pot
+chiyomo: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [2c 9s Ah]
+Seat 1: Maikl530 folded before Flop (didn't bet)
+Seat 2: SayInGame (button) folded before Flop (didn't bet)
+Seat 3: segard (small blind) folded on the Flop
+Seat 4: Synelnikoff (big blind) folded before Flop
+Seat 5: Crockyleader folded on the Flop
+Seat 6: chiyomo collected ($1.24)
+
+
+
+PokerStars Hand #201527342856:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:26:49 ET
+Table 'Achilles' 6-max Seat #3 is the button
+Seat 1: Maikl530 ($23.57 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: segard ($10 in chips) 
+Seat 4: Synelnikoff ($9.54 in chips) 
+Seat 5: Crockyleader ($8.28 in chips) 
+Seat 6: chiyomo ($8.54 in chips) 
+Synelnikoff: posts small blind $0.05
+Crockyleader: posts big blind $0.10
+*** HOLE CARDS ***
+chiyomo: folds 
+Maikl530: folds 
+SayInGame: folds 
+segard: raises $0.15 to $0.25
+Synelnikoff: folds 
+Crockyleader: calls $0.15
+*** FLOP *** [7d 9d 2c]
+Crockyleader: checks 
+segard: bets $0.27
+Crockyleader: folds 
+Uncalled bet ($0.27) returned to segard
+segard collected $0.53 from pot
+segard: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [7d 9d 2c]
+Seat 1: Maikl530 folded before Flop (didn't bet)
+Seat 2: SayInGame folded before Flop (didn't bet)
+Seat 3: segard (button) collected ($0.53)
+Seat 4: Synelnikoff (small blind) folded before Flop
+Seat 5: Crockyleader (big blind) folded on the Flop
+Seat 6: chiyomo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527351874:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:27:29 ET
+Table 'Achilles' 6-max Seat #4 is the button
+Seat 1: Maikl530 ($23.57 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: segard ($10.28 in chips) 
+Seat 4: Synelnikoff ($9.49 in chips) 
+Seat 5: Crockyleader ($8.03 in chips) 
+Seat 6: chiyomo ($8.54 in chips) 
+Crockyleader: posts small blind $0.05
+chiyomo: posts big blind $0.10
+*** HOLE CARDS ***
+Maikl530: raises $0.20 to $0.30
+SayInGame: folds 
+segard: folds 
+Synelnikoff: folds 
+Crockyleader: folds 
+chiyomo: calls $0.20
+*** FLOP *** [Qc Qd 7d]
+chiyomo: checks 
+Maikl530: bets $0.45
+chiyomo: calls $0.45
+*** TURN *** [Qc Qd 7d] [8s]
+chiyomo: checks 
+Maikl530: bets $1.23
+chiyomo: folds 
+Uncalled bet ($1.23) returned to Maikl530
+Maikl530 collected $1.48 from pot
+Maikl530: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [Qc Qd 7d 8s]
+Seat 1: Maikl530 collected ($1.48)
+Seat 2: SayInGame folded before Flop (didn't bet)
+Seat 3: segard folded before Flop (didn't bet)
+Seat 4: Synelnikoff (button) folded before Flop (didn't bet)
+Seat 5: Crockyleader (small blind) folded before Flop
+Seat 6: chiyomo (big blind) folded on the Turn
+
+
+
+PokerStars Hand #201527362040:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:28:14 ET
+Table 'Achilles' 6-max Seat #5 is the button
+Seat 1: Maikl530 ($24.30 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: segard ($10.28 in chips) 
+Seat 4: Synelnikoff ($9.49 in chips) 
+Seat 5: Crockyleader ($7.98 in chips) 
+Seat 6: chiyomo ($7.79 in chips) 
+chiyomo: posts small blind $0.05
+Maikl530: posts big blind $0.10
+*** HOLE CARDS ***
+SayInGame: folds 
+segard: folds 
+Synelnikoff: folds 
+Crockyleader: folds 
+chiyomo: folds 
+Uncalled bet ($0.05) returned to Maikl530
+Maikl530 collected $0.10 from pot
+Maikl530: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Maikl530 (big blind) collected ($0.10)
+Seat 2: SayInGame folded before Flop (didn't bet)
+Seat 3: segard folded before Flop (didn't bet)
+Seat 4: Synelnikoff folded before Flop (didn't bet)
+Seat 5: Crockyleader (button) folded before Flop (didn't bet)
+Seat 6: chiyomo (small blind) folded before Flop
+
+
+
+PokerStars Hand #201527366610:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:28:34 ET
+Table 'Achilles' 6-max Seat #6 is the button
+Seat 1: Maikl530 ($24.35 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: segard ($10.28 in chips) 
+Seat 4: Synelnikoff ($9.49 in chips) 
+Seat 5: Crockyleader ($7.98 in chips) 
+Seat 6: chiyomo ($7.74 in chips) 
+Maikl530: posts small blind $0.05
+SayInGame: posts big blind $0.10
+*** HOLE CARDS ***
+segard: folds 
+Synelnikoff: folds 
+Crockyleader: raises $0.10 to $0.20
+chiyomo: folds 
+Maikl530: folds 
+SayInGame: folds 
+Uncalled bet ($0.10) returned to Crockyleader
+Crockyleader collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Maikl530 (small blind) folded before Flop
+Seat 2: SayInGame (big blind) folded before Flop
+Seat 3: segard folded before Flop (didn't bet)
+Seat 4: Synelnikoff folded before Flop (didn't bet)
+Seat 5: Crockyleader collected ($0.25)
+Seat 6: chiyomo (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527370924:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:28:52 ET
+Table 'Achilles' 6-max Seat #1 is the button
+Seat 1: Maikl530 ($24.30 in chips) 
+Seat 2: SayInGame ($9.75 in chips) 
+Seat 3: segard ($10.28 in chips) 
+Seat 4: Synelnikoff ($9.49 in chips) 
+Seat 5: Crockyleader ($8.13 in chips) 
+Seat 6: chiyomo ($7.74 in chips) 
+SayInGame: posts small blind $0.05
+segard: posts big blind $0.10
+*** HOLE CARDS ***
+Synelnikoff: folds 
+Crockyleader: folds 
+chiyomo: folds 
+Maikl530: raises $0.15 to $0.25
+SayInGame: folds 
+segard: folds 
+Uncalled bet ($0.15) returned to Maikl530
+Maikl530 collected $0.25 from pot
+Maikl530: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Maikl530 (button) collected ($0.25)
+Seat 2: SayInGame (small blind) folded before Flop
+Seat 3: segard (big blind) folded before Flop
+Seat 4: Synelnikoff folded before Flop (didn't bet)
+Seat 5: Crockyleader folded before Flop (didn't bet)
+Seat 6: chiyomo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527374854:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:29:10 ET
+Table 'Achilles' 6-max Seat #2 is the button
+Seat 1: Maikl530 ($24.45 in chips) 
+Seat 2: SayInGame ($9.70 in chips) 
+Seat 3: segard ($10.18 in chips) 
+Seat 4: Synelnikoff ($9.49 in chips) 
+Seat 5: Crockyleader ($8.13 in chips) 
+Seat 6: chiyomo ($7.74 in chips) 
+segard: posts small blind $0.05
+Synelnikoff: posts big blind $0.10
+*** HOLE CARDS ***
+Crockyleader: raises $0.10 to $0.20
+chiyomo: folds 
+Maikl530: folds 
+SayInGame: calls $0.20
+segard: folds 
+Synelnikoff: folds 
+*** FLOP *** [6h 7s 3h]
+Crockyleader: bets $0.27
+SayInGame: folds 
+Uncalled bet ($0.27) returned to Crockyleader
+Crockyleader collected $0.53 from pot
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [6h 7s 3h]
+Seat 1: Maikl530 folded before Flop (didn't bet)
+Seat 2: SayInGame (button) folded on the Flop
+Seat 3: segard (small blind) folded before Flop
+Seat 4: Synelnikoff (big blind) folded before Flop
+Seat 5: Crockyleader collected ($0.53)
+Seat 6: chiyomo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527382479:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:29:43 ET
+Table 'Achilles' 6-max Seat #3 is the button
+Seat 1: Maikl530 ($24.45 in chips) 
+Seat 2: SayInGame ($9.50 in chips) 
+Seat 3: segard ($10.13 in chips) 
+Seat 4: Synelnikoff ($9.39 in chips) 
+Seat 5: Crockyleader ($8.46 in chips) 
+Seat 6: chiyomo ($7.74 in chips) 
+Synelnikoff: posts small blind $0.05
+Crockyleader: posts big blind $0.10
+*** HOLE CARDS ***
+chiyomo: folds 
+Maikl530: raises $0.20 to $0.30
+SayInGame: folds 
+segard: folds 
+Synelnikoff: folds 
+Crockyleader: calls $0.20
+*** FLOP *** [5h 6s 3s]
+Crockyleader: bets $0.31
+Maikl530: folds 
+Uncalled bet ($0.31) returned to Crockyleader
+Crockyleader collected $0.62 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [5h 6s 3s]
+Seat 1: Maikl530 folded on the Flop
+Seat 2: SayInGame folded before Flop (didn't bet)
+Seat 3: segard (button) folded before Flop (didn't bet)
+Seat 4: Synelnikoff (small blind) folded before Flop
+Seat 5: Crockyleader (big blind) collected ($0.62)
+Seat 6: chiyomo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527225058:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:18:20 ET
+Table 'Achilles' 6-max Seat #1 is the button
+Seat 1: Maikl530 ($10 in chips) 
+Seat 3: johnny5858 ($4 in chips) 
+Seat 5: Crockyleader ($10 in chips) 
+johnny5858: posts small blind $0.05
+Synelnikoff joins the table at seat #4 
+Crockyleader: posts big blind $0.10
+*** HOLE CARDS ***
+Maikl530: raises $0.15 to $0.25
+johnny5858: folds 
+SayInGame joins the table at seat #2 
+Crockyleader: folds 
+Uncalled bet ($0.15) returned to Maikl530
+Maikl530 collected $0.25 from pot
+Maikl530: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Maikl530 (button) collected ($0.25)
+Seat 3: johnny5858 (small blind) folded before Flop
+Seat 5: Crockyleader (big blind) folded before Flop
+
+
+
+PokerStars Hand #201527228512:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:18:35 ET
+Table 'Achilles' 6-max Seat #3 is the button
+Seat 1: Maikl530 ($10.15 in chips) 
+Seat 3: johnny5858 ($3.95 in chips) 
+Seat 5: Crockyleader ($9.90 in chips) 
+Crockyleader: posts small blind $0.05
+Maikl530: posts big blind $0.10
+SayInGame: sits out 
+*** HOLE CARDS ***
+johnny5858: calls $0.10
+Crockyleader: calls $0.05
+Maikl530: checks 
+*** FLOP *** [5h Kc 4d]
+Crockyleader: bets $0.10
+Maikl530: folds 
+johnny5858: calls $0.10
+*** TURN *** [5h Kc 4d] [3c]
+Crockyleader: bets $0.48
+johnny5858: calls $0.48
+*** RIVER *** [5h Kc 4d 3c] [2s]
+Crockyleader: bets $1.39
+johnny5858: raises $1.39 to $2.78
+Crockyleader: raises $1.39 to $4.17
+johnny5858: calls $0.49 and is all-in
+Uncalled bet ($0.90) returned to Crockyleader
+*** SHOW DOWN ***
+Crockyleader: shows [6c Kd] (a straight, Deuce to Six)
+johnny5858: shows [6d As] (a straight, Deuce to Six)
+Crockyleader collected $3.82 from pot
+johnny5858 collected $3.82 from pot
+*** SUMMARY ***
+Total pot $8 | Rake $0.36 
+Board [5h Kc 4d 3c 2s]
+Seat 1: Maikl530 (big blind) folded on the Flop
+Seat 3: johnny5858 (button) showed [6d As] and won ($3.82) with a straight, Deuce to Six
+Seat 5: Crockyleader (small blind) showed [6c Kd] and won ($3.82) with a straight, Deuce to Six
+
+
+
+PokerStars Hand #201527240550:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:19:26 ET
+Table 'Achilles' 6-max Seat #5 is the button
+Seat 1: Maikl530 ($10.05 in chips) 
+Seat 2: SayInGame ($10 in chips) 
+Seat 3: johnny5858 ($3.82 in chips) 
+Seat 4: Synelnikoff ($6.58 in chips) 
+Seat 5: Crockyleader ($9.77 in chips) 
+Maikl530: posts small blind $0.05
+SayInGame: posts big blind $0.10
+Synelnikoff: posts big blind $0.10
+*** HOLE CARDS ***
+johnny5858: folds 
+chiyomo joins the table at seat #6 
+Synelnikoff: raises $0.15 to $0.25
+Crockyleader: folds 
+Maikl530: folds 
+SayInGame: folds 
+Uncalled bet ($0.15) returned to Synelnikoff
+Synelnikoff collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Maikl530 (small blind) folded before Flop
+Seat 2: SayInGame (big blind) folded before Flop
+Seat 3: johnny5858 folded before Flop (didn't bet)
+Seat 4: Synelnikoff collected ($0.25)
+Seat 5: Crockyleader (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527244097:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:19:42 ET
+Table 'Achilles' 6-max Seat #1 is the button
+Seat 1: Maikl530 ($10 in chips) 
+Seat 2: SayInGame ($9.90 in chips) 
+Seat 3: johnny5858 ($3.82 in chips) 
+Seat 4: Synelnikoff ($6.73 in chips) 
+Seat 5: Crockyleader ($9.77 in chips) 
+SayInGame: posts small blind $0.05
+johnny5858: posts big blind $0.10
+chiyomo: sits out 
+*** HOLE CARDS ***
+Synelnikoff: folds 
+Crockyleader: calls $0.10
+Maikl530: raises $0.35 to $0.45
+SayInGame: folds 
+johnny5858: calls $0.35
+Crockyleader: calls $0.35
+*** FLOP *** [Ad 9s Th]
+johnny5858: checks 
+Crockyleader: checks 
+Maikl530: checks 
+*** TURN *** [Ad 9s Th] [Jc]
+johnny5858: bets $0.10
+Crockyleader: calls $0.10
+Maikl530: calls $0.10
+*** RIVER *** [Ad 9s Th Jc] [8d]
+johnny5858: bets $0.10
+Crockyleader: folds 
+Maikl530: calls $0.10
+*** SHOW DOWN ***
+johnny5858: shows [Kc 7c] (a straight, Seven to Jack)
+Maikl530: shows [7d Kd] (a straight, Seven to Jack)
+johnny5858 collected $0.91 from pot
+Maikl530 collected $0.90 from pot
+*** SUMMARY ***
+Total pot $1.90 | Rake $0.09 
+Board [Ad 9s Th Jc 8d]
+Seat 1: Maikl530 (button) showed [7d Kd] and won ($0.90) with a straight, Seven to Jack
+Seat 2: SayInGame (small blind) folded before Flop
+Seat 3: johnny5858 (big blind) showed [Kc 7c] and won ($0.91) with a straight, Seven to Jack
+Seat 4: Synelnikoff folded before Flop (didn't bet)
+Seat 5: Crockyleader folded on the River
+
+
+
+PokerStars Hand #201527261580:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:20:57 ET
+Table 'Achilles' 6-max Seat #2 is the button
+Seat 1: Maikl530 ($10.25 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: johnny5858 ($4.08 in chips) 
+Seat 4: Synelnikoff ($6.73 in chips) 
+Seat 5: Crockyleader ($9.22 in chips) 
+johnny5858: posts small blind $0.05
+Synelnikoff: posts big blind $0.10
+chiyomo: sits out 
+*** HOLE CARDS ***
+Crockyleader: folds 
+Maikl530: raises $0.20 to $0.30
+SayInGame: folds 
+johnny5858: folds 
+Synelnikoff: calls $0.20
+*** FLOP *** [2s Qd 5d]
+Synelnikoff: checks 
+Maikl530: bets $0.45
+Synelnikoff: folds 
+Uncalled bet ($0.45) returned to Maikl530
+Maikl530 collected $0.62 from pot
+Maikl530: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2s Qd 5d]
+Seat 1: Maikl530 collected ($0.62)
+Seat 2: SayInGame (button) folded before Flop (didn't bet)
+Seat 3: johnny5858 (small blind) folded before Flop
+Seat 4: Synelnikoff (big blind) folded on the Flop
+Seat 5: Crockyleader folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201527270091:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 22:21:33 ET
+Table 'Achilles' 6-max Seat #3 is the button
+Seat 1: Maikl530 ($10.57 in chips) 
+Seat 2: SayInGame ($9.85 in chips) 
+Seat 3: johnny5858 ($4.03 in chips) 
+Seat 4: Synelnikoff ($6.43 in chips) 
+Seat 5: Crockyleader ($9.22 in chips) 
+Synelnikoff: posts small blind $0.05
+Crockyleader: posts big blind $0.10
+chiyomo: sits out 
+*** HOLE CARDS ***
+Maikl530: raises $0.20 to $0.30
+SayInGame: folds 
+johnny5858: calls $0.30
+Synelnikoff: folds 
+Crockyleader: folds 
+*** FLOP *** [4s Qc 9s]
+Maikl530: bets $0.60
+johnny5858: calls $0.60
+*** TURN *** [4s Qc 9s] [Jc]
+Maikl530: bets $3.15
+johnny5858: calls $3.13 and is all-in
+Uncalled bet ($0.02) returned to Maikl530
+*** RIVER *** [4s Qc 9s Jc] [7d]
+*** SHOW DOWN ***
+Maikl530: shows [Qs Jh] (two pair, Queens and Jacks)
+johnny5858: shows [Qh Ks] (a pair of Queens)
+Maikl530 collected $7.84 from pot
+*** SUMMARY ***
+Total pot $8.21 | Rake $0.37 
+Board [4s Qc 9s Jc 7d]
+Seat 1: Maikl530 showed [Qs Jh] and won ($7.84) with two pair, Queens and Jacks
+Seat 2: SayInGame folded before Flop (didn't bet)
+Seat 3: johnny5858 (button) showed [Qh Ks] and lost with a pair of Queens
+Seat 4: Synelnikoff (small blind) folded before Flop
+Seat 5: Crockyleader (big blind) folded before Flop
+
+
+

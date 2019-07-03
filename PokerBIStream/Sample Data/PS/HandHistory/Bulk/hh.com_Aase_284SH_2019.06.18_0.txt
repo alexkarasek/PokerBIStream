@@ -1,0 +1,5261 @@
+﻿PokerStars Hand #201500802600:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:31:50 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.82 in chips) 
+Seat 2: nasrik ($10.24 in chips) 
+Seat 3: ziggy_poker ($12.91 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($10.65 in chips) 
+Seat 6: Dillon2015 ($18.36 in chips) 
+Alinyr: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: raises $0.14 to $0.24
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: raises $0.61 to $0.85
+nasrik: calls $0.61
+*** FLOP *** [Kc Jh 8d]
+Vyacheslav N: checks 
+nasrik: bets $1.10
+Vyacheslav N: calls $1.10
+*** TURN *** [Kc Jh 8d] [Kd]
+Vyacheslav N: checks 
+nasrik: bets $2.49
+Vyacheslav N: calls $2.49
+*** RIVER *** [Kc Jh 8d Kd] [7c]
+Vyacheslav N: checks 
+nasrik: checks 
+*** SHOW DOWN ***
+Vyacheslav N: shows [Kh Qh] (three of a kind, Kings)
+nasrik: mucks hand 
+Vyacheslav N collected $8.53 from pot
+*** SUMMARY ***
+Total pot $8.93 | Rake $0.40 
+Board [Kc Jh 8d Kd 7c]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik mucked
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) showed [Kh Qh] and won ($8.53) with three of a kind, Kings
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500190637:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 2:33:02 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: PokerKNARF77 ($3.15 in chips) 
+Seat 2: Alehandr07 ($8.93 in chips) 
+Seat 3: ziggy_poker ($9.75 in chips) 
+ziggy_poker: posts small blind $0.05
+PokerKNARF77: posts big blind $0.10
+*** HOLE CARDS ***
+Alehandr07: raises $0.20 to $0.30
+ziggy_poker: folds 
+PokerKNARF77: folds 
+Uncalled bet ($0.20) returned to Alehandr07
+Alehandr07 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: PokerKNARF77 (big blind) folded before Flop
+Seat 2: Alehandr07 (button) collected ($0.25)
+Seat 3: ziggy_poker (small blind) folded before Flop
+
+
+
+PokerStars Hand #201500205802:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 2:34:32 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: PokerKNARF77 ($3.71 in chips) 
+Seat 2: Alehandr07 ($7.52 in chips) 
+Seat 3: ziggy_poker ($10.45 in chips) 
+Seat 4: areg1991390 ($4 in chips) 
+ziggy_poker: posts small blind $0.05
+areg1991390: posts big blind $0.10
+*** HOLE CARDS ***
+PokerKNARF77: raises $0.60 to $0.70
+Alehandr07: folds 
+ziggy_poker: folds 
+reeqar joins the table at seat #6 
+areg1991390: folds 
+Uncalled bet ($0.60) returned to PokerKNARF77
+PokerKNARF77 collected $0.25 from pot
+PokerKNARF77: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: PokerKNARF77 collected ($0.25)
+Seat 2: Alehandr07 (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: areg1991390 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201501044524:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:53:05 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 2: nasrik ($13.86 in chips) 
+Seat 3: ziggy_poker ($24.94 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.02 in chips) 
+Dillon2015: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Alinyr: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: folds 
+nasrik: folds 
+Uncalled bet ($0.20) returned to Alinyr
+Alinyr collected $0.25 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: nasrik (big blind) folded before Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr collected ($0.25)
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201501047405:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:53:19 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: nasrik ($13.76 in chips) 
+Seat 3: ziggy_poker ($24.94 in chips) 
+Seat 4: Alinyr ($10.15 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($17.97 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: raises $17.67 to $17.97 and is all-in
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Uncalled bet ($17.67) returned to Dillon2015
+Dillon2015 collected $0.75 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0 
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: Alinyr folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) collected ($0.75)
+
+
+
+PokerStars Hand #201501051633:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:53:40 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: nasrik ($13.71 in chips) 
+Seat 3: ziggy_poker ($24.84 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.42 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: is sitting out 
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+nasrik: calls $0.20
+ziggy_poker: folds 
+Vyacheslav N: folds 
+*** FLOP *** [Ks 8c Ts]
+Dillon2015: bets $0.50
+nasrik: folds 
+Uncalled bet ($0.50) returned to Dillon2015
+Dillon2015 collected $0.53 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Ks 8c Ts]
+Seat 2: nasrik (button) folded on the Flop
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded before Flop
+Seat 6: Dillon2015 collected ($0.53)
+
+
+
+PokerStars Hand #201501056607:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:54:05 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 2: nasrik ($13.51 in chips) 
+Seat 3: ziggy_poker ($24.79 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.75 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Uncalled bet ($0.05) returned to Dillon2015
+Dillon2015 collected $0.10 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201501058241:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:54:14 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 2: nasrik ($13.51 in chips) 
+Seat 3: ziggy_poker ($24.79 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.80 in chips) 
+Dillon2015: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.05
+nasrik: raises $0.30 to $0.40
+Dillon2015: calls $0.30
+*** FLOP *** [4c Ts 9c]
+Dillon2015: checks 
+nasrik: bets $0.23
+Dillon2015: calls $0.23
+*** TURN *** [4c Ts 9c] [5h]
+Dillon2015: checks 
+nasrik: checks 
+*** RIVER *** [4c Ts 9c 5h] [7c]
+Dillon2015: bets $1.20
+nasrik: folds 
+Uncalled bet ($1.20) returned to Dillon2015
+Dillon2015 collected $1.20 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.26 | Rake $0.06 
+Board [4c Ts 9c 5h 7c]
+Seat 2: nasrik (big blind) folded on the River
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) collected ($1.20)
+
+
+
+PokerStars Hand #201501068054:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:55:04 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: nasrik ($12.88 in chips) 
+Seat 3: ziggy_poker ($24.79 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($19.37 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: raises $0.15 to $0.25
+Dillon2015: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.15) returned to Vyacheslav N
+Vyacheslav N collected $0.25 from pot
+Vyacheslav N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 5: Vyacheslav N collected ($0.25)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501069933:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:55:13 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: nasrik ($12.83 in chips) 
+Seat 3: ziggy_poker ($24.69 in chips) 
+Seat 5: Vyacheslav N ($10.15 in chips) 
+Seat 6: Dillon2015 ($19.37 in chips) 
+ziggy_poker: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+nasrik: folds 
+ziggy_poker: calls $0.05
+Vyacheslav N: checks 
+*** FLOP *** [Qc Ad 6c]
+ziggy_poker: bets $0.20
+Vyacheslav N: folds 
+Uncalled bet ($0.20) returned to ziggy_poker
+ziggy_poker collected $0.19 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qc Ad 6c]
+Seat 2: nasrik (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) collected ($0.19)
+Seat 5: Vyacheslav N (big blind) folded on the Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501073418:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:55:33 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 2: nasrik ($12.83 in chips) 
+Seat 3: ziggy_poker ($24.78 in chips) 
+Seat 5: Vyacheslav N ($10.05 in chips) 
+Seat 6: Dillon2015 ($19.37 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: raises $0.10 to $0.20
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+*** FLOP *** [5h 3d 4s]
+Dillon2015: checks 
+ziggy_poker: checks 
+*** TURN *** [5h 3d 4s] [7h]
+Dillon2015: checks 
+ziggy_poker: checks 
+*** RIVER *** [5h 3d 4s 7h] [Qh]
+Dillon2015: checks 
+ziggy_poker: checks 
+*** SHOW DOWN ***
+Dillon2015: shows [9c 8c] (high card Queen)
+ziggy_poker: shows [Ts Kh] (high card King)
+ziggy_poker collected $0.43 from pot
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [5h 3d 4s 7h Qh]
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) showed [Ts Kh] and won ($0.43) with high card King
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) showed [9c 8c] and lost with high card Queen
+
+
+
+PokerStars Hand #201501080439:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:56:14 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($12.83 in chips) 
+Seat 3: ziggy_poker ($25.01 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($19.17 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: raises $0.10 to $0.20
+Vyacheslav N: folds 
+Dillon2015: raises $0.50 to $0.70
+Johan25888: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.50) returned to Dillon2015
+Dillon2015 collected $0.50 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #201501083508:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:56:31 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.17 in chips) 
+Seat 2: nasrik ($12.83 in chips) 
+Seat 3: ziggy_poker ($24.81 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($19.47 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: calls $0.10
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: checks 
+*** FLOP *** [9d 6d Qc]
+nasrik: checks 
+ziggy_poker: checks 
+Dillon2015: checks 
+*** TURN *** [9d 6d Qc] [Td]
+nasrik: bets $0.22
+ziggy_poker: folds 
+Dillon2015: calls $0.22
+*** RIVER *** [9d 6d Qc Td] [4h]
+nasrik: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+nasrik: shows [9c As] (a pair of Nines)
+Dillon2015: mucks hand 
+nasrik collected $0.75 from pot
+*** SUMMARY ***
+Total pot $0.79 | Rake $0.04 
+Board [9d 6d Qc Td 4h]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) showed [9c As] and won ($0.75) with a pair of Nines
+Seat 3: ziggy_poker folded on the Turn
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) mucked
+
+
+
+PokerStars Hand #201500865633:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:37:34 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($10.14 in chips) 
+Seat 3: ziggy_poker ($12.08 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.84 in chips) 
+Seat 6: Dillon2015 ($19.32 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: raises $0.15 to $0.25
+ziggy_poker: calls $0.25
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.15
+*** FLOP *** [Qd 8c 3d]
+Dillon2015: checks 
+nasrik: checks 
+ziggy_poker: checks 
+*** TURN *** [Qd 8c 3d] [Kc]
+Dillon2015: checks 
+nasrik: bets $0.50
+ziggy_poker: calls $0.50
+Dillon2015: folds 
+*** RIVER *** [Qd 8c 3d Kc] [Qs]
+nasrik: bets $0.52
+ziggy_poker: folds 
+Uncalled bet ($0.52) returned to nasrik
+nasrik collected $1.72 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.80 | Rake $0.08 
+Board [Qd 8c 3d Kc Qs]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik collected ($1.72)
+Seat 3: ziggy_poker folded on the River
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #201501088743:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:57:02 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.12 in chips) 
+Seat 2: nasrik ($13.26 in chips) 
+Seat 3: ziggy_poker ($24.71 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($19.15 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: raises $0.20 to $0.30
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.20) returned to Vyacheslav N
+Vyacheslav N collected $0.25 from pot
+Vyacheslav N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 5: Vyacheslav N collected ($0.25)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500873551:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:38:16 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($11.11 in chips) 
+Seat 3: ziggy_poker ($11.33 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($19.07 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: folds 
+Uncalled bet ($0.05) returned to Johan25888
+Johan25888 collected $0.10 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Johan25888 (big blind) collected ($0.10)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201501093019:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:57:25 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.12 in chips) 
+Seat 2: nasrik ($13.21 in chips) 
+Seat 3: ziggy_poker ($24.61 in chips) 
+Seat 5: Vyacheslav N ($10.15 in chips) 
+Seat 6: Dillon2015 ($19.15 in chips) 
+ziggy_poker: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: calls $0.20
+ziggy_poker: folds 
+Vyacheslav N: folds 
+*** FLOP *** [5c 7h 4h]
+Dillon2015: bets $0.50
+nasrik: folds 
+Uncalled bet ($0.50) returned to Dillon2015
+Dillon2015 collected $0.53 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [5c 7h 4h]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) folded on the Flop
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded before Flop
+Seat 6: Dillon2015 collected ($0.53)
+
+
+
+PokerStars Hand #201500875318:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:38:26 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.72 in chips) 
+Seat 2: nasrik ($11.11 in chips) 
+Seat 3: ziggy_poker ($11.33 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($19.02 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: folds 
+Uncalled bet ($0.05) returned to nasrik
+nasrik collected $0.10 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) collected ($0.10)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501096824:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:57:48 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.12 in chips) 
+Seat 2: nasrik ($13.01 in chips) 
+Seat 3: ziggy_poker ($24.56 in chips) 
+Seat 5: Vyacheslav N ($10.05 in chips) 
+Seat 6: Dillon2015 ($19.48 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Uncalled bet ($0.05) returned to Dillon2015
+Dillon2015 collected $0.10 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201500877734:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:38:39 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($11.16 in chips) 
+Seat 3: ziggy_poker ($11.33 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($19.02 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.20) returned to Alinyr
+Alinyr collected $0.25 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: Alinyr collected ($0.25)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500880057:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:38:51 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($11.11 in chips) 
+Seat 3: ziggy_poker ($11.23 in chips) 
+Seat 4: Alinyr ($10.15 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($19.02 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: raises $0.30 to $0.40
+ziggy_poker: folds 
+Alinyr: folds 
+Dillon2015: calls $0.30
+*** FLOP *** [2s Qs 9h]
+Dillon2015: checks 
+nasrik: bets $0.60
+Dillon2015: calls $0.60
+*** TURN *** [2s Qs 9h] [6s]
+Dillon2015: checks 
+nasrik: bets $1.35
+Dillon2015: folds 
+Uncalled bet ($1.35) returned to nasrik
+nasrik collected $2.05 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [2s Qs 9h 6s]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) collected ($2.05)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded on the Turn
+
+
+
+PokerStars Hand #201500888015:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:39:34 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($12.16 in chips) 
+Seat 3: ziggy_poker ($11.18 in chips) 
+Seat 4: Alinyr ($10.05 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($18.02 in chips) 
+Alinyr: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.25 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded before Flop
+Seat 6: Dillon2015 collected ($0.25)
+
+
+
+PokerStars Hand #201500891755:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:39:54 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($12.16 in chips) 
+Seat 3: ziggy_poker ($11.18 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.69 in chips) 
+Seat 6: Dillon2015 ($18.17 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: raises $0.15 to $0.25
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.15
+*** FLOP *** [8d 5h Tc]
+Dillon2015: bets $0.50
+nasrik: raises $1.53 to $2.03
+Dillon2015: folds 
+Uncalled bet ($1.53) returned to nasrik
+nasrik collected $1.48 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [8d 5h Tc]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik collected ($1.48)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201500902265:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:40:48 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($12.89 in chips) 
+Seat 3: ziggy_poker ($11.18 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.64 in chips) 
+Seat 6: Dillon2015 ($17.42 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: raises $0.15 to $0.25
+Dillon2015: folds 
+Johan25888: folds 
+Uncalled bet ($0.15) returned to Vyacheslav N
+Vyacheslav N collected $0.25 from pot
+Vyacheslav N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (button) collected ($0.25)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201500908813:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:41:23 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.57 in chips) 
+Seat 2: nasrik ($12.89 in chips) 
+Seat 3: ziggy_poker ($11.18 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($17.37 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: raises $0.20 to $0.30
+nasrik: raises $0.60 to $0.90
+Johan25888: folds 
+Uncalled bet ($0.60) returned to nasrik
+nasrik collected $0.60 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) collected ($0.60)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500912341:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:41:42 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($13.19 in chips) 
+Seat 3: ziggy_poker ($11.18 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.79 in chips) 
+Seat 6: Dillon2015 ($17.37 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: folds 
+Vyacheslav N: raises $0.20 to $0.30
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: raises $0.70 to $1
+ziggy_poker: folds 
+Vyacheslav N: calls $0.70
+*** FLOP *** [Kh Ac 6h]
+nasrik: bets $1.33
+Vyacheslav N: calls $1.33
+*** TURN *** [Kh Ac 6h] [6d]
+nasrik: checks 
+Vyacheslav N: checks 
+*** RIVER *** [Kh Ac 6h 6d] [9d]
+nasrik: bets $1
+Vyacheslav N: calls $1
+*** SHOW DOWN ***
+nasrik: shows [Ad Qs] (two pair, Aces and Sixes)
+Vyacheslav N: shows [As Qc] (two pair, Aces and Sixes)
+nasrik collected $3.23 from pot
+Vyacheslav N collected $3.23 from pot
+*** SUMMARY ***
+Total pot $6.76 | Rake $0.30 
+Board [Kh Ac 6h 6d 9d]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) showed [Ad Qs] and won ($3.23) with two pair, Aces and Sixes
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N showed [As Qc] and won ($3.23) with two pair, Aces and Sixes
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500925630:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:42:52 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($13.09 in chips) 
+Seat 3: ziggy_poker ($11.08 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.69 in chips) 
+Seat 6: Dillon2015 ($17.37 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: raises $0.11 to $0.21
+ziggy_poker: calls $0.16
+Alinyr: calls $0.11
+*** FLOP *** [4h 2s Ts]
+ziggy_poker: bets $0.60
+Alinyr: folds 
+nasrik: calls $0.60
+*** TURN *** [4h 2s Ts] [5d]
+ziggy_poker: bets $0.88
+nasrik: raises $2.32 to $3.20
+ziggy_poker: folds 
+Uncalled bet ($2.32) returned to nasrik
+nasrik collected $3.43 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.59 | Rake $0.16 
+Board [4h 2s Ts 5d]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) collected ($3.43)
+Seat 3: ziggy_poker (small blind) folded on the Turn
+Seat 4: Alinyr (big blind) folded on the Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500935081:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:43:42 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($14.83 in chips) 
+Seat 3: ziggy_poker ($9.39 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.69 in chips) 
+Seat 6: Dillon2015 ($17.37 in chips) 
+Alinyr: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: raises $0.60 to $0.80
+Dillon2015: calls $0.60
+*** FLOP *** [7d 2c Td]
+Vyacheslav N: bets $0.87
+Dillon2015: calls $0.87
+*** TURN *** [7d 2c Td] [2d]
+Vyacheslav N: checks 
+Dillon2015: bets $3.20
+Vyacheslav N: folds 
+Uncalled bet ($3.20) returned to Dillon2015
+Dillon2015 collected $3.24 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.39 | Rake $0.15 
+Board [7d 2c Td 2d]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded on the Turn
+Seat 6: Dillon2015 collected ($3.24)
+
+
+
+PokerStars Hand #201500949266:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:44:56 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($14.83 in chips) 
+Seat 3: ziggy_poker ($9.39 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($13.02 in chips) 
+Seat 6: Dillon2015 ($18.94 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: raises $0.15 to $0.25
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.15
+*** FLOP *** [4s Td 9h]
+Dillon2015: checks 
+nasrik: checks 
+*** TURN *** [4s Td 9h] [As]
+Dillon2015: bets $0.50
+nasrik: folds 
+Uncalled bet ($0.50) returned to Dillon2015
+Dillon2015 collected $0.53 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [4s Td 9h As]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded on the Turn
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.53)
+
+
+
+PokerStars Hand #201500953149:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:45:17 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($14.58 in chips) 
+Seat 3: ziggy_poker ($9.39 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($12.97 in chips) 
+Seat 6: Dillon2015 ($19.22 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: raises $0.70 to $1
+Johan25888: folds 
+Alinyr: calls $0.70
+*** FLOP *** [Ac Qd 9d]
+Dillon2015: bets $2
+Alinyr: calls $2
+*** TURN *** [Ac Qd 9d] [7c]
+Dillon2015: bets $2.90
+Alinyr: raises $4.10 to $7 and is all-in
+Dillon2015: calls $4.10
+*** RIVER *** [Ac Qd 9d 7c] [2h]
+*** SHOW DOWN ***
+Dillon2015: shows [Kh As] (a pair of Aces)
+Alinyr: shows [Kc Ad] (a pair of Aces)
+Dillon2015 collected $9.60 from pot
+Alinyr collected $9.60 from pot
+*** SUMMARY ***
+Total pot $20.10 | Rake $0.90 
+Board [Ac Qd 9d 7c 2h]
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr showed [Kc Ad] and won ($9.60) with a pair of Aces
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) showed [Kh As] and won ($9.60) with a pair of Aces
+
+
+
+PokerStars Hand #201500970051:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:46:45 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.17 in chips) 
+Seat 2: nasrik ($14.58 in chips) 
+Seat 3: ziggy_poker ($9.39 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($12.97 in chips) 
+Seat 6: Dillon2015 ($18.82 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: raises $0.15 to $0.25
+Dillon2015: raises $0.15 to $0.40
+Johan25888: folds 
+nasrik: folds 
+Vyacheslav N: calls $0.15
+*** FLOP *** [3s 7h 3h]
+Vyacheslav N: checks 
+Dillon2015: checks 
+*** TURN *** [3s 7h 3h] [Kh]
+Vyacheslav N: checks 
+Dillon2015: checks 
+*** RIVER *** [3s 7h 3h Kh] [5h]
+Vyacheslav N: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+Vyacheslav N: shows [Qs Kc] (two pair, Kings and Threes)
+Dillon2015: mucks hand 
+Vyacheslav N collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [3s 7h 3h Kh 5h]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) folded before Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N showed [Qs Kc] and won ($0.91) with two pair, Kings and Threes
+Seat 6: Dillon2015 (button) mucked
+
+
+
+PokerStars Hand #201500979905:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:47:36 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.12 in chips) 
+Seat 2: nasrik ($14.48 in chips) 
+Seat 3: ziggy_poker ($9.39 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($13.48 in chips) 
+Seat 6: Dillon2015 ($18.42 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: checks 
+*** FLOP *** [Kh Qc Qs]
+ziggy_poker: checks 
+Dillon2015: checks 
+*** TURN *** [Kh Qc Qs] [8c]
+ziggy_poker: checks 
+Dillon2015: checks 
+*** RIVER *** [Kh Qc Qs 8c] [Td]
+ziggy_poker: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+ziggy_poker: shows [9d 7d] (a pair of Queens)
+Dillon2015: mucks hand 
+ziggy_poker collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Kh Qc Qs 8c Td]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) showed [9d 7d] and won ($0.24) with a pair of Queens
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 mucked
+
+
+
+PokerStars Hand #201500987915:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:48:17 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.12 in chips) 
+Seat 2: nasrik ($14.43 in chips) 
+Seat 3: ziggy_poker ($9.53 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($13.48 in chips) 
+Seat 6: Dillon2015 ($18.32 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: raises $0.15 to $0.25
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Uncalled bet ($0.15) returned to Johan25888
+Johan25888 collected $0.25 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 collected ($0.25)
+Seat 2: nasrik (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500990759:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:48:31 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($14.43 in chips) 
+Seat 3: ziggy_poker ($9.48 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($13.48 in chips) 
+Seat 6: Dillon2015 ($18.32 in chips) 
+Alinyr: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: raises $0.25 to $0.35
+Alinyr: folds 
+Vyacheslav N: folds 
+Uncalled bet ($0.25) returned to ziggy_poker
+ziggy_poker collected $0.25 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) collected ($0.25)
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500992936:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:48:43 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10.27 in chips) 
+Seat 2: nasrik ($14.43 in chips) 
+Seat 3: ziggy_poker ($9.63 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($13.38 in chips) 
+Seat 6: Dillon2015 ($18.32 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: raises $0.15 to $0.25
+ziggy_poker: calls $0.25
+Alinyr: calls $0.25
+Vyacheslav N: raises $1.10 to $1.35
+Dillon2015: calls $1.25
+nasrik: folds 
+ziggy_poker: calls $1.10
+Alinyr: calls $1.10
+*** FLOP *** [5c 8s Qd]
+Vyacheslav N: bets $1.78
+Dillon2015: folds 
+ziggy_poker: calls $1.78
+Alinyr: calls $1.78
+*** TURN *** [5c 8s Qd] [2h]
+Vyacheslav N: checks 
+ziggy_poker: bets $2.70
+Alinyr: calls $2.70
+Vyacheslav N: calls $2.70
+*** RIVER *** [5c 8s Qd 2h] [3c]
+Vyacheslav N: checks 
+ziggy_poker: bets $3.80 and is all-in
+Alinyr: folds 
+Vyacheslav N: calls $3.80
+*** SHOW DOWN ***
+ziggy_poker: shows [5s 5d] (three of a kind, Fives)
+Vyacheslav N: shows [As Qs] (a pair of Queens)
+ziggy_poker collected $25.49 from pot
+*** SUMMARY ***
+Total pot $26.69 | Rake $1.20 
+Board [5c 8s Qd 2h 3c]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop
+Seat 3: ziggy_poker showed [5s 5d] and won ($25.49) with three of a kind, Fives
+Seat 4: Alinyr (button) folded on the River
+Seat 5: Vyacheslav N (small blind) showed [As Qs] and lost with a pair of Queens
+Seat 6: Dillon2015 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201501017913:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:50:49 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 2: nasrik ($14.18 in chips) 
+Seat 3: ziggy_poker ($25.49 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($16.97 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: is sitting out 
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: raises $0.15 to $0.25
+Dillon2015: calls $0.20
+nasrik: raises $0.85 to $1.10
+Vyacheslav N: folds 
+Dillon2015: calls $0.85
+*** FLOP *** [9d Qh Th]
+Dillon2015: bets $2.30
+nasrik: folds 
+Uncalled bet ($2.30) returned to Dillon2015
+Dillon2015 collected $2.34 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.45 | Rake $0.11 
+Board [9d Qh Th]
+Seat 2: nasrik (big blind) folded on the Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (button) folded before Flop
+Seat 6: Dillon2015 (small blind) collected ($2.34)
+
+
+
+PokerStars Hand #201501022842:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:51:14 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: nasrik ($13.08 in chips) 
+Seat 3: ziggy_poker ($25.49 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.21 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.20) returned to Alinyr
+Alinyr collected $0.25 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: Alinyr collected ($0.25)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501029007:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:51:46 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: nasrik ($13.03 in chips) 
+Seat 3: ziggy_poker ($25.39 in chips) 
+Seat 4: Alinyr ($10.15 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.21 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+nasrik: raises $0.35 to $0.45
+ziggy_poker: folds 
+Alinyr: folds 
+Dillon2015: calls $0.35
+*** FLOP *** [Qc Ah 6d]
+Dillon2015: checks 
+nasrik: bets $0.80
+Dillon2015: folds 
+Uncalled bet ($0.80) returned to nasrik
+nasrik collected $1 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.05 | Rake $0.05 
+Board [Qc Ah 6d]
+Seat 2: nasrik (button) collected ($1)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded on the Flop
+
+
+
+PokerStars Hand #201501033136:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:52:07 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 2: nasrik ($13.58 in chips) 
+Seat 3: ziggy_poker ($25.34 in chips) 
+Seat 4: Alinyr ($10.05 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($17.76 in chips) 
+Alinyr: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+nasrik: folds 
+ziggy_poker: calls $0.20
+Alinyr: folds 
+Vyacheslav N: folds 
+*** FLOP *** [Kd 8d 3s]
+Dillon2015: checks 
+ziggy_poker: bets $0.20
+Dillon2015: calls $0.20
+*** TURN *** [Kd 8d 3s] [5h]
+Dillon2015: checks 
+ziggy_poker: checks 
+*** RIVER *** [Kd 8d 3s 5h] [Ad]
+Dillon2015: checks 
+ziggy_poker: checks 
+*** SHOW DOWN ***
+Dillon2015: shows [Ac Jh] (a pair of Aces)
+ziggy_poker: mucks hand 
+Dillon2015 collected $0.91 from pot
+*** SUMMARY ***
+Total pot $0.95 | Rake $0.04 
+Board [Kd 8d 3s 5h Ad]
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) mucked
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded before Flop
+Seat 6: Dillon2015 showed [Ac Jh] and won ($0.91) with a pair of Aces
+
+
+
+PokerStars Hand #201501040915:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:52:46 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 2: nasrik ($13.58 in chips) 
+Seat 3: ziggy_poker ($24.94 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($18.27 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: raises $0.15 to $0.25
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.15
+*** FLOP *** [Kc 6c 6h]
+Dillon2015: checks 
+nasrik: bets $0.35
+Dillon2015: folds 
+Uncalled bet ($0.35) returned to nasrik
+nasrik collected $0.53 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Kc 6c 6h]
+Seat 2: nasrik collected ($0.53)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201500707413:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:23:11 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.70 in chips) 
+Seat 2: spensor1 ($11.73 in chips) 
+Seat 3: ziggy_poker ($16.17 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.60 in chips) 
+Seat 6: Dillon2015 ($11.02 in chips) 
+Johan25888: posts small blind $0.05
+spensor1: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+jeronima09: folds 
+mrvip94: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: raises $0.70 to $0.90
+spensor1: folds 
+Dillon2015: calls $0.70
+*** FLOP *** [2c 8d 7s]
+Johan25888: bets $0.92
+Dillon2015: calls $0.92
+*** TURN *** [2c 8d 7s] [5s]
+Johan25888: bets $2.46
+Dillon2015: folds 
+Uncalled bet ($2.46) returned to Johan25888
+Johan25888 collected $3.57 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.74 | Rake $0.17 
+Board [2c 8d 7s 5s]
+Seat 1: Johan25888 (small blind) collected ($3.57)
+Seat 2: spensor1 (big blind) folded before Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: jeronima09 folded before Flop (didn't bet)
+Seat 5: mrvip94 folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded on the Turn
+
+
+
+PokerStars Hand #201500717226:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:24:05 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($12.45 in chips) 
+Seat 2: spensor1 ($11.63 in chips) 
+Seat 3: ziggy_poker ($16.17 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.60 in chips) 
+Seat 6: Dillon2015 ($9.20 in chips) 
+spensor1: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+jeronima09: folds 
+mrvip94: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+spensor1: raises $0.70 to $0.90
+ziggy_poker: folds 
+Dillon2015: calls $0.70
+*** FLOP *** [8d 2d 5d]
+spensor1: bets $0.96
+Dillon2015: calls $0.96
+*** TURN *** [8d 2d 5d] [Ac]
+spensor1: bets $2
+Dillon2015: calls $2
+*** RIVER *** [8d 2d 5d Ac] [Th]
+spensor1: bets $4.11
+Dillon2015: raises $1.23 to $5.34 and is all-in
+spensor1: calls $1.23
+*** SHOW DOWN ***
+Dillon2015: shows [4h As] (a pair of Aces)
+spensor1: shows [Ad Kc] (a pair of Aces - King kicker)
+spensor1 collected $17.67 from pot
+*** SUMMARY ***
+Total pot $18.50 | Rake $0.83 
+Board [8d 2d 5d Ac Th]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: spensor1 (small blind) showed [Ad Kc] and won ($17.67) with a pair of Aces
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: jeronima09 folded before Flop (didn't bet)
+Seat 5: mrvip94 folded before Flop (didn't bet)
+Seat 6: Dillon2015 showed [4h As] and lost with a pair of Aces
+
+
+
+PokerStars Hand #201500728725:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:25:08 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($12.45 in chips) 
+Seat 2: spensor1 ($20.10 in chips) 
+Seat 3: ziggy_poker ($16.07 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.60 in chips) 
+ziggy_poker: posts small blind $0.05
+jeronima09: posts big blind $0.10
+*** HOLE CARDS ***
+mrvip94: folds 
+Johan25888: raises $0.15 to $0.25
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: folds 
+Uncalled bet ($0.15) returned to Johan25888
+Johan25888 collected $0.25 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 collected ($0.25)
+Seat 2: spensor1 (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: jeronima09 (big blind) folded before Flop
+Seat 5: mrvip94 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500733845:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:25:36 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($12.60 in chips) 
+Seat 2: spensor1 ($20.10 in chips) 
+Seat 3: ziggy_poker ($16.02 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.60 in chips) 
+Seat 6: Dillon2015 ($10 in chips) 
+jeronima09: posts small blind $0.05
+mrvip94: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: folds 
+mrvip94: calls $0.10
+*** FLOP *** [8d As 4c]
+mrvip94: checks 
+Dillon2015: bets $0.40
+mrvip94: folds 
+Uncalled bet ($0.40) returned to Dillon2015
+Dillon2015 collected $0.43 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [8d As 4c]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: jeronima09 (small blind) folded before Flop
+Seat 5: mrvip94 (big blind) folded on the Flop
+Seat 6: Dillon2015 collected ($0.43)
+
+
+
+PokerStars Hand #201500739662:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:26:08 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($12.60 in chips) 
+Seat 2: spensor1 ($20.10 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.40 in chips) 
+Seat 6: Dillon2015 ($10.23 in chips) 
+mrvip94: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888 has timed out
+Johan25888: folds 
+spensor1: folds 
+jeronima09: folds 
+mrvip94: raises $0.20 to $0.30
+Dillon2015: calls $0.20
+*** FLOP *** [4c 5d Qs]
+mrvip94: checks 
+Dillon2015: checks 
+*** TURN *** [4c 5d Qs] [8c]
+mrvip94: bets $0.60
+Dillon2015: calls $0.60
+*** RIVER *** [4c 5d Qs 8c] [5s]
+mrvip94: bets $3.50 and is all-in
+Dillon2015: calls $3.50
+*** SHOW DOWN ***
+mrvip94: shows [Tc Kh] (a pair of Fives)
+Dillon2015: shows [5h 9s] (three of a kind, Fives)
+Dillon2015 collected $8.40 from pot
+*** SUMMARY ***
+Total pot $8.80 | Rake $0.40 
+Board [4c 5d Qs 8c 5s]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 4: jeronima09 (button) folded before Flop (didn't bet)
+Seat 5: mrvip94 (small blind) showed [Tc Kh] and lost with a pair of Fives
+Seat 6: Dillon2015 (big blind) showed [5h 9s] and won ($8.40) with three of a kind, Fives
+
+
+
+PokerStars Hand #201500748028:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:26:54 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: spensor1 ($20.10 in chips) 
+Seat 6: Dillon2015 ($14.23 in chips) 
+spensor1: posts small blind $0.05
+jeronima09: is sitting out 
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+mrvip94 leaves the table
+Vyacheslav N joins the table at seat #5 
+spensor1: folds 
+Uncalled bet ($0.05) returned to Dillon2015
+Dillon2015 collected $0.10 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: spensor1 (button) (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201500750144:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:27:05 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: spensor1 ($20.05 in chips) 
+Seat 6: Dillon2015 ($14.28 in chips) 
+Dillon2015: posts small blind $0.05
+spensor1: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Uncalled bet ($0.05) returned to spensor1
+spensor1 collected $0.10 from pot
+spensor1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: spensor1 (big blind) collected ($0.10)
+Seat 6: Dillon2015 (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #201500751373:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:27:12 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: spensor1 ($20.10 in chips) 
+Seat 6: Dillon2015 ($14.23 in chips) 
+spensor1: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+spensor1: folds 
+Uncalled bet ($0.05) returned to Dillon2015
+Dillon2015 collected $0.10 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 2: spensor1 (button) (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201500752435:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:27:18 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: spensor1 ($20.05 in chips) 
+Seat 6: Dillon2015 ($14.28 in chips) 
+Dillon2015: posts small blind $0.05
+spensor1: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+spensor1: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.20 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: spensor1 (big blind) folded before Flop
+Seat 6: Dillon2015 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #201500753381:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:27:23 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: spensor1 ($19.95 in chips) 
+Seat 6: Dillon2015 ($14.38 in chips) 
+spensor1: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+spensor1: raises $0.20 to $0.30
+Dillon2015: raises $0.60 to $0.90
+spensor1: folds 
+Uncalled bet ($0.60) returned to Dillon2015
+Dillon2015 collected $0.60 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: spensor1 (button) (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.60)
+
+
+
+PokerStars Hand #201500755124:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:27:33 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: spensor1 ($19.65 in chips) 
+Seat 6: Dillon2015 ($14.68 in chips) 
+Dillon2015: posts small blind $0.05
+spensor1: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+spensor1: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.20 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: spensor1 (big blind) folded before Flop
+Seat 6: Dillon2015 (button) (small blind) collected ($0.20)
+
+
+
+PokerStars Hand #201500756752:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:27:41 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($12.60 in chips) 
+Seat 2: spensor1 ($19.55 in chips) 
+Seat 6: Dillon2015 ($14.78 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+spensor1: raises $0.15 to $0.25
+Dillon2015: calls $0.20
+jeronima09 leaves the table
+Johan25888: folds 
+*** FLOP *** [Kc Kd Ac]
+Dillon2015: checks 
+spensor1: checks 
+*** TURN *** [Kc Kd Ac] [4h]
+Dillon2015: checks 
+spensor1: checks 
+*** RIVER *** [Kc Kd Ac 4h] [2d]
+Dillon2015: checks 
+spensor1: checks 
+*** SHOW DOWN ***
+Dillon2015: shows [7c 3c] (a pair of Kings)
+spensor1: shows [Jc 9h] (a pair of Kings - Ace+Jack kicker)
+spensor1 collected $0.57 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Kc Kd Ac 4h 2d]
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: spensor1 (button) showed [Jc 9h] and won ($0.57) with a pair of Kings
+Seat 6: Dillon2015 (small blind) showed [7c 3c] and lost with a pair of Kings
+
+
+
+PokerStars Hand #201500764763:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:28:25 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($12.50 in chips) 
+Seat 3: ziggy_poker ($16.02 in chips) 
+Seat 6: Dillon2015 ($14.53 in chips) 
+Johan25888: posts small blind $0.05
+spensor1: is sitting out 
+ziggy_poker: posts big blind $0.10
+Vyacheslav N: sits out 
+*** HOLE CARDS ***
+spensor1 leaves the table
+Dillon2015: calls $0.10
+Johan25888: folds 
+ziggy_poker: checks 
+*** FLOP *** [5h 9h Kd]
+ziggy_poker: bets $0.12
+Dillon2015: calls $0.12
+*** TURN *** [5h 9h Kd] [7h]
+ziggy_poker: bets $0.47
+Dillon2015: calls $0.47
+*** RIVER *** [5h 9h Kd 7h] [Js]
+ziggy_poker: bets $1.37
+Dillon2015: calls $1.37
+*** SHOW DOWN ***
+ziggy_poker: shows [Th 3h] (a flush, Ten high)
+Dillon2015: shows [Qh 6h] (a flush, Queen high)
+Dillon2015 collected $3.98 from pot
+*** SUMMARY ***
+Total pot $4.17 | Rake $0.19 
+Board [5h 9h Kd 7h Js]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) showed [Th 3h] and lost with a flush, Ten high
+Seat 6: Dillon2015 (button) showed [Qh 6h] and won ($3.98) with a flush, Queen high
+
+
+
+PokerStars Hand #201500773721:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:29:14 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($12.45 in chips) 
+Seat 3: ziggy_poker ($13.96 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($16.45 in chips) 
+ziggy_poker: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+ziggy_poker: calls $0.05
+Vyacheslav N: raises $0.30 to $0.40
+ziggy_poker: calls $0.30
+*** FLOP *** [Qc 3c Kc]
+nasrik joins the table at seat #2 
+ziggy_poker: bets $0.20
+Vyacheslav N: calls $0.20
+*** TURN *** [Qc 3c Kc] [Ts]
+ziggy_poker: checks 
+Vyacheslav N: bets $0.86
+ziggy_poker: folds 
+Uncalled bet ($0.86) returned to Vyacheslav N
+Vyacheslav N collected $1.15 from pot
+Vyacheslav N: doesn't show hand 
+Alinyr joins the table at seat #4 
+*** SUMMARY ***
+Total pot $1.20 | Rake $0.05 
+Board [Qc 3c Kc Ts]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded on the Turn
+Seat 5: Vyacheslav N (big blind) collected ($1.15)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500778938:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:29:42 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($12.45 in chips) 
+Seat 3: ziggy_poker ($13.36 in chips) 
+Seat 5: Vyacheslav N ($10.55 in chips) 
+Seat 6: Dillon2015 ($16.45 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+ziggy_poker: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: raises $0.65 to $0.95
+ziggy_poker: folds 
+Uncalled bet ($0.65) returned to Dillon2015
+Dillon2015 collected $0.65 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.65)
+
+
+
+PokerStars Hand #201500781785:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:29:57 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($12.45 in chips) 
+Seat 3: ziggy_poker ($13.06 in chips) 
+Seat 5: Vyacheslav N ($10.50 in chips) 
+Seat 6: Dillon2015 ($16.80 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+nasrik: sits out 
+Alinyr: sits out 
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.05
+Johan25888: checks 
+*** FLOP *** [4d 5c Td]
+Dillon2015: checks 
+Johan25888: checks 
+*** TURN *** [4d 5c Td] [5h]
+Dillon2015: bets $0.20
+Johan25888: raises $0.59 to $0.79
+Dillon2015: calls $0.59
+*** RIVER *** [4d 5c Td 5h] [As]
+Dillon2015: bets $1.70
+Johan25888: calls $1.70
+*** SHOW DOWN ***
+Dillon2015: shows [Ah 5d] (a full house, Fives full of Aces)
+Johan25888: mucks hand 
+Dillon2015 collected $4.95 from pot
+*** SUMMARY ***
+Total pot $5.18 | Rake $0.23 
+Board [4d 5c Td 5h As]
+Seat 1: Johan25888 (big blind) mucked
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) showed [Ah 5d] and won ($4.95) with a full house, Fives full of Aces
+
+
+
+PokerStars Hand #201500789469:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:30:39 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($13.06 in chips) 
+Seat 5: Vyacheslav N ($10.50 in chips) 
+Seat 6: Dillon2015 ($19.16 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+Alinyr: sits out 
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: raises $0.60 to $0.80
+nasrik: folds 
+Dillon2015: calls $0.60
+*** FLOP *** [5c 3s 7c]
+Johan25888: bets $0.83
+Dillon2015: folds 
+Uncalled bet ($0.83) returned to Johan25888
+Johan25888 collected $1.62 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.70 | Rake $0.08 
+Board [5c 3s 7c]
+Seat 1: Johan25888 (small blind) collected ($1.62)
+Seat 2: nasrik (big blind) folded before Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded on the Flop
+
+
+
+PokerStars Hand #201500795246:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:31:10 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.82 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($13.06 in chips) 
+Seat 5: Vyacheslav N ($10.50 in chips) 
+Seat 6: Dillon2015 ($18.36 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+Alinyr: sits out 
+*** HOLE CARDS ***
+Vyacheslav N: raises $0.20 to $0.30
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.20) returned to Vyacheslav N
+Vyacheslav N collected $0.25 from pot
+Vyacheslav N: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 5: Vyacheslav N collected ($0.25)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500798026:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:31:25 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.82 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($12.96 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($10.65 in chips) 
+Seat 6: Dillon2015 ($18.36 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: raises $0.11 to $0.21
+ziggy_poker: folds 
+Alinyr: calls $0.11
+*** FLOP *** [2c Jh Jd]
+Alinyr: checks 
+nasrik: bets $0.30
+Alinyr: folds 
+Uncalled bet ($0.30) returned to nasrik
+nasrik collected $0.45 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.47 | Rake $0.02 
+Board [2c Jh Jd]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) collected ($0.45)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: Alinyr (big blind) folded on the Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500815416:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:33:00 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10.82 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($12.91 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.74 in chips) 
+Seat 6: Dillon2015 ($18.36 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: calls $0.10
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: checks 
+*** FLOP *** [8d 5s 2h]
+Dillon2015: checks 
+ziggy_poker: bets $0.24
+Dillon2015: calls $0.24
+*** TURN *** [8d 5s 2h] [8s]
+Dillon2015: checks 
+ziggy_poker: bets $0.70
+Dillon2015: calls $0.70
+*** RIVER *** [8d 5s 2h 8s] [7h]
+Dillon2015: checks 
+ziggy_poker: bets $2.10
+Dillon2015: folds 
+Uncalled bet ($2.10) returned to ziggy_poker
+ziggy_poker collected $2.03 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.13 | Rake $0.10 
+Board [8d 5s 2h 8s 7h]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker collected ($2.03)
+Seat 4: Alinyr (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the River
+
+
+
+PokerStars Hand #201500831643:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:34:29 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10.82 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($13.90 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.69 in chips) 
+Seat 6: Dillon2015 ($17.32 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: folds 
+Alinyr: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.05
+Johan25888: checks 
+*** FLOP *** [Qc Ac Qs]
+Dillon2015: checks 
+Johan25888: checks 
+*** TURN *** [Qc Ac Qs] [Kh]
+Dillon2015: checks 
+Johan25888: checks 
+*** RIVER *** [Qc Ac Qs Kh] [4h]
+Dillon2015: checks 
+Johan25888: checks 
+*** SHOW DOWN ***
+Dillon2015: shows [3h 3d] (two pair, Queens and Threes)
+Johan25888: mucks hand 
+Dillon2015 collected $0.19 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0.01 
+Board [Qc Ac Qs Kh 4h]
+Seat 1: Johan25888 (big blind) mucked
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) showed [3h 3d] and won ($0.19) with two pair, Queens and Threes
+
+
+
+PokerStars Hand #201500838723:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:35:08 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.72 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($13.90 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.69 in chips) 
+Seat 6: Dillon2015 ($17.41 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: calls $0.10
+Alinyr: raises $0.30 to $0.40
+Vyacheslav N: folds 
+Dillon2015: calls $0.40
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: calls $0.30
+*** FLOP *** [5s 3s 5h]
+ziggy_poker: checks 
+Alinyr: checks 
+Dillon2015: bets $1.30
+ziggy_poker: folds 
+Alinyr: folds 
+Uncalled bet ($1.30) returned to Dillon2015
+Dillon2015 collected $1.29 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [5s 3s 5h]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) folded before Flop
+Seat 3: ziggy_poker folded on the Flop
+Seat 4: Alinyr folded on the Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) collected ($1.29)
+
+
+
+PokerStars Hand #201500844251:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:35:38 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($10 in chips) 
+Seat 3: ziggy_poker ($13.50 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.69 in chips) 
+Seat 6: Dillon2015 ($18.30 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: folds 
+Vyacheslav N: raises $0.20 to $0.30
+Dillon2015: calls $0.30
+Johan25888: folds 
+nasrik: calls $0.25
+ziggy_poker: folds 
+*** FLOP *** [Th 6c 6s]
+nasrik: checks 
+Vyacheslav N: bets $0.32
+Dillon2015: folds 
+nasrik: calls $0.32
+*** TURN *** [Th 6c 6s] [6h]
+nasrik: checks 
+Vyacheslav N: checks 
+*** RIVER *** [Th 6c 6s 6h] [4c]
+nasrik: bets $0.47
+Vyacheslav N: calls $0.47
+*** SHOW DOWN ***
+nasrik: shows [Jh Ts] (a full house, Sixes full of Tens)
+Vyacheslav N: shows [Jd Td] (a full house, Sixes full of Tens)
+nasrik collected $1.23 from pot
+Vyacheslav N collected $1.23 from pot
+*** SUMMARY ***
+Total pot $2.58 | Rake $0.12 
+Board [Th 6c 6s 6h 4c]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) showed [Jh Ts] and won ($1.23) with a full house, Sixes full of Tens
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: Alinyr folded before Flop (didn't bet)
+Seat 5: Vyacheslav N showed [Jd Td] and won ($1.23) with a full house, Sixes full of Tens
+Seat 6: Dillon2015 folded on the Flop
+
+
+
+PokerStars Hand #201500853389:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:36:27 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($10.14 in chips) 
+Seat 3: ziggy_poker ($13.40 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.83 in chips) 
+Seat 6: Dillon2015 ($18 in chips) 
+ziggy_poker: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: raises $0.30 to $0.40
+Alinyr: folds 
+Dillon2015: calls $0.30
+*** FLOP *** [8s 5h 5c]
+ziggy_poker: bets $0.43
+Dillon2015: calls $0.43
+*** TURN *** [8s 5h 5c] [9c]
+ziggy_poker: bets $0.50
+Dillon2015: raises $2.70 to $3.20
+ziggy_poker: folds 
+Uncalled bet ($2.70) returned to Dillon2015
+Dillon2015 collected $2.64 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.76 | Rake $0.12 
+Board [8s 5h 5c 9c]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded on the Turn
+Seat 4: Alinyr (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($2.64)
+
+
+
+PokerStars Hand #201500860258:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:37:04 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.67 in chips) 
+Seat 2: nasrik ($10.14 in chips) 
+Seat 3: ziggy_poker ($12.07 in chips) 
+Seat 4: Alinyr ($10 in chips) 
+Seat 5: Vyacheslav N ($14.83 in chips) 
+Seat 6: Dillon2015 ($19.31 in chips) 
+Alinyr: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: calls $0.10
+Alinyr: folds 
+Vyacheslav N: checks 
+*** FLOP *** [Jc 6c 8c]
+Vyacheslav N: checks 
+Dillon2015: checks 
+ziggy_poker: checks 
+*** TURN *** [Jc 6c 8c] [Kc]
+Vyacheslav N: checks 
+Dillon2015: checks 
+ziggy_poker: checks 
+*** RIVER *** [Jc 6c 8c Kc] [5c]
+Vyacheslav N: checks 
+Dillon2015: checks 
+ziggy_poker: checks 
+*** SHOW DOWN ***
+Vyacheslav N: shows [8d Td] (a flush, King high)
+Dillon2015: shows [4h 2h] (a flush, King high)
+ziggy_poker: shows [6s Ah] (a flush, King high)
+Vyacheslav N collected $0.11 from pot
+Dillon2015 collected $0.11 from pot
+ziggy_poker collected $0.11 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [Jc 6c 8c Kc 5c]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) showed [6s Ah] and won ($0.11) with a flush, King high
+Seat 4: Alinyr (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) showed [8d Td] and won ($0.11) with a flush, King high
+Seat 6: Dillon2015 showed [4h 2h] and won ($0.11) with a flush, King high
+
+
+
+PokerStars Hand #201500216166:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 2:35:34 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: PokerKNARF77 ($4.32 in chips) 
+Seat 2: Alehandr07 ($7.52 in chips) 
+Seat 3: ziggy_poker ($10.40 in chips) 
+Seat 4: areg1991390 ($3.85 in chips) 
+Seat 6: reeqar ($10 in chips) 
+PokerKNARF77: posts small blind $0.05
+Alehandr07: posts big blind $0.10
+carlosmast: sits out 
+*** HOLE CARDS ***
+ziggy_poker: calls $0.10
+areg1991390: folds 
+reeqar: raises $0.30 to $0.40
+PokerKNARF77: folds 
+Alehandr07: calls $0.30
+ziggy_poker: calls $0.30
+*** FLOP *** [4s 9h 7d]
+Alehandr07: checks 
+ziggy_poker: checks 
+reeqar: checks 
+*** TURN *** [4s 9h 7d] [8h]
+Alehandr07: bets $0.80
+ziggy_poker: folds 
+reeqar: calls $0.80
+*** RIVER *** [4s 9h 7d 8h] [Kd]
+Alehandr07: checks 
+reeqar: checks 
+*** SHOW DOWN ***
+Alehandr07: shows [Qc Qs] (a pair of Queens)
+reeqar: mucks hand 
+Alehandr07 collected $2.72 from pot
+*** SUMMARY ***
+Total pot $2.85 | Rake $0.13 
+Board [4s 9h 7d 8h Kd]
+Seat 1: PokerKNARF77 (small blind) folded before Flop
+Seat 2: Alehandr07 (big blind) showed [Qc Qs] and won ($2.72) with a pair of Queens
+Seat 3: ziggy_poker folded on the Turn
+Seat 4: areg1991390 folded before Flop (didn't bet)
+Seat 6: reeqar (button) mucked
+
+
+
+PokerStars Hand #201500575553:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:10:58 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 2: spensor1 ($10.60 in chips) 
+Seat 3: ziggy_poker ($15.45 in chips) 
+Seat 4: CETIS1414 ($12.72 in chips) 
+Seat 5: mrvip94 ($5.57 in chips) 
+Seat 6: Dillon2015 ($10.81 in chips) 
+CETIS1414: posts small blind $0.05
+mrvip94: posts big blind $0.10
+Johan25888: sits out 
+*** HOLE CARDS ***
+Dillon2015: folds 
+spensor1: raises $0.15 to $0.25
+ziggy_poker: calls $0.25
+CETIS1414: folds 
+mrvip94: folds 
+*** FLOP *** [2s 9s 5d]
+spensor1: checks 
+ziggy_poker: bets $0.30
+spensor1: folds 
+Uncalled bet ($0.30) returned to ziggy_poker
+ziggy_poker collected $0.62 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2s 9s 5d]
+Seat 2: spensor1 folded on the Flop
+Seat 3: ziggy_poker (button) collected ($0.62)
+Seat 4: CETIS1414 (small blind) folded before Flop
+Seat 5: mrvip94 (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500579925:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:11:22 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 2: spensor1 ($10.35 in chips) 
+Seat 3: ziggy_poker ($15.82 in chips) 
+Seat 4: CETIS1414 ($12.67 in chips) 
+Seat 5: mrvip94 ($5.47 in chips) 
+Seat 6: Dillon2015 ($10.81 in chips) 
+mrvip94: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+Johan25888: sits out 
+*** HOLE CARDS ***
+spensor1: folds 
+ziggy_poker: folds 
+CETIS1414: raises $0.20 to $0.30
+mrvip94: folds 
+Dillon2015: calls $0.20
+*** FLOP *** [Th 5s 3c]
+Dillon2015: checks 
+CETIS1414: checks 
+*** TURN *** [Th 5s 3c] [6c]
+Dillon2015: checks 
+CETIS1414: checks 
+*** RIVER *** [Th 5s 3c 6c] [4h]
+Dillon2015: bets $0.60
+CETIS1414: calls $0.60
+*** SHOW DOWN ***
+Dillon2015: shows [Qs 7s] (a straight, Three to Seven)
+CETIS1414: shows [7h 3h] (a straight, Three to Seven)
+Dillon2015 collected $0.89 from pot
+CETIS1414 collected $0.88 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [Th 5s 3c 6c 4h]
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: CETIS1414 (button) showed [7h 3h] and won ($0.88) with a straight, Three to Seven
+Seat 5: mrvip94 (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) showed [Qs 7s] and won ($0.89) with a straight, Three to Seven
+
+
+
+PokerStars Hand #201500586123:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:11:58 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.35 in chips) 
+Seat 3: ziggy_poker ($15.82 in chips) 
+Seat 4: CETIS1414 ($12.65 in chips) 
+Seat 5: mrvip94 ($5.42 in chips) 
+Seat 6: Dillon2015 ($10.80 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+spensor1: folds 
+ziggy_poker: folds 
+CETIS1414: folds 
+mrvip94: calls $0.10
+Dillon2015: calls $0.05
+Johan25888: checks 
+*** FLOP *** [8s 8d Qs]
+Dillon2015: checks 
+Johan25888: checks 
+mrvip94: checks 
+*** TURN *** [8s 8d Qs] [5c]
+Dillon2015: checks 
+Johan25888: checks 
+mrvip94: checks 
+*** RIVER *** [8s 8d Qs 5c] [9s]
+Dillon2015: checks 
+Johan25888: checks 
+mrvip94: bets $0.30
+Dillon2015: folds 
+Johan25888: folds 
+Uncalled bet ($0.30) returned to mrvip94
+mrvip94 collected $0.29 from pot
+mrvip94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [8s 8d Qs 5c 9s]
+Seat 1: Johan25888 (big blind) folded on the River
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: CETIS1414 folded before Flop (didn't bet)
+Seat 5: mrvip94 (button) collected ($0.29)
+Seat 6: Dillon2015 (small blind) folded on the River
+
+
+
+PokerStars Hand #201500597054:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:12:59 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.35 in chips) 
+Seat 3: ziggy_poker ($15.82 in chips) 
+Seat 4: CETIS1414 ($12.65 in chips) 
+Seat 5: mrvip94 ($5.61 in chips) 
+Seat 6: Dillon2015 ($10.70 in chips) 
+Johan25888: posts small blind $0.05
+spensor1: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+CETIS1414: folds 
+mrvip94: calls $0.10
+Dillon2015: folds 
+CETIS1414 leaves the table
+Johan25888: folds 
+jeronima09 joins the table at seat #4 
+spensor1: checks 
+*** FLOP *** [4h 5h Tc]
+spensor1: checks 
+mrvip94: checks 
+*** TURN *** [4h 5h Tc] [4c]
+spensor1: checks 
+mrvip94: bets $0.30
+spensor1: raises $0.70 to $1
+mrvip94: folds 
+Uncalled bet ($0.70) returned to spensor1
+spensor1 collected $0.81 from pot
+spensor1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0.04 
+Board [4h 5h Tc 4c]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: spensor1 (big blind) collected ($0.81)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: CETIS1414 folded before Flop (didn't bet)
+Seat 5: mrvip94 folded on the Turn
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500603480:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:13:35 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.76 in chips) 
+Seat 3: ziggy_poker ($15.82 in chips) 
+Seat 5: mrvip94 ($5.21 in chips) 
+Seat 6: Dillon2015 ($10.70 in chips) 
+spensor1: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+mrvip94: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.25 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: spensor1 (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 5: mrvip94 folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($0.25)
+
+
+
+PokerStars Hand #201500606588:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:13:52 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.71 in chips) 
+Seat 3: ziggy_poker ($15.72 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($5.21 in chips) 
+Seat 6: Dillon2015 ($10.85 in chips) 
+ziggy_poker: posts small blind $0.05
+jeronima09: posts big blind $0.10
+*** HOLE CARDS ***
+mrvip94: calls $0.10
+Dillon2015: calls $0.10
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: checks 
+*** FLOP *** [3c 9d Kh]
+jeronima09: checks 
+mrvip94: checks 
+Dillon2015: checks 
+*** TURN *** [3c 9d Kh] [2c]
+jeronima09: checks 
+mrvip94: checks 
+Dillon2015: checks 
+*** RIVER *** [3c 9d Kh 2c] [3s]
+jeronima09: checks 
+mrvip94: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+jeronima09: shows [Th Ac] (a pair of Threes)
+mrvip94: mucks hand 
+Dillon2015: shows [8c 8h] (two pair, Eights and Threes)
+Dillon2015 collected $0.33 from pot
+*** SUMMARY ***
+Total pot $0.35 | Rake $0.02 
+Board [3c 9d Kh 2c 3s]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: jeronima09 (big blind) showed [Th Ac] and lost with a pair of Threes
+Seat 5: mrvip94 mucked
+Seat 6: Dillon2015 showed [8c 8h] and won ($0.33) with two pair, Eights and Threes
+
+
+
+PokerStars Hand #201500618475:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:14:58 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.71 in chips) 
+Seat 3: ziggy_poker ($15.67 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($5.11 in chips) 
+Seat 6: Dillon2015 ($11.08 in chips) 
+jeronima09: posts small blind $0.05
+mrvip94: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: calls $0.10
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: calls $0.05
+mrvip94: checks 
+*** FLOP *** [Ks Jd 4c]
+jeronima09: checks 
+mrvip94: checks 
+Dillon2015: checks 
+*** TURN *** [Ks Jd 4c] [7d]
+jeronima09: checks 
+mrvip94: checks 
+Dillon2015: checks 
+*** RIVER *** [Ks Jd 4c 7d] [Td]
+jeronima09: checks 
+mrvip94: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+jeronima09: shows [6c 6d] (a pair of Sixes)
+mrvip94: mucks hand 
+Dillon2015: shows [7h 8s] (a pair of Sevens)
+Dillon2015 collected $0.29 from pot
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [Ks Jd 4c 7d Td]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: jeronima09 (small blind) showed [6c 6d] and lost with a pair of Sixes
+Seat 5: mrvip94 (big blind) mucked
+Seat 6: Dillon2015 showed [7h 8s] and won ($0.29) with a pair of Sevens
+
+
+
+PokerStars Hand #201500633398:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:16:22 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.71 in chips) 
+Seat 3: ziggy_poker ($15.67 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($5.01 in chips) 
+Seat 6: Dillon2015 ($11.27 in chips) 
+mrvip94: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: folds 
+mrvip94: folds 
+Uncalled bet ($0.05) returned to Dillon2015
+Dillon2015 collected $0.10 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: jeronima09 (button) folded before Flop (didn't bet)
+Seat 5: mrvip94 (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.10)
+
+
+
+PokerStars Hand #201500636812:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:16:42 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.71 in chips) 
+Seat 3: ziggy_poker ($15.67 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.96 in chips) 
+Seat 6: Dillon2015 ($11.32 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: raises $0.20 to $0.30
+mrvip94: calls $0.30
+Dillon2015: folds 
+Johan25888: folds 
+*** FLOP *** [9h Ks Qs]
+jeronima09 has timed out
+jeronima09: checks 
+mrvip94: checks 
+*** TURN *** [9h Ks Qs] [5d]
+jeronima09: bets $0.40
+mrvip94: folds 
+Uncalled bet ($0.40) returned to jeronima09
+jeronima09 collected $0.72 from pot
+jeronima09: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [9h Ks Qs 5d]
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: jeronima09 collected ($0.72)
+Seat 5: mrvip94 (button) folded on the Turn
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201500646967:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:17:39 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.71 in chips) 
+Seat 3: ziggy_poker ($15.67 in chips) 
+Seat 4: jeronima09 ($10.42 in chips) 
+Seat 5: mrvip94 ($4.66 in chips) 
+Seat 6: Dillon2015 ($11.27 in chips) 
+Johan25888: posts small blind $0.05
+spensor1: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+jeronima09: folds 
+mrvip94: calls $0.10
+Dillon2015: folds 
+Johan25888: calls $0.05
+spensor1: checks 
+*** FLOP *** [2d 6c Qc]
+Johan25888: checks 
+spensor1: checks 
+mrvip94: checks 
+*** TURN *** [2d 6c Qc] [5d]
+Johan25888: checks 
+spensor1: bets $0.30
+mrvip94: folds 
+Johan25888: folds 
+Uncalled bet ($0.30) returned to spensor1
+spensor1 collected $0.29 from pot
+spensor1: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [2d 6c Qc 5d]
+Seat 1: Johan25888 (small blind) folded on the Turn
+Seat 2: spensor1 (big blind) collected ($0.29)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: jeronima09 folded before Flop (didn't bet)
+Seat 5: mrvip94 folded on the Turn
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500656285:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:18:31 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.90 in chips) 
+Seat 3: ziggy_poker ($15.67 in chips) 
+Seat 4: jeronima09 ($10.42 in chips) 
+Seat 5: mrvip94 ($4.56 in chips) 
+Seat 6: Dillon2015 ($11.27 in chips) 
+spensor1: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+jeronima09: raises $0.20 to $0.30
+mrvip94: folds 
+Dillon2015: raises $0.75 to $1.05
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: calls $0.75
+*** FLOP *** [4h Qc 3d]
+jeronima09: checks 
+Dillon2015: bets $2.10
+jeronima09 has timed out
+jeronima09: folds 
+Uncalled bet ($2.10) returned to Dillon2015
+Dillon2015 collected $2.15 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [4h Qc 3d]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: spensor1 (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: jeronima09 folded on the Flop
+Seat 5: mrvip94 folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($2.15)
+
+
+
+PokerStars Hand #201500666496:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:19:27 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.85 in chips) 
+Seat 3: ziggy_poker ($15.57 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.56 in chips) 
+Seat 6: Dillon2015 ($12.37 in chips) 
+ziggy_poker: posts small blind $0.05
+jeronima09: posts big blind $0.10
+*** HOLE CARDS ***
+mrvip94: calls $0.10
+Dillon2015: folds 
+Johan25888: folds 
+spensor1: folds 
+ziggy_poker: calls $0.05
+jeronima09: checks 
+*** FLOP *** [4c 6s 7c]
+ziggy_poker: checks 
+jeronima09: checks 
+mrvip94: checks 
+*** TURN *** [4c 6s 7c] [4s]
+ziggy_poker: checks 
+jeronima09: checks 
+mrvip94: checks 
+*** RIVER *** [4c 6s 7c 4s] [Ac]
+ziggy_poker: checks 
+jeronima09: checks 
+mrvip94: bets $0.40
+ziggy_poker: folds 
+jeronima09: folds 
+Uncalled bet ($0.40) returned to mrvip94
+mrvip94 collected $0.29 from pot
+mrvip94: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4c 6s 7c 4s Ac]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded on the River
+Seat 4: jeronima09 (big blind) folded on the River
+Seat 5: mrvip94 collected ($0.29)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201500678522:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:20:33 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: spensor1 ($10.85 in chips) 
+Seat 3: ziggy_poker ($15.47 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.75 in chips) 
+Seat 6: Dillon2015 ($12.37 in chips) 
+jeronima09: posts small blind $0.05
+mrvip94: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: calls $0.10
+Johan25888: raises $0.30 to $0.40
+spensor1: folds 
+ziggy_poker: folds 
+jeronima09: folds 
+mrvip94: folds 
+Dillon2015: calls $0.30
+*** FLOP *** [5s 8d Ah]
+Dillon2015: checks 
+Johan25888: bets $0.50
+Dillon2015: calls $0.50
+*** TURN *** [5s 8d Ah] [Td]
+Dillon2015: checks 
+Johan25888: bets $0.10
+Dillon2015: calls $0.10
+*** RIVER *** [5s 8d Ah Td] [8s]
+Dillon2015: checks 
+Johan25888: checks 
+*** SHOW DOWN ***
+Dillon2015: shows [9c 5c] (two pair, Eights and Fives)
+Johan25888: shows [Qc Tc] (two pair, Tens and Eights)
+Johan25888 collected $2.05 from pot
+*** SUMMARY ***
+Total pot $2.15 | Rake $0.10 
+Board [5s 8d Ah Td 8s]
+Seat 1: Johan25888 showed [Qc Tc] and won ($2.05) with two pair, Tens and Eights
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: jeronima09 (small blind) folded before Flop
+Seat 5: mrvip94 (big blind) folded before Flop
+Seat 6: Dillon2015 showed [9c 5c] and lost with two pair, Eights and Fives
+
+
+
+PokerStars Hand #201500687915:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:21:24 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($11.05 in chips) 
+Seat 2: spensor1 ($10.85 in chips) 
+Seat 3: ziggy_poker ($15.47 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.65 in chips) 
+Seat 6: Dillon2015 ($11.37 in chips) 
+mrvip94: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+spensor1: raises $0.20 to $0.30
+ziggy_poker: folds 
+jeronima09: calls $0.30
+mrvip94: folds 
+Dillon2015: calls $0.20
+*** FLOP *** [6c Kc 4c]
+Dillon2015: checks 
+spensor1: checks 
+jeronima09: checks 
+*** TURN *** [6c Kc 4c] [9d]
+Dillon2015: checks 
+spensor1: checks 
+jeronima09: checks 
+*** RIVER *** [6c Kc 4c 9d] [Jh]
+Dillon2015: checks 
+spensor1: bets $0.30
+jeronima09: calls $0.30
+Dillon2015: folds 
+*** SHOW DOWN ***
+spensor1: shows [Jc Jd] (three of a kind, Jacks)
+jeronima09: mucks hand 
+spensor1 collected $1.48 from pot
+*** SUMMARY ***
+Total pot $1.55 | Rake $0.07 
+Board [6c Kc 4c 9d Jh]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: spensor1 showed [Jc Jd] and won ($1.48) with three of a kind, Jacks
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: jeronima09 (button) mucked
+Seat 5: mrvip94 (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the River
+
+
+
+PokerStars Hand #201500696372:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:22:11 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($11.05 in chips) 
+Seat 2: spensor1 ($11.73 in chips) 
+Seat 3: ziggy_poker ($15.47 in chips) 
+Seat 4: jeronima09 ($10 in chips) 
+Seat 5: mrvip94 ($4.60 in chips) 
+Seat 6: Dillon2015 ($11.07 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+spensor1: folds 
+ziggy_poker: raises $0.25 to $0.35
+jeronima09: calls $0.35
+mrvip94: folds 
+Dillon2015: folds 
+Johan25888: calls $0.25
+*** FLOP *** [Kc Kh 8h]
+Johan25888: checks 
+ziggy_poker: checks 
+jeronima09: checks 
+*** TURN *** [Kc Kh 8h] [Qc]
+Johan25888: checks 
+ziggy_poker: bets $0.53
+jeronima09 has timed out
+jeronima09: folds 
+Johan25888: folds 
+Uncalled bet ($0.53) returned to ziggy_poker
+ziggy_poker collected $1.05 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Kc Kh 8h Qc]
+Seat 1: Johan25888 (big blind) folded on the Turn
+Seat 2: spensor1 folded before Flop (didn't bet)
+Seat 3: ziggy_poker collected ($1.05)
+Seat 4: jeronima09 folded on the Turn
+Seat 5: mrvip94 (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201500492423:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:03:00 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: spensor1 ($10.05 in chips) 
+Seat 3: ziggy_poker ($14.19 in chips) 
+Seat 4: CETIS1414 ($11.05 in chips) 
+Seat 5: mrvip94 ($8.39 in chips) 
+Seat 6: Dillon2015 ($9.70 in chips) 
+spensor1: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+CETIS1414: raises $0.20 to $0.30
+mrvip94: folds 
+Dillon2015: raises $0.20 to $0.50
+spensor1: folds 
+ziggy_poker: folds 
+CETIS1414: calls $0.20
+*** FLOP *** [2s 3h Ts]
+CETIS1414: checks 
+Dillon2015: bets $1.10
+CETIS1414: folds 
+Uncalled bet ($1.10) returned to Dillon2015
+Dillon2015 collected $1.10 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.15 | Rake $0.05 
+Board [2s 3h Ts]
+Seat 2: spensor1 (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: CETIS1414 folded on the Flop
+Seat 5: mrvip94 folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) collected ($1.10)
+
+
+
+PokerStars Hand #201501173363:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:04:29 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.21 in chips) 
+Seat 2: nasrik ($26.94 in chips) 
+Seat 3: ziggy_poker ($24.39 in chips) 
+Seat 4: hardouin ($9.85 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($10.17 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+hardouin: raises $0.20 to $0.30
+Vyacheslav N: folds 
+Dillon2015: calls $0.30
+Johan25888: folds 
+nasrik: folds 
+*** FLOP *** [7h Qd Ts]
+hardouin: checks 
+Dillon2015: checks 
+*** TURN *** [7h Qd Ts] [4c]
+hardouin: bets $0.50
+Dillon2015: calls $0.50
+*** RIVER *** [7h Qd Ts 4c] [4h]
+hardouin: checks 
+Dillon2015: bets $1.70
+hardouin: folds 
+Uncalled bet ($1.70) returned to Dillon2015
+Dillon2015 collected $1.67 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [7h Qd Ts 4c 4h]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) folded before Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin folded on the River
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) collected ($1.67)
+
+
+
+PokerStars Hand #201501181558:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:05:09 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.16 in chips) 
+Seat 2: nasrik ($26.84 in chips) 
+Seat 3: ziggy_poker ($24.39 in chips) 
+Seat 4: hardouin ($9.05 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($11.04 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+hardouin: folds 
+Vyacheslav N: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: calls $0.15
+ziggy_poker: calls $0.10
+*** FLOP *** [Th 2s 2c]
+nasrik: checks 
+ziggy_poker: checks 
+Dillon2015: checks 
+*** TURN *** [Th 2s 2c] [4s]
+nasrik: checks 
+ziggy_poker: checks 
+Dillon2015: checks 
+*** RIVER *** [Th 2s 2c 4s] [8h]
+nasrik: checks 
+ziggy_poker: checks 
+Dillon2015: bets $0.60
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.60) returned to Dillon2015
+Dillon2015 collected $0.57 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Th 2s 2c 4s 8h]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded on the River
+Seat 3: ziggy_poker (big blind) folded on the River
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($0.57)
+
+
+
+PokerStars Hand #201501196134:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:06:20 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.16 in chips) 
+Seat 2: nasrik ($26.64 in chips) 
+Seat 3: ziggy_poker ($24.19 in chips) 
+Seat 4: hardouin ($9.05 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($11.41 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+hardouin: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.25 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: hardouin (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($0.25)
+
+
+
+PokerStars Hand #201501199900:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:06:39 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10.16 in chips) 
+Seat 2: nasrik ($26.64 in chips) 
+Seat 3: ziggy_poker ($24.14 in chips) 
+Seat 4: hardouin ($8.95 in chips) 
+Seat 6: Dillon2015 ($11.56 in chips) 
+hardouin: posts small blind $0.05
+Vyacheslav N: is sitting out 
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: folds 
+Vyacheslav N leaves the table
+ziggy_poker: folds 
+hardouin: raises $0.20 to $0.30
+Dillon2015: raises $0.20 to $0.50
+hardouin: calls $0.20
+*** FLOP *** [2s 2d 8d]
+hardouin: checks 
+Demokhrit joins the table at seat #5 
+Dillon2015: bets $1
+Demokhrit leaves the table
+part0s777 joins the table at seat #5 
+hardouin: folds 
+Uncalled bet ($1) returned to Dillon2015
+Dillon2015 collected $0.96 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [2s 2d 8d]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: hardouin (small blind) folded on the Flop
+Seat 6: Dillon2015 (big blind) collected ($0.96)
+
+
+
+PokerStars Hand #201501208316:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:07:20 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($10.16 in chips) 
+Seat 2: nasrik ($26.64 in chips) 
+Seat 3: ziggy_poker ($24.14 in chips) 
+Seat 4: hardouin ($8.45 in chips) 
+Seat 6: Dillon2015 ($12.02 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: raises $0.15 to $0.25
+ziggy_poker: folds 
+hardouin: folds 
+Dillon2015: calls $0.20
+Johan25888: calls $0.15
+*** FLOP *** [Kc 3s Qd]
+Dillon2015: checks 
+Johan25888: checks 
+part0s777 leaves the table
+Vyacheslav N joins the table at seat #5 
+Vyacheslav N leaves the table
+degs311 joins the table at seat #5 
+nasrik has timed out
+nasrik: checks 
+*** TURN *** [Kc 3s Qd] [7h]
+Dillon2015: checks 
+Johan25888: checks 
+nasrik has timed out
+nasrik: checks 
+*** RIVER *** [Kc 3s Qd 7h] [Td]
+Dillon2015: checks 
+Johan25888: bets $0.50
+nasrik has timed out
+nasrik: folds 
+Dillon2015: calls $0.50
+*** SHOW DOWN ***
+Johan25888: shows [Ts 7s] (two pair, Tens and Sevens)
+Dillon2015: mucks hand 
+Johan25888 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Kc 3s Qd 7h Td]
+Seat 1: Johan25888 (big blind) showed [Ts 7s] and won ($1.67) with two pair, Tens and Sevens
+Seat 2: nasrik folded on the River
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) mucked
+
+
+
+PokerStars Hand #201501229908:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:09:06 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($11.08 in chips) 
+Seat 2: nasrik ($26.39 in chips) 
+Seat 3: ziggy_poker ($24.14 in chips) 
+Seat 4: hardouin ($8.45 in chips) 
+Seat 6: Dillon2015 ($11.27 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+degs311: sits out 
+*** HOLE CARDS ***
+ziggy_poker: folds 
+hardouin: folds 
+Dillon2015: calls $0.10
+Johan25888: calls $0.05
+nasrik: checks 
+*** FLOP *** [Jh 4h Js]
+Johan25888: checks 
+nasrik: checks 
+Dillon2015: checks 
+*** TURN *** [Jh 4h Js] [2h]
+Johan25888: checks 
+nasrik: checks 
+Dillon2015: checks 
+*** RIVER *** [Jh 4h Js 2h] [Ah]
+Johan25888: checks 
+nasrik: checks 
+Dillon2015: bets $0.30
+Johan25888: folds 
+nasrik: calls $0.30
+*** SHOW DOWN ***
+Dillon2015: shows [Th 7d] (a flush, Ace high)
+nasrik: mucks hand 
+Dillon2015 collected $0.86 from pot
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Jh 4h Js 2h Ah]
+Seat 1: Johan25888 (small blind) folded on the River
+Seat 2: nasrik (big blind) mucked
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) showed [Th 7d] and won ($0.86) with a flush, Ace high
+
+
+
+PokerStars Hand #201501239740:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:09:55 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10.98 in chips) 
+Seat 2: nasrik ($25.99 in chips) 
+Seat 3: ziggy_poker ($24.14 in chips) 
+Seat 4: hardouin ($8.45 in chips) 
+Seat 6: Dillon2015 ($11.73 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+degs311: sits out 
+*** HOLE CARDS ***
+hardouin: raises $0.20 to $0.30
+Dillon2015: calls $0.30
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+*** FLOP *** [Js 2s Tc]
+hardouin: checks 
+Dillon2015: bets $0.70
+hardouin: calls $0.70
+*** TURN *** [Js 2s Tc] [3d]
+hardouin: checks 
+Dillon2015: checks 
+*** RIVER *** [Js 2s Tc 3d] [7s]
+hardouin: bets $2.05
+Dillon2015: calls $2.05
+*** SHOW DOWN ***
+hardouin: shows [8c 8d] (a pair of Eights)
+Dillon2015: shows [Ts Ad] (a pair of Tens)
+Dillon2015 collected $5.97 from pot
+*** SUMMARY ***
+Total pot $6.25 | Rake $0.28 
+Board [Js 2s Tc 3d 7s]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: hardouin showed [8c 8d] and lost with a pair of Eights
+Seat 6: Dillon2015 showed [Ts Ad] and won ($5.97) with a pair of Tens
+
+
+
+PokerStars Hand #201501246892:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:10:30 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.98 in chips) 
+Seat 2: nasrik ($25.94 in chips) 
+Seat 3: ziggy_poker ($24.04 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($14.65 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: is sitting out 
+degs311: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: raises $0.15 to $0.25
+nasrik: raises $0.65 to $0.90
+ziggy_poker: folds 
+degs311: folds 
+Johan25888: raises $1.50 to $2.40
+nasrik: folds 
+Uncalled bet ($1.50) returned to Johan25888
+Johan25888 collected $1.95 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0 
+Seat 1: Johan25888 collected ($1.95)
+Seat 2: nasrik (button) folded before Flop
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 5: degs311 (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501255398:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:11:12 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($12.03 in chips) 
+Seat 2: nasrik ($25.04 in chips) 
+Seat 3: ziggy_poker ($23.99 in chips) 
+Seat 5: degs311 ($9.90 in chips) 
+Seat 6: Dillon2015 ($14.65 in chips) 
+degs311: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: raises $0.20 to $0.30
+nasrik: folds 
+ziggy_poker: calls $0.30
+degs311: folds 
+Dillon2015: folds 
+*** FLOP *** [Ks 5h Ah]
+Johan25888: checks 
+ziggy_poker: bets $0.30
+Johan25888: folds 
+Uncalled bet ($0.30) returned to ziggy_poker
+ziggy_poker collected $0.72 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Ks 5h Ah]
+Seat 1: Johan25888 folded on the Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) collected ($0.72)
+Seat 5: degs311 (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201501260946:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:11:39 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($11.73 in chips) 
+Seat 2: nasrik ($25.04 in chips) 
+Seat 3: ziggy_poker ($24.41 in chips) 
+Seat 5: degs311 ($9.85 in chips) 
+Seat 6: Dillon2015 ($14.55 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: raises $0.15 to $0.25
+ziggy_poker: folds 
+degs311: calls $0.25
+Dillon2015: calls $0.20
+Johan25888: folds 
+*** FLOP *** [5h 4c 2c]
+Dillon2015: bets $0.80
+nasrik: calls $0.80
+degs311: folds 
+*** TURN *** [5h 4c 2c] [As]
+Dillon2015: checks 
+nasrik: checks 
+*** RIVER *** [5h 4c 2c As] [9d]
+Dillon2015: bets $2.30
+nasrik: calls $2.30
+*** SHOW DOWN ***
+Dillon2015: shows [9s 9c] (three of a kind, Nines)
+nasrik: mucks hand 
+Dillon2015 collected $6.73 from pot
+*** SUMMARY ***
+Total pot $7.05 | Rake $0.32 
+Board [5h 4c 2c As 9d]
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik mucked
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: degs311 (button) folded on the Flop
+Seat 6: Dillon2015 (small blind) showed [9s 9c] and won ($6.73) with three of a kind, Nines
+
+
+
+PokerStars Hand #201501269408:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:12:21 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($11.63 in chips) 
+Seat 2: nasrik ($21.69 in chips) 
+Seat 3: ziggy_poker ($24.41 in chips) 
+Seat 5: degs311 ($9.60 in chips) 
+Seat 6: Dillon2015 ($17.93 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+degs311: raises $0.10 to $0.20
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: calls $0.10
+*** FLOP *** [3s 4s Jd]
+nasrik: checks 
+degs311: bets $0.22
+nasrik: calls $0.22
+*** TURN *** [3s 4s Jd] [8c]
+nasrik: checks 
+degs311: checks 
+*** RIVER *** [3s 4s Jd 8c] [2d]
+nasrik: bets $0.56
+degs311: calls $0.56
+*** SHOW DOWN ***
+nasrik: shows [Js Kc] (a pair of Jacks)
+degs311: mucks hand 
+nasrik collected $1.92 from pot
+*** SUMMARY ***
+Total pot $2.01 | Rake $0.09 
+Board [3s 4s Jd 8c 2d]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) showed [Js Kc] and won ($1.92) with a pair of Jacks
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: degs311 mucked
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501274476:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:12:46 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($11.58 in chips) 
+Seat 2: nasrik ($22.63 in chips) 
+Seat 3: ziggy_poker ($24.41 in chips) 
+Seat 5: degs311 ($8.62 in chips) 
+Seat 6: Dillon2015 ($17.93 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+hardouin: sits out 
+*** HOLE CARDS ***
+degs311: raises $0.20 to $0.30
+Dillon2015: calls $0.30
+Johan25888: folds 
+nasrik: calls $0.25
+ziggy_poker: folds 
+*** FLOP *** [5d 4c 5s]
+nasrik: checks 
+degs311: bets $0.48
+Dillon2015: folds 
+nasrik: folds 
+Uncalled bet ($0.48) returned to degs311
+degs311 collected $0.96 from pot
+degs311: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0.04 
+Board [5d 4c 5s]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded on the Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 5: degs311 collected ($0.96)
+Seat 6: Dillon2015 folded on the Flop
+
+
+
+PokerStars Hand #201501279535:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:13:10 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($11.58 in chips) 
+Seat 2: nasrik ($22.33 in chips) 
+Seat 3: ziggy_poker ($24.31 in chips) 
+Seat 4: hardouin ($10 in chips) 
+Seat 5: degs311 ($9.28 in chips) 
+Seat 6: Dillon2015 ($17.63 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: posts big blind $0.10
+*** HOLE CARDS ***
+degs311: folds 
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: raises $0.21 to $0.31
+ziggy_poker: folds 
+hardouin: folds 
+Dillon2015: calls $0.21
+*** FLOP *** [8d 9s 7c]
+Dillon2015: checks 
+nasrik: checks 
+*** TURN *** [8d 9s 7c] [4c]
+Dillon2015: checks 
+nasrik: checks 
+*** RIVER *** [8d 9s 7c 4c] [Qs]
+Dillon2015: checks 
+nasrik: checks 
+*** SHOW DOWN ***
+Dillon2015: shows [4s Js] (a pair of Fours)
+nasrik: mucks hand 
+Dillon2015 collected $0.74 from pot
+*** SUMMARY ***
+Total pot $0.77 | Rake $0.03 
+Board [8d 9s 7c 4c Qs]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) mucked
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: hardouin (big blind) folded before Flop
+Seat 5: degs311 folded before Flop (didn't bet)
+Seat 6: Dillon2015 showed [4s Js] and won ($0.74) with a pair of Fours
+
+
+
+PokerStars Hand #201501286034:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:13:41 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($11.58 in chips) 
+Seat 2: nasrik ($22.02 in chips) 
+Seat 3: ziggy_poker ($24.26 in chips) 
+Seat 4: hardouin ($9.90 in chips) 
+Seat 5: degs311 ($9.28 in chips) 
+Seat 6: Dillon2015 ($18.06 in chips) 
+hardouin: posts small blind $0.05
+degs311: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+hardouin: folds 
+degs311: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.25 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: hardouin (small blind) folded before Flop
+Seat 5: degs311 (big blind) folded before Flop
+Seat 6: Dillon2015 collected ($0.25)
+
+
+
+PokerStars Hand #201501290837:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:14:04 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($11.58 in chips) 
+Seat 2: nasrik ($22.02 in chips) 
+Seat 3: ziggy_poker ($24.26 in chips) 
+Seat 4: hardouin ($9.85 in chips) 
+Seat 5: degs311 ($9.18 in chips) 
+Seat 6: Dillon2015 ($18.21 in chips) 
+degs311: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+hardouin: raises $0.20 to $0.30
+degs311: folds 
+Dillon2015: calls $0.20
+*** FLOP *** [Ks 6s 4h]
+Dillon2015: bets $0.60
+hardouin: folds 
+Uncalled bet ($0.60) returned to Dillon2015
+Dillon2015 collected $0.62 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [Ks 6s 4h]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin (button) folded on the Flop
+Seat 5: degs311 (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($0.62)
+
+
+
+PokerStars Hand #201501297023:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:14:34 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($11.58 in chips) 
+Seat 2: nasrik ($22.02 in chips) 
+Seat 3: ziggy_poker ($24.26 in chips) 
+Seat 4: hardouin ($9.55 in chips) 
+Seat 5: degs311 ($9.13 in chips) 
+Seat 6: Dillon2015 ($18.53 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: folds 
+hardouin: folds 
+degs311: raises $0.20 to $0.30
+Dillon2015: calls $0.25
+Johan25888: folds 
+*** FLOP *** [3s 6c Th]
+Dillon2015: checks 
+degs311: bets $0.67
+Dillon2015: calls $0.67
+*** TURN *** [3s 6c Th] [3d]
+Dillon2015: checks 
+degs311: checks 
+*** RIVER *** [3s 6c Th 3d] [7h]
+Dillon2015: bets $1.90
+degs311: calls $1.90
+*** SHOW DOWN ***
+Dillon2015: shows [Ks Tc] (two pair, Tens and Threes)
+degs311: mucks hand 
+Dillon2015 collected $5.58 from pot
+*** SUMMARY ***
+Total pot $5.84 | Rake $0.26 
+Board [3s 6c Th 3d 7h]
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 5: degs311 (button) mucked
+Seat 6: Dillon2015 (small blind) showed [Ks Tc] and won ($5.58) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #201501304569:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:15:10 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($11.48 in chips) 
+Seat 2: nasrik ($22.02 in chips) 
+Seat 3: ziggy_poker ($24.26 in chips) 
+Seat 4: hardouin ($9.55 in chips) 
+Seat 5: degs311 ($6.26 in chips) 
+Seat 6: Dillon2015 ($21.24 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+hardouin: folds 
+degs311: raises $0.10 to $0.20
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+Uncalled bet ($0.10) returned to degs311
+degs311 collected $0.25 from pot
+degs311: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) folded before Flop
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 5: degs311 collected ($0.25)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501307683:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:15:25 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($11.43 in chips) 
+Seat 2: nasrik ($21.92 in chips) 
+Seat 3: ziggy_poker ($24.26 in chips) 
+Seat 4: hardouin ($9.55 in chips) 
+Seat 5: degs311 ($6.41 in chips) 
+Seat 6: Dillon2015 ($21.24 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+hardouin: folds 
+degs311: folds 
+Dillon2015: folds 
+Johan25888: raises $0.15 to $0.25
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.15) returned to Johan25888
+Johan25888 collected $0.25 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (button) collected ($0.25)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 5: degs311 folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501311816:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:15:45 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($11.58 in chips) 
+Seat 2: nasrik ($21.87 in chips) 
+Seat 3: ziggy_poker ($24.16 in chips) 
+Seat 4: hardouin ($9.55 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($21.24 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: posts big blind $0.10
+*** HOLE CARDS ***
+degs311: folds 
+Dillon2015: folds 
+Johan25888: raises $0.15 to $0.25
+nasrik: raises $0.65 to $0.90
+ziggy_poker: folds 
+hardouin: folds 
+Johan25888: folds 
+Uncalled bet ($0.65) returned to nasrik
+nasrik collected $0.65 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.65 | Rake $0 
+Seat 1: Johan25888 folded before Flop
+Seat 2: nasrik (button) collected ($0.65)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: hardouin (big blind) folded before Flop
+Seat 5: degs311 folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501316765:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:16:09 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($11.33 in chips) 
+Seat 2: nasrik ($22.27 in chips) 
+Seat 3: ziggy_poker ($24.11 in chips) 
+Seat 4: hardouin ($9.45 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($21.24 in chips) 
+hardouin: posts small blind $0.05
+degs311: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+hardouin: folds 
+Uncalled bet ($0.05) returned to degs311
+degs311 collected $0.10 from pot
+degs311: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: hardouin (small blind) folded before Flop
+Seat 5: degs311 (big blind) collected ($0.10)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501318748:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:16:18 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: Johan25888 ($11.33 in chips) 
+Seat 2: nasrik ($22.27 in chips) 
+Seat 3: ziggy_poker ($24.11 in chips) 
+Seat 4: hardouin ($9.40 in chips) 
+Seat 5: degs311 ($10.05 in chips) 
+Seat 6: Dillon2015 ($21.24 in chips) 
+degs311: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: calls $0.10
+hardouin: raises $0.20 to $0.30
+degs311: folds 
+Dillon2015: raises $0.75 to $1.05
+ziggy_poker: folds 
+hardouin: calls $0.75
+*** FLOP *** [2c 6d 3d]
+Dillon2015: bets $2.10
+hardouin: folds 
+Uncalled bet ($2.10) returned to Dillon2015
+Dillon2015 collected $2.15 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2c 6d 3d]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded before Flop
+Seat 4: hardouin (button) folded on the Flop
+Seat 5: degs311 (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) collected ($2.15)
+
+
+
+PokerStars Hand #201501326801:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:16:57 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($11.33 in chips) 
+Seat 2: nasrik ($22.27 in chips) 
+Seat 3: ziggy_poker ($24.01 in chips) 
+Seat 4: hardouin ($8.35 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($22.34 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: calls $0.10
+hardouin: folds 
+degs311: folds 
+Dillon2015: calls $0.05
+Johan25888: checks 
+*** FLOP *** [6c 3h Qh]
+Dillon2015: checks 
+Johan25888: bets $0.20
+ziggy_poker: folds 
+Dillon2015: calls $0.20
+*** TURN *** [6c 3h Qh] [Th]
+Dillon2015: checks 
+Johan25888: checks 
+*** RIVER *** [6c 3h Qh Th] [Ts]
+Dillon2015: checks 
+Johan25888: bets $0.22
+Dillon2015: folds 
+Uncalled bet ($0.22) returned to Johan25888
+Johan25888 collected $0.67 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.70 | Rake $0.03 
+Board [6c 3h Qh Th Ts]
+Seat 1: Johan25888 (big blind) collected ($0.67)
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded on the Flop
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 5: degs311 (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded on the River
+
+
+
+PokerStars Hand #201501343253:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:18:16 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($11.70 in chips) 
+Seat 2: nasrik ($22.27 in chips) 
+Seat 3: ziggy_poker ($23.91 in chips) 
+Seat 4: hardouin ($10 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($22.04 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+hardouin: folds 
+degs311: folds 
+Dillon2015: calls $0.10
+Johan25888: calls $0.05
+nasrik: raises $0.40 to $0.50
+Dillon2015: calls $0.40
+Johan25888: folds 
+*** FLOP *** [2s 8d 4c]
+nasrik: bets $0.25
+Dillon2015: folds 
+Uncalled bet ($0.25) returned to nasrik
+nasrik collected $1.05 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [2s 8d 4c]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) collected ($1.05)
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 4: hardouin folded before Flop (didn't bet)
+Seat 5: degs311 folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded on the Flop
+
+
+
+PokerStars Hand #201501348649:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:18:42 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($11.60 in chips) 
+Seat 2: nasrik ($22.82 in chips) 
+Seat 3: ziggy_poker ($23.91 in chips) 
+Seat 4: hardouin ($10 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($21.54 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+hardouin: raises $0.20 to $0.30
+degs311: folds 
+Dillon2015: raises $0.75 to $1.05
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+hardouin: raises $8.95 to $10 and is all-in
+Dillon2015: calls $8.95
+*** FLOP *** [Jh 8d 4d]
+*** TURN *** [Jh 8d 4d] [9d]
+*** RIVER *** [Jh 8d 4d 9d] [Kc]
+*** SHOW DOWN ***
+hardouin: shows [Qh Qs] (a pair of Queens)
+Dillon2015: shows [Kh As] (a pair of Kings)
+Dillon2015 collected $19.24 from pot
+*** SUMMARY ***
+Total pot $20.15 | Rake $0.91 
+Board [Jh 8d 4d 9d Kc]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 4: hardouin showed [Qh Qs] and lost with a pair of Queens
+Seat 5: degs311 folded before Flop (didn't bet)
+Seat 6: Dillon2015 showed [Kh As] and won ($19.24) with a pair of Kings
+
+
+
+PokerStars Hand #201501356574:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:19:19 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($11.60 in chips) 
+Seat 2: nasrik ($22.77 in chips) 
+Seat 3: ziggy_poker ($23.81 in chips) 
+Seat 5: degs311 ($10 in chips) 
+Seat 6: Dillon2015 ($30.78 in chips) 
+ziggy_poker: posts small blind $0.05
+degs311: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.05) returned to degs311
+degs311 collected $0.10 from pot
+degs311: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 5: degs311 (big blind) collected ($0.10)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501359291:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:19:32 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($11.60 in chips) 
+Seat 2: nasrik ($22.77 in chips) 
+Seat 3: ziggy_poker ($23.76 in chips) 
+Seat 5: degs311 ($10.05 in chips) 
+Seat 6: Dillon2015 ($30.78 in chips) 
+degs311: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: raises $0.20 to $0.30
+nasrik: folds 
+ziggy_poker: folds 
+degs311: calls $0.25
+Dillon2015: calls $0.20
+*** FLOP *** [Ts 8s Tc]
+degs311: checks 
+Dillon2015: bets $0.90
+Johan25888: folds 
+degs311: folds 
+Uncalled bet ($0.90) returned to Dillon2015
+Dillon2015 collected $0.86 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.90 | Rake $0.04 
+Board [Ts 8s Tc]
+Seat 1: Johan25888 folded on the Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 5: degs311 (small blind) folded on the Flop
+Seat 6: Dillon2015 (big blind) collected ($0.86)
+
+
+
+PokerStars Hand #201501363930:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:19:55 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($11.30 in chips) 
+Seat 2: nasrik ($22.77 in chips) 
+Seat 3: ziggy_poker ($23.76 in chips) 
+Seat 5: degs311 ($9.75 in chips) 
+Seat 6: Dillon2015 ($31.34 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+hardouin: sits out 
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: raises $0.20 to $0.30
+degs311: folds 
+Dillon2015: folds 
+Johan25888: folds 
+Uncalled bet ($0.20) returned to ziggy_poker
+ziggy_poker collected $0.25 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker collected ($0.25)
+Seat 5: degs311 (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201501098663:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:57:58 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10.12 in chips) 
+Seat 2: nasrik ($13.01 in chips) 
+Seat 3: ziggy_poker ($24.56 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($19.53 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+*** HOLE CARDS ***
+nasrik: raises $0.15 to $0.25
+ziggy_poker: calls $0.25
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: folds 
+*** FLOP *** [2s Tc 7h]
+nasrik: bets $0.31
+ziggy_poker: calls $0.31
+*** TURN *** [2s Tc 7h] [7s]
+nasrik: bets $0.36
+ziggy_poker: folds 
+Uncalled bet ($0.36) returned to nasrik
+nasrik collected $1.21 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.27 | Rake $0.06 
+Board [2s Tc 7h 7s]
+Seat 1: Johan25888 (big blind) folded before Flop
+Seat 2: nasrik collected ($1.21)
+Seat 3: ziggy_poker folded on the Turn
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201501103198:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:58:24 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10.02 in chips) 
+Seat 2: nasrik ($13.66 in chips) 
+Seat 3: ziggy_poker ($24 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($19.48 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: raises $0.30 to $0.40
+Dillon2015: raises $0.85 to $1.25
+nasrik: calls $0.85
+*** FLOP *** [2h Ts 8d]
+nasrik: checks 
+Dillon2015: bets $2.40
+nasrik: calls $2.40
+*** TURN *** [2h Ts 8d] [9c]
+nasrik: checks 
+Dillon2015: bets $7
+nasrik: raises $3.01 to $10.01 and is all-in
+Dillon2015: calls $3.01
+*** RIVER *** [2h Ts 8d 9c] [Qd]
+*** SHOW DOWN ***
+nasrik: shows [9d Td] (two pair, Tens and Nines)
+Dillon2015: shows [8s 7h] (a pair of Eights)
+nasrik collected $26.14 from pot
+*** SUMMARY ***
+Total pot $27.37 | Rake $1.23 
+Board [2h Ts 8d 9c Qd]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) showed [9d Td] and won ($26.14) with two pair, Tens and Nines
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) showed [8s 7h] and lost with a pair of Eights
+
+
+
+PokerStars Hand #201501111237:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:59:09 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($26.14 in chips) 
+Seat 3: ziggy_poker ($24 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($5.82 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: folds 
+ziggy_poker: calls $0.10
+*** FLOP *** [Jd 8s Qh]
+ziggy_poker: checks 
+Dillon2015: checks 
+*** TURN *** [Jd 8s Qh] [6s]
+ziggy_poker: checks 
+Dillon2015: checks 
+*** RIVER *** [Jd 8s Qh 6s] [Ad]
+ziggy_poker: checks 
+Dillon2015: bets $0.40
+ziggy_poker: folds 
+Uncalled bet ($0.40) returned to Dillon2015
+Dillon2015 collected $0.43 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.45 | Rake $0.02 
+Board [Jd 8s Qh 6s Ad]
+Seat 1: Johan25888 (button) folded before Flop (didn't bet)
+Seat 2: nasrik (small blind) folded before Flop
+Seat 3: ziggy_poker (big blind) folded on the River
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($0.43)
+
+
+
+PokerStars Hand #201501116770:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 3:59:39 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($26.09 in chips) 
+Seat 3: ziggy_poker ($23.80 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($10 in chips) 
+ziggy_poker: posts small blind $0.05
+Vyacheslav N: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+nasrik: raises $0.11 to $0.21
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Uncalled bet ($0.11) returned to nasrik
+nasrik collected $0.25 from pot
+Alinyr was removed from the table for failing to post
+Alinyr leaves the table
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) collected ($0.25)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 5: Vyacheslav N (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501120685:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:00:01 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($26.24 in chips) 
+Seat 3: ziggy_poker ($23.75 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($10 in chips) 
+Vyacheslav N: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+Johan25888: folds 
+hardouin joins the table at seat #4 
+nasrik: raises $0.14 to $0.24
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Dillon2015: calls $0.14
+*** FLOP *** [6h 5c 5s]
+Dillon2015: checks 
+nasrik: checks 
+*** TURN *** [6h 5c 5s] [6c]
+Dillon2015: checks 
+nasrik: bets $0.34
+Dillon2015: calls $0.34
+*** RIVER *** [6h 5c 5s 6c] [Ac]
+Dillon2015: checks 
+nasrik: bets $0.77
+Dillon2015: folds 
+Uncalled bet ($0.77) returned to nasrik
+nasrik collected $1.16 from pot
+nasrik: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.21 | Rake $0.05 
+Board [6h 5c 5s 6c Ac]
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik collected ($1.16)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 5: Vyacheslav N (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the River
+
+
+
+PokerStars Hand #201501127736:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:00:40 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($26.82 in chips) 
+Seat 3: ziggy_poker ($23.75 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($9.42 in chips) 
+Dillon2015: posts small blind $0.05
+Johan25888: posts big blind $0.10
+hardouin: sits out 
+*** HOLE CARDS ***
+nasrik: folds 
+ziggy_poker: calls $0.10
+Vyacheslav N: folds 
+Dillon2015: calls $0.05
+Johan25888: checks 
+*** FLOP *** [4h 5s 3c]
+Dillon2015: bets $0.30
+Johan25888: folds 
+ziggy_poker: folds 
+Uncalled bet ($0.30) returned to Dillon2015
+Dillon2015 collected $0.29 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01 
+Board [4h 5s 3c]
+Seat 1: Johan25888 (big blind) folded on the Flop
+Seat 2: nasrik folded before Flop (didn't bet)
+Seat 3: ziggy_poker folded on the Flop
+Seat 5: Vyacheslav N (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) collected ($0.29)
+
+
+
+PokerStars Hand #201501132294:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:01:03 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($26.82 in chips) 
+Seat 3: ziggy_poker ($23.65 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($9.61 in chips) 
+Johan25888: posts small blind $0.05
+nasrik: posts big blind $0.10
+hardouin: sits out 
+*** HOLE CARDS ***
+ziggy_poker: folds 
+Vyacheslav N: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: folds 
+nasrik: calls $0.10
+*** FLOP *** [2h Qc 2c]
+nasrik: checks 
+Dillon2015: checks 
+*** TURN *** [2h Qc 2c] [Ks]
+nasrik: checks 
+Dillon2015: checks 
+*** RIVER *** [2h Qc 2c Ks] [6h]
+nasrik: bets $0.10
+Dillon2015: calls $0.10
+*** SHOW DOWN ***
+nasrik: shows [7h As] (a pair of Deuces)
+Dillon2015: shows [5s Ah] (a pair of Deuces)
+nasrik collected $0.31 from pot
+Dillon2015 collected $0.31 from pot
+*** SUMMARY ***
+Total pot $0.65 | Rake $0.03 
+Board [2h Qc 2c Ks 6h]
+Seat 1: Johan25888 (small blind) folded before Flop
+Seat 2: nasrik (big blind) showed [7h As] and won ($0.31) with a pair of Deuces
+Seat 3: ziggy_poker folded before Flop (didn't bet)
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) showed [5s Ah] and won ($0.31) with a pair of Deuces
+
+
+
+PokerStars Hand #201501137277:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:01:29 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: Johan25888 ($10 in chips) 
+Seat 2: nasrik ($26.83 in chips) 
+Seat 3: ziggy_poker ($23.65 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($9.62 in chips) 
+nasrik: posts small blind $0.05
+ziggy_poker: posts big blind $0.10
+hardouin: sits out 
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: folds 
+Johan25888: raises $0.15 to $0.25
+nasrik: calls $0.20
+ziggy_poker: folds 
+*** FLOP *** [4d 6s Ah]
+nasrik: checks 
+Johan25888: bets $0.29
+nasrik: folds 
+Uncalled bet ($0.29) returned to Johan25888
+Johan25888 collected $0.57 from pot
+Johan25888: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [4d 6s Ah]
+Seat 1: Johan25888 (button) collected ($0.57)
+Seat 2: nasrik (small blind) folded on the Flop
+Seat 3: ziggy_poker (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501141454:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:01:50 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($10.32 in chips) 
+Seat 2: nasrik ($26.58 in chips) 
+Seat 3: ziggy_poker ($23.55 in chips) 
+Seat 4: hardouin ($10 in chips) 
+Seat 5: Vyacheslav N ($10 in chips) 
+Seat 6: Dillon2015 ($9.62 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: posts big blind $0.10
+*** HOLE CARDS ***
+Vyacheslav N: folds 
+Dillon2015: raises $0.10 to $0.20
+Johan25888: calls $0.20
+nasrik: folds 
+ziggy_poker: calls $0.15
+hardouin: folds 
+*** FLOP *** [Ah 9c 2s]
+ziggy_poker: checks 
+Dillon2015: checks 
+Johan25888: checks 
+*** TURN *** [Ah 9c 2s] [3d]
+ziggy_poker: bets $0.67
+Dillon2015: calls $0.67
+Johan25888: folds 
+*** RIVER *** [Ah 9c 2s 3d] [Qh]
+ziggy_poker: bets $2.30
+Dillon2015: folds 
+Uncalled bet ($2.30) returned to ziggy_poker
+ziggy_poker collected $1.95 from pot
+ziggy_poker: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.04 | Rake $0.09 
+Board [Ah 9c 2s 3d Qh]
+Seat 1: Johan25888 folded on the Turn
+Seat 2: nasrik (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) collected ($1.95)
+Seat 4: hardouin (big blind) folded before Flop
+Seat 5: Vyacheslav N folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded on the River
+
+
+
+PokerStars Hand #201501497976:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:30:42 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: Johan25888 ($12.21 in chips) 
+Seat 2: nasrik ($24.02 in chips) 
+Seat 3: ziggy_poker ($27.27 in chips) 
+Seat 4: hardouin ($9.85 in chips) 
+Seat 6: Dillon2015 ($23.93 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: calls $0.10
+Johan25888: folds 
+nasrik: raises $0.35 to $0.45
+degs311 leaves the table
+ziggy_poker: folds 
+hardouin: folds 
+croft1c joins the table at seat #5 
+Dillon2015: raises $1.05 to $1.50
+nasrik: raises $7.15 to $8.65
+Dillon2015: folds 
+Uncalled bet ($7.15) returned to nasrik
+nasrik collected $3.15 from pot
+*** SUMMARY ***
+Total pot $3.15 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: nasrik (button) collected ($3.15)
+Seat 3: ziggy_poker (small blind) folded before Flop
+Seat 4: hardouin (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop
+
+
+
+PokerStars Hand #201501566961:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:36:08 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: Johan25888 ($23.50 in chips) 
+Seat 2: Demokhrit ($10 in chips) 
+Seat 3: ziggy_poker ($27.07 in chips) 
+Seat 4: hardouin ($9.60 in chips) 
+Seat 5: croft1c ($19.64 in chips) 
+Seat 6: Dillon2015 ($9.92 in chips) 
+hardouin: posts small blind $0.05
+croft1c: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+Johan25888: folds 
+Demokhrit: raises $0.20 to $0.30
+ziggy_poker: folds 
+hardouin: folds 
+croft1c: folds 
+Uncalled bet ($0.20) returned to Demokhrit
+Demokhrit collected $0.25 from pot
+Demokhrit: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: Johan25888 folded before Flop (didn't bet)
+Seat 2: Demokhrit collected ($0.25)
+Seat 3: ziggy_poker (button) folded before Flop (didn't bet)
+Seat 4: hardouin (small blind) folded before Flop
+Seat 5: croft1c (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201501703015:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 4:46:00 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: Demokhrit ($11.87 in chips) 
+Seat 3: ziggy_poker ($24.38 in chips) 
+Seat 4: hardouin ($10 in chips) 
+Seat 5: croft1c ($19.19 in chips) 
+Seat 6: Dillon2015 ($25.43 in chips) 
+ziggy_poker: posts small blind $0.05
+hardouin: posts big blind $0.10
+Johan25888: sits out 
+*** HOLE CARDS ***
+croft1c: raises $0.20 to $0.30
+Dillon2015: calls $0.30
+Demokhrit: folds 
+ziggy_poker: calls $0.25
+hardouin: folds 
+*** FLOP *** [4d 2h 6s]
+ziggy_poker: checks 
+croft1c: checks 
+Dillon2015: checks 
+*** TURN *** [4d 2h 6s] [Tc]
+ziggy_poker: checks 
+croft1c: bets $0.48
+Dillon2015: calls $0.48
+ziggy_poker: folds 
+*** RIVER *** [4d 2h 6s Tc] [7d]
+croft1c: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+croft1c: shows [5c 5s] (a pair of Fives)
+Dillon2015: mucks hand 
+croft1c collected $1.87 from pot
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [4d 2h 6s Tc 7d]
+Seat 2: Demokhrit (button) folded before Flop (didn't bet)
+Seat 3: ziggy_poker (small blind) folded on the Turn
+Seat 4: hardouin (big blind) folded before Flop
+Seat 5: croft1c showed [5c 5s] and won ($1.87) with a pair of Fives
+Seat 6: Dillon2015 mucked
+
+
+
+PokerStars Hand #201502530438:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 5:44:39 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: lanntheclever ($10 in chips) 
+Seat 2: J4SunO ($11.22 in chips) 
+Seat 3: Alinyr ($10.59 in chips) 
+Seat 4: Wolveredo ($23.25 in chips) 
+Seat 5: croft1c ($38.45 in chips) 
+Seat 6: Dillon2015 ($10.17 in chips) 
+J4SunO: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Wolveredo has timed out
+Wolveredo: folds 
+croft1c: folds 
+Dillon2015: folds 
+lanntheclever: folds 
+J4SunO: folds 
+Uncalled bet ($0.05) returned to Alinyr
+Alinyr collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: lanntheclever (button) folded before Flop (didn't bet)
+Seat 2: J4SunO (small blind) folded before Flop
+Seat 3: Alinyr (big blind) collected ($0.10)
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: croft1c folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201502840637:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:05:39 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($10 in chips) 
+Seat 3: Alinyr ($13.60 in chips) 
+Seat 4: Wolveredo ($23.27 in chips) 
+Seat 5: hsvdote ($10 in chips) 
+Seat 6: Dillon2015 ($13.44 in chips) 
+J4SunO: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: calls $0.10
+ipodgr: raises $0.30 to $0.40
+J4SunO: calls $0.35
+Alinyr: folds 
+Dillon2015: calls $0.30
+*** FLOP *** [Jc 9c 3s]
+J4SunO: checks 
+Dillon2015: checks 
+ipodgr: checks 
+*** TURN *** [Jc 9c 3s] [Jd]
+J4SunO: bets $0.93
+Dillon2015: folds 
+ipodgr: folds 
+Uncalled bet ($0.93) returned to J4SunO
+J4SunO collected $1.24 from pot
+J4SunO: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.30 | Rake $0.06 
+Board [Jc 9c 3s Jd]
+Seat 1: ipodgr (button) folded on the Turn
+Seat 2: J4SunO (small blind) collected ($1.24)
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded on the Turn
+
+
+
+PokerStars Hand #201502856654:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:06:41 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($10.84 in chips) 
+Seat 3: Alinyr ($13.50 in chips) 
+Seat 4: Wolveredo ($23.27 in chips) 
+Seat 5: hsvdote ($10 in chips) 
+Seat 6: Dillon2015 ($13.04 in chips) 
+Alinyr: posts small blind $0.05
+Wolveredo: posts big blind $0.10
+*** HOLE CARDS ***
+hsvdote: raises $0.14 to $0.24
+Dillon2015: calls $0.24
+ipodgr: folds 
+J4SunO: folds 
+Alinyr: folds 
+Wolveredo: folds 
+*** FLOP *** [Js 8c 4s]
+hsvdote: checks 
+Dillon2015: checks 
+*** TURN *** [Js 8c 4s] [8s]
+hsvdote: bets $0.18
+Dillon2015: calls $0.18
+*** RIVER *** [Js 8c 4s 8s] [2c]
+hsvdote: bets $0.75
+Dillon2015: folds 
+Uncalled bet ($0.75) returned to hsvdote
+hsvdote collected $0.95 from pot
+hsvdote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.99 | Rake $0.04 
+Board [Js 8c 4s 8s 2c]
+Seat 1: ipodgr folded before Flop (didn't bet)
+Seat 2: J4SunO (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: Wolveredo (big blind) folded before Flop
+Seat 5: hsvdote collected ($0.95)
+Seat 6: Dillon2015 folded on the River
+
+
+
+PokerStars Hand #201502871853:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:07:39 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($10.84 in chips) 
+Seat 3: Alinyr ($13.45 in chips) 
+Seat 4: Wolveredo ($23.17 in chips) 
+Seat 5: hsvdote ($10.53 in chips) 
+Seat 6: Dillon2015 ($12.62 in chips) 
+Wolveredo: posts small blind $0.05
+hsvdote: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+ipodgr: folds 
+J4SunO: folds 
+Alinyr: raises $0.15 to $0.25
+Wolveredo: folds 
+hsvdote: folds 
+Uncalled bet ($0.15) returned to Alinyr
+Alinyr collected $0.25 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ipodgr folded before Flop (didn't bet)
+Seat 2: J4SunO folded before Flop (didn't bet)
+Seat 3: Alinyr (button) collected ($0.25)
+Seat 4: Wolveredo (small blind) folded before Flop
+Seat 5: hsvdote (big blind) folded before Flop
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201502880375:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:08:11 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($10.84 in chips) 
+Seat 3: Alinyr ($13.60 in chips) 
+Seat 4: Wolveredo ($23.12 in chips) 
+Seat 5: hsvdote ($10.43 in chips) 
+Seat 6: Dillon2015 ($12.62 in chips) 
+hsvdote: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+ipodgr: folds 
+J4SunO: raises $0.15 to $0.25
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: calls $0.15
+*** FLOP *** [5c Ad Td]
+Dillon2015: checks 
+J4SunO: checks 
+*** TURN *** [5c Ad Td] [Qs]
+Dillon2015: checks 
+J4SunO: checks 
+*** RIVER *** [5c Ad Td Qs] [Jd]
+Dillon2015: checks 
+J4SunO: bets $0.40
+Dillon2015: calls $0.40
+*** SHOW DOWN ***
+J4SunO: shows [Kh 8h] (a straight, Ten to Ace)
+Dillon2015: mucks hand 
+J4SunO collected $1.29 from pot
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [5c Ad Td Qs Jd]
+Seat 1: ipodgr folded before Flop (didn't bet)
+Seat 2: J4SunO showed [Kh 8h] and won ($1.29) with a straight, Ten to Ace
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo (button) folded before Flop (didn't bet)
+Seat 5: hsvdote (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) mucked
+
+
+
+PokerStars Hand #201502894756:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:09:06 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($11.48 in chips) 
+Seat 3: Alinyr ($13.60 in chips) 
+Seat 4: Wolveredo ($23.12 in chips) 
+Seat 5: hsvdote ($10.38 in chips) 
+Seat 6: Dillon2015 ($11.97 in chips) 
+Dillon2015: posts small blind $0.05
+ipodgr: posts big blind $0.10
+*** HOLE CARDS ***
+J4SunO: raises $0.15 to $0.25
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: calls $0.20
+ipodgr: folds 
+*** FLOP *** [Ts Jh 4h]
+Dillon2015: bets $0.60
+J4SunO: folds 
+Uncalled bet ($0.60) returned to Dillon2015
+Dillon2015 collected $0.57 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [Ts Jh 4h]
+Seat 1: ipodgr (big blind) folded before Flop
+Seat 2: J4SunO folded on the Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) collected ($0.57)
+
+
+
+PokerStars Hand #201502901686:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:09:33 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($11.23 in chips) 
+Seat 3: Alinyr ($13.60 in chips) 
+Seat 4: Wolveredo ($23.12 in chips) 
+Seat 5: hsvdote ($10.38 in chips) 
+Seat 6: Dillon2015 ($12.29 in chips) 
+ipodgr: posts small blind $0.05
+J4SunO: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: raises $0.14 to $0.24
+Dillon2015: calls $0.24
+ipodgr: folds 
+J4SunO: folds 
+*** FLOP *** [Tc 4h 8s]
+hsvdote: bets $0.36
+Dillon2015: calls $0.36
+*** TURN *** [Tc 4h 8s] [Qs]
+hsvdote: bets $0.56
+Dillon2015: calls $0.56
+*** RIVER *** [Tc 4h 8s Qs] [Jh]
+hsvdote: checks 
+Dillon2015: checks 
+*** SHOW DOWN ***
+hsvdote: shows [Th Kh] (a pair of Tens)
+Dillon2015: mucks hand 
+hsvdote collected $2.36 from pot
+*** SUMMARY ***
+Total pot $2.47 | Rake $0.11 
+Board [Tc 4h 8s Qs Jh]
+Seat 1: ipodgr (small blind) folded before Flop
+Seat 2: J4SunO (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote showed [Th Kh] and won ($2.36) with a pair of Tens
+Seat 6: Dillon2015 (button) mucked
+
+
+
+PokerStars Hand #201502919526:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:10:41 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($11.13 in chips) 
+Seat 3: Alinyr ($13.60 in chips) 
+Seat 4: Wolveredo ($23.12 in chips) 
+Seat 5: hsvdote ($11.58 in chips) 
+Seat 6: Dillon2015 ($11.13 in chips) 
+J4SunO: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Wolveredo: raises $0.15 to $0.25
+hsvdote: folds 
+Dillon2015: folds 
+ipodgr: folds 
+J4SunO: folds 
+Alinyr: folds 
+Uncalled bet ($0.15) returned to Wolveredo
+Wolveredo collected $0.25 from pot
+Wolveredo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: ipodgr (button) folded before Flop (didn't bet)
+Seat 2: J4SunO (small blind) folded before Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: Wolveredo collected ($0.25)
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201502923795:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:10:57 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($11.08 in chips) 
+Seat 3: Alinyr ($13.50 in chips) 
+Seat 4: Wolveredo ($23.27 in chips) 
+Seat 5: hsvdote ($11.58 in chips) 
+Seat 6: Dillon2015 ($11.13 in chips) 
+Alinyr: posts small blind $0.05
+Wolveredo: posts big blind $0.10
+*** HOLE CARDS ***
+hsvdote: raises $0.14 to $0.24
+Dillon2015: calls $0.24
+ipodgr: folds 
+J4SunO: raises $0.81 to $1.05
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: folds 
+Uncalled bet ($0.81) returned to J4SunO
+J4SunO collected $0.87 from pot
+J4SunO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.87 | Rake $0 
+Seat 1: ipodgr folded before Flop (didn't bet)
+Seat 2: J4SunO (button) collected ($0.87)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: Wolveredo (big blind) folded before Flop
+Seat 5: hsvdote folded before Flop
+Seat 6: Dillon2015 folded before Flop
+
+
+
+PokerStars Hand #201502933573:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:11:34 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($11.71 in chips) 
+Seat 3: Alinyr ($13.45 in chips) 
+Seat 4: Wolveredo ($23.17 in chips) 
+Seat 5: hsvdote ($11.34 in chips) 
+Seat 6: Dillon2015 ($10.89 in chips) 
+Wolveredo: posts small blind $0.05
+hsvdote: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+ipodgr: folds 
+J4SunO: calls $0.20
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+*** FLOP *** [Th 6c Ad]
+Dillon2015: bets $0.50
+J4SunO: folds 
+Uncalled bet ($0.50) returned to Dillon2015
+Dillon2015 collected $0.53 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.55 | Rake $0.02 
+Board [Th 6c Ad]
+Seat 1: ipodgr folded before Flop (didn't bet)
+Seat 2: J4SunO folded on the Flop
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: Wolveredo (small blind) folded before Flop
+Seat 5: hsvdote (big blind) folded before Flop
+Seat 6: Dillon2015 collected ($0.53)
+
+
+
+PokerStars Hand #201502943630:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:12:12 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: ipodgr ($10 in chips) 
+Seat 2: J4SunO ($11.51 in chips) 
+Seat 3: Alinyr ($13.45 in chips) 
+Seat 4: Wolveredo ($23.12 in chips) 
+Seat 5: hsvdote ($11.24 in chips) 
+Seat 6: Dillon2015 ($11.22 in chips) 
+hsvdote: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+ipodgr: raises $0.20 to $0.30
+J4SunO: calls $0.30
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: calls $0.20
+*** FLOP *** [8c Qd 8s]
+Dillon2015: checks 
+ipodgr: bets $0.48
+J4SunO: calls $0.48
+Dillon2015: folds 
+*** TURN *** [8c Qd 8s] [7c]
+ipodgr: checks 
+J4SunO: bets $1.36
+ipodgr: calls $1.36
+*** RIVER *** [8c Qd 8s 7c] [6h]
+ipodgr: checks 
+J4SunO: bets $9.37 and is all-in
+ipodgr: folds 
+Uncalled bet ($9.37) returned to J4SunO
+J4SunO collected $4.42 from pot
+J4SunO: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.63 | Rake $0.21 
+Board [8c Qd 8s 7c 6h]
+Seat 1: ipodgr folded on the River
+Seat 2: J4SunO collected ($4.42)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo (button) folded before Flop (didn't bet)
+Seat 5: hsvdote (small blind) folded before Flop
+Seat 6: Dillon2015 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #201502969787:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:13:49 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 2: J4SunO ($13.79 in chips) 
+Seat 3: Alinyr ($13.45 in chips) 
+Seat 4: Wolveredo ($23.12 in chips) 
+Seat 5: hsvdote ($11.19 in chips) 
+Seat 6: Dillon2015 ($10.92 in chips) 
+Dillon2015: posts small blind $0.05
+ipodgr: is sitting out 
+J4SunO: posts big blind $0.10
+*** HOLE CARDS ***
+ipodgr leaves the table
+Alinyr: folds 
+quarantinne joins the table at seat #1 
+Wolveredo: raises $0.15 to $0.25
+hsvdote: folds 
+Dillon2015: calls $0.20
+J4SunO: folds 
+*** FLOP *** [3c Kh 5h]
+Dillon2015: checks 
+Wolveredo: bets $0.39
+Dillon2015: calls $0.39
+*** TURN *** [3c Kh 5h] [Ks]
+Dillon2015: checks 
+Wolveredo: bets $0.88
+Dillon2015: calls $0.88
+*** RIVER *** [3c Kh 5h Ks] [Js]
+Dillon2015: bets $3
+Wolveredo: calls $3
+*** SHOW DOWN ***
+Dillon2015: shows [Kd 7h] (three of a kind, Kings)
+Wolveredo: shows [Qd Kc] (three of a kind, Kings - Queen kicker)
+Wolveredo collected $8.73 from pot
+*** SUMMARY ***
+Total pot $9.14 | Rake $0.41 
+Board [3c Kh 5h Ks Js]
+Seat 2: J4SunO (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo showed [Qd Kc] and won ($8.73) with three of a kind, Kings
+Seat 5: hsvdote (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) showed [Kd 7h] and lost with three of a kind, Kings
+
+
+
+PokerStars Hand #201502989653:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:15:03 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 2: J4SunO ($13.69 in chips) 
+Seat 3: Alinyr ($13.45 in chips) 
+Seat 4: Wolveredo ($27.33 in chips) 
+Seat 5: hsvdote ($11.19 in chips) 
+Seat 6: Dillon2015 ($6.40 in chips) 
+J4SunO: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Wolveredo: raises $0.15 to $0.25
+hsvdote: folds 
+Dillon2015: folds 
+J4SunO: folds 
+Alinyr: folds 
+Uncalled bet ($0.15) returned to Wolveredo
+Wolveredo collected $0.25 from pot
+Wolveredo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 2: J4SunO (small blind) folded before Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: Wolveredo collected ($0.25)
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201502994413:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:15:21 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 2: J4SunO ($13.64 in chips) 
+Seat 3: Alinyr ($13.35 in chips) 
+Seat 4: Wolveredo ($27.48 in chips) 
+Seat 5: hsvdote ($11.19 in chips) 
+Seat 6: Dillon2015 ($10 in chips) 
+Alinyr: posts small blind $0.05
+Wolveredo: posts big blind $0.10
+quarantinne: sits out 
+*** HOLE CARDS ***
+hsvdote: raises $0.14 to $0.24
+Dillon2015: calls $0.24
+J4SunO: folds 
+Alinyr: folds 
+Wolveredo: folds 
+*** FLOP *** [6h Qs 9d]
+hsvdote: checks 
+Dillon2015: checks 
+*** TURN *** [6h Qs 9d] [5s]
+hsvdote: checks 
+Dillon2015: checks 
+*** RIVER *** [6h Qs 9d 5s] [Ac]
+hsvdote: bets $0.60
+Dillon2015: calls $0.60
+*** SHOW DOWN ***
+hsvdote: shows [Kh Ah] (a pair of Aces)
+Dillon2015: mucks hand 
+hsvdote collected $1.75 from pot
+*** SUMMARY ***
+Total pot $1.83 | Rake $0.08 
+Board [6h Qs 9d 5s Ac]
+Seat 2: J4SunO (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: Wolveredo (big blind) folded before Flop
+Seat 5: hsvdote showed [Kh Ah] and won ($1.75) with a pair of Aces
+Seat 6: Dillon2015 mucked
+
+
+
+PokerStars Hand #201503008565:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:16:14 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 2: J4SunO ($13.64 in chips) 
+Seat 3: Alinyr ($13.30 in chips) 
+Seat 4: Wolveredo ($27.38 in chips) 
+Seat 5: hsvdote ($12.10 in chips) 
+Seat 6: Dillon2015 ($9.16 in chips) 
+Wolveredo: posts small blind $0.05
+hsvdote: posts big blind $0.10
+quarantinne: sits out 
+*** HOLE CARDS ***
+Dillon2015: raises $0.10 to $0.20
+J4SunO: folds 
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: calls $0.10
+*** FLOP *** [4h 3s Kc]
+hsvdote: checks 
+Dillon2015: checks 
+*** TURN *** [4h 3s Kc] [Tc]
+hsvdote: checks 
+Dillon2015: checks 
+*** RIVER *** [4h 3s Kc Tc] [4d]
+hsvdote: checks 
+Dillon2015: bets $0.40
+hsvdote: calls $0.40
+*** SHOW DOWN ***
+Dillon2015: shows [6d 8d] (a pair of Fours)
+hsvdote: shows [Jh Ah] (a pair of Fours - Ace kicker)
+hsvdote collected $1.19 from pot
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [4h 3s Kc Tc 4d]
+Seat 2: J4SunO folded before Flop (didn't bet)
+Seat 3: Alinyr (button) folded before Flop (didn't bet)
+Seat 4: Wolveredo (small blind) folded before Flop
+Seat 5: hsvdote (big blind) showed [Jh Ah] and won ($1.19) with a pair of Fours
+Seat 6: Dillon2015 showed [6d 8d] and lost with a pair of Fours
+
+
+
+PokerStars Hand #201503027199:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:17:24 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 2: J4SunO ($13.64 in chips) 
+Seat 3: Alinyr ($13.30 in chips) 
+Seat 4: Wolveredo ($27.33 in chips) 
+Seat 5: hsvdote ($12.69 in chips) 
+Seat 6: Dillon2015 ($9.60 in chips) 
+hsvdote: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+quarantinne: sits out 
+*** HOLE CARDS ***
+J4SunO: folds 
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: raises $0.20 to $0.30
+Dillon2015: calls $0.20
+*** FLOP *** [As Jh Ah]
+hsvdote: checks 
+Dillon2015: checks 
+*** TURN *** [As Jh Ah] [Th]
+hsvdote: checks 
+Dillon2015: checks 
+*** RIVER *** [As Jh Ah Th] [Ks]
+hsvdote: bets $0.16
+Dillon2015: folds 
+Uncalled bet ($0.16) returned to hsvdote
+hsvdote collected $0.57 from pot
+hsvdote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0.03 
+Board [As Jh Ah Th Ks]
+Seat 2: J4SunO folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo (button) folded before Flop (didn't bet)
+Seat 5: hsvdote (small blind) collected ($0.57)
+Seat 6: Dillon2015 (big blind) folded on the River
+
+
+
+PokerStars Hand #201503044280:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:18:27 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($13.64 in chips) 
+Seat 3: Alinyr ($13.30 in chips) 
+Seat 4: Wolveredo ($27.33 in chips) 
+Seat 5: hsvdote ($12.96 in chips) 
+Seat 6: Dillon2015 ($9.30 in chips) 
+Dillon2015: posts small blind $0.05
+quarantinne: posts big blind $0.10
+*** HOLE CARDS ***
+J4SunO: folds 
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: folds 
+Uncalled bet ($0.05) returned to quarantinne
+quarantinne collected $0.10 from pot
+quarantinne: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: quarantinne (big blind) collected ($0.10)
+Seat 2: J4SunO folded before Flop (didn't bet)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201503047988:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:18:41 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: quarantinne ($10.05 in chips) 
+Seat 2: J4SunO ($13.64 in chips) 
+Seat 3: Alinyr ($13.30 in chips) 
+Seat 4: Wolveredo ($27.33 in chips) 
+Seat 5: hsvdote ($12.96 in chips) 
+Seat 6: Dillon2015 ($10 in chips) 
+quarantinne: posts small blind $0.05
+J4SunO: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: folds 
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: folds 
+quarantinne: raises $0.15 to $0.25
+J4SunO: raises $0.55 to $0.80
+quarantinne: folds 
+Uncalled bet ($0.55) returned to J4SunO
+J4SunO collected $0.50 from pot
+J4SunO: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: quarantinne (small blind) folded before Flop
+Seat 2: J4SunO (big blind) collected ($0.50)
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201503059934:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:19:25 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($13.89 in chips) 
+Seat 3: Alinyr ($13.30 in chips) 
+Seat 4: Wolveredo ($27.33 in chips) 
+Seat 5: hsvdote ($12.96 in chips) 
+Seat 6: Dillon2015 ($10 in chips) 
+J4SunO: posts small blind $0.05
+Alinyr: posts big blind $0.10
+*** HOLE CARDS ***
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: calls $0.10
+quarantinne: folds 
+J4SunO: raises $0.30 to $0.40
+Alinyr: folds 
+Dillon2015: raises $0.30 to $0.70
+J4SunO: calls $0.30
+*** FLOP *** [4h 5h Ts]
+J4SunO: checks 
+Dillon2015: bets $1.40
+J4SunO: folds 
+Uncalled bet ($1.40) returned to Dillon2015
+Dillon2015 collected $1.43 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [4h 5h Ts]
+Seat 1: quarantinne (button) folded before Flop (didn't bet)
+Seat 2: J4SunO (small blind) folded on the Flop
+Seat 3: Alinyr (big blind) folded before Flop
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($1.43)
+
+
+
+PokerStars Hand #201503073117:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:20:14 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($13.19 in chips) 
+Seat 3: Alinyr ($13.20 in chips) 
+Seat 4: Wolveredo ($27.33 in chips) 
+Seat 5: hsvdote ($12.96 in chips) 
+Seat 6: Dillon2015 ($10.73 in chips) 
+Alinyr: posts small blind $0.05
+Wolveredo: posts big blind $0.10
+*** HOLE CARDS ***
+hsvdote: folds 
+Dillon2015: calls $0.10
+quarantinne: folds 
+J4SunO: folds 
+Alinyr: folds 
+Wolveredo: checks 
+*** FLOP *** [Qd Kd Jh]
+Wolveredo: checks 
+Dillon2015: bets $0.10
+Wolveredo: folds 
+Uncalled bet ($0.10) returned to Dillon2015
+Dillon2015 collected $0.24 from pot
+Dillon2015: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [Qd Kd Jh]
+Seat 1: quarantinne folded before Flop (didn't bet)
+Seat 2: J4SunO (button) folded before Flop (didn't bet)
+Seat 3: Alinyr (small blind) folded before Flop
+Seat 4: Wolveredo (big blind) folded on the Flop
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 collected ($0.24)
+
+
+
+PokerStars Hand #201503079916:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:20:39 ET
+Table 'Aase II' 6-max Seat #3 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($13.19 in chips) 
+Seat 3: Alinyr ($13.15 in chips) 
+Seat 4: Wolveredo ($27.23 in chips) 
+Seat 5: hsvdote ($12.96 in chips) 
+Seat 6: Dillon2015 ($10.87 in chips) 
+Wolveredo: posts small blind $0.05
+hsvdote: posts big blind $0.10
+*** HOLE CARDS ***
+Dillon2015: folds 
+quarantinne: folds 
+J4SunO: folds 
+Alinyr: raises $0.15 to $0.25
+Wolveredo: folds 
+hsvdote: calls $0.15
+*** FLOP *** [Qs 4h 8c]
+hsvdote: bets $0.18
+Alinyr: calls $0.18
+*** TURN *** [Qs 4h 8c] [9h]
+hsvdote: bets $0.56
+Alinyr: folds 
+Uncalled bet ($0.56) returned to hsvdote
+hsvdote collected $0.87 from pot
+hsvdote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.91 | Rake $0.04 
+Board [Qs 4h 8c 9h]
+Seat 1: quarantinne folded before Flop (didn't bet)
+Seat 2: J4SunO folded before Flop (didn't bet)
+Seat 3: Alinyr (button) folded on the Turn
+Seat 4: Wolveredo (small blind) folded before Flop
+Seat 5: hsvdote (big blind) collected ($0.87)
+Seat 6: Dillon2015 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #201503099051:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:21:48 ET
+Table 'Aase II' 6-max Seat #4 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($13.19 in chips) 
+Seat 3: Alinyr ($12.72 in chips) 
+Seat 4: Wolveredo ($27.18 in chips) 
+Seat 5: hsvdote ($13.40 in chips) 
+Seat 6: Dillon2015 ($10.87 in chips) 
+hsvdote: posts small blind $0.05
+Dillon2015: posts big blind $0.10
+*** HOLE CARDS ***
+quarantinne: folds 
+J4SunO: raises $0.15 to $0.25
+Alinyr: folds 
+Wolveredo: raises $0.65 to $0.90
+hsvdote: raises $1.80 to $2.70
+Dillon2015: folds 
+J4SunO: folds 
+Wolveredo: folds 
+Uncalled bet ($1.80) returned to hsvdote
+hsvdote collected $2.15 from pot
+hsvdote: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.15 | Rake $0 
+Seat 1: quarantinne folded before Flop (didn't bet)
+Seat 2: J4SunO folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo (button) folded before Flop
+Seat 5: hsvdote (small blind) collected ($2.15)
+Seat 6: Dillon2015 (big blind) folded before Flop
+
+
+
+PokerStars Hand #201503111533:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:22:33 ET
+Table 'Aase II' 6-max Seat #5 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($12.94 in chips) 
+Seat 3: Alinyr ($12.72 in chips) 
+Seat 4: Wolveredo ($26.28 in chips) 
+Seat 5: hsvdote ($14.65 in chips) 
+Seat 6: Dillon2015 ($10.77 in chips) 
+Dillon2015: posts small blind $0.05
+quarantinne: posts big blind $0.10
+*** HOLE CARDS ***
+J4SunO: folds 
+Alinyr: raises $0.20 to $0.30
+Wolveredo: folds 
+hsvdote: folds 
+Dillon2015: folds 
+quarantinne: folds 
+Uncalled bet ($0.20) returned to Alinyr
+Alinyr collected $0.25 from pot
+Alinyr: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: quarantinne (big blind) folded before Flop
+Seat 2: J4SunO folded before Flop (didn't bet)
+Seat 3: Alinyr collected ($0.25)
+Seat 4: Wolveredo folded before Flop (didn't bet)
+Seat 5: hsvdote (button) folded before Flop (didn't bet)
+Seat 6: Dillon2015 (small blind) folded before Flop
+
+
+
+PokerStars Hand #201503113832:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:22:42 ET
+Table 'Aase II' 6-max Seat #6 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($12.94 in chips) 
+Seat 3: Alinyr ($12.87 in chips) 
+Seat 4: Wolveredo ($26.28 in chips) 
+Seat 5: hsvdote ($14.65 in chips) 
+Seat 6: Dillon2015 ($10.72 in chips) 
+quarantinne: posts small blind $0.05
+J4SunO: posts big blind $0.10
+*** HOLE CARDS ***
+Alinyr: folds 
+Wolveredo: raises $0.15 to $0.25
+hsvdote: folds 
+Dillon2015: raises $0.65 to $0.90
+quarantinne: folds 
+J4SunO: folds 
+Wolveredo: raises $1.30 to $2.20
+Dillon2015: calls $1.30
+*** FLOP *** [Jd Ac Tc]
+Wolveredo: checks 
+Dillon2015: bets $4.30
+Wolveredo: raises $9.71 to $14.01
+Dillon2015: calls $4.22 and is all-in
+Uncalled bet ($5.49) returned to Wolveredo
+*** TURN *** [Jd Ac Tc] [2c]
+*** RIVER *** [Jd Ac Tc 2c] [Th]
+*** SHOW DOWN ***
+Wolveredo: shows [As Ad] (a full house, Aces full of Tens)
+Dillon2015: shows [6h 6c] (two pair, Tens and Sixes)
+Wolveredo collected $20.62 from pot
+*** SUMMARY ***
+Total pot $21.59 | Rake $0.97 
+Board [Jd Ac Tc 2c Th]
+Seat 1: quarantinne (small blind) folded before Flop
+Seat 2: J4SunO (big blind) folded before Flop
+Seat 3: Alinyr folded before Flop (didn't bet)
+Seat 4: Wolveredo showed [As Ad] and won ($20.62) with a full house, Aces full of Tens
+Seat 5: hsvdote folded before Flop (didn't bet)
+Seat 6: Dillon2015 (button) showed [6h 6c] and lost with two pair, Tens and Sixes
+
+
+
+PokerStars Hand #201503132137:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:23:50 ET
+Table 'Aase II' 6-max Seat #1 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($12.84 in chips) 
+Seat 4: Wolveredo ($36.18 in chips) 
+Seat 5: hsvdote ($14.65 in chips) 
+J4SunO: posts small blind $0.05
+Alinyr: is sitting out 
+Wolveredo: posts big blind $0.10
+*** HOLE CARDS ***
+hsvdote: raises $0.14 to $0.24
+Dillon2015 leaves the table
+quarantinne: folds 
+Jacub1987 joins the table at seat #6 
+Jacub1987 leaves the table
+MilliAtto joins the table at seat #6 
+J4SunO: folds 
+Wolveredo: folds 
+Uncalled bet ($0.14) returned to hsvdote
+hsvdote collected $0.25 from pot
+MilliAtto leaves the table
+hsvdote: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: quarantinne (button) folded before Flop (didn't bet)
+Seat 2: J4SunO (small blind) folded before Flop
+Seat 4: Wolveredo (big blind) folded before Flop
+Seat 5: hsvdote collected ($0.25)
+
+
+
+PokerStars Hand #201503137807:  Hold'em No Limit ($0.05/$0.10 USD) - 2019/06/18 6:24:11 ET
+Table 'Aase II' 6-max Seat #2 is the button
+Seat 1: quarantinne ($10 in chips) 
+Seat 2: J4SunO ($12.79 in chips) 
+Seat 4: Wolveredo ($36.08 in chips) 
+Wolveredo: posts small blind $0.05
+quarantinne: posts big blind $0.10
+*** HOLE CARDS ***
+Delaynes joins the table at seat #6 
+hsvdote leaves the table
+Delaynes leaves the table
+J4SunO: raises $0.15 to $0.25
+Wolveredo: raises $0.70 to $0.95
+Alinyr leaves the table
+quarantinne: folds 
+J4SunO: folds 
+Uncalled bet ($0.70) returned to Wolveredo
+Wolveredo collected $0.60 from pot
+Wolveredo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: quarantinne (big blind) folded before Flop
+Seat 2: J4SunO (button) folded before Flop
+Seat 4: Wolveredo (small blind) collected ($0.60)
+
+
+

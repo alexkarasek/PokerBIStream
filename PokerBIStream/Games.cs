@@ -13,6 +13,9 @@ namespace testJson
         [JsonProperty(PropertyName = "id")]
         public string gameid;
         public string timestamp;
+        public string sitename;
+        public string tablename;
+        public string limits;
         public List<Seats> seats = new List<Seats>();
         public List<Actions> actions = new List<Actions>();
         public override string ToString()
