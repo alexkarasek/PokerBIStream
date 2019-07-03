@@ -84,7 +84,7 @@ namespace testJson
             patterns.Add(@"Seat+\s\d\:\s.+\sin\schips\)");  //Seats
             patterns.Add(@"Uncalled bet"); //Returned Bet
             patterns.Add(@"\sRake\s\$"); //Rake
-            patterns.Add(@"Table\s"); //Table Name
+            patterns.Add(@"Table\s\'.+\'"); //Table Name
 
             Streetname = streetname;
             GameActionCtr = gameactionctr;
@@ -128,7 +128,7 @@ namespace testJson
                             rgxStage = new Regex(@"bets\s\$.+");
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(5, Stage[0].Length - 5));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(6, Stage[0].Length - 6));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(6, Stage[0].Length - 6)) * -1;
                             Action = "bet";
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr++;
@@ -140,7 +140,7 @@ namespace testJson
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "blind";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2)) * -1;
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr ++;
                             break;
@@ -158,7 +158,7 @@ namespace testJson
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "call";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2)) * -1;
                             Player = line_in.Substring(0, line_in.IndexOf(":"));
                             GameActionCtr++;
                             break;
@@ -205,7 +205,7 @@ namespace testJson
                             Action = "raise";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 2));
                             //Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 5));
-                            Amount = decimal.Parse(line_in.Substring(line_in.Replace(" and is all-in", "").IndexOf("to $") + 4, line_in.Replace(" and is all-in", "").Length - line_in.Replace(" and is all-in", "").IndexOf("to $") - 4));
+                            Amount = decimal.Parse(line_in.Substring(line_in.Replace(" and is all-in", "").IndexOf("to $") + 4, line_in.Replace(" and is all-in", "").Length - line_in.Replace(" and is all-in", "").IndexOf("to $") - 4)) * -1;
                             Player = line_in.Substring(0, line_in.Replace(" and is all-in", "").IndexOf(":"));
                             GameActionCtr++;
                             break;
