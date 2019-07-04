@@ -30,10 +30,10 @@ namespace testJson
                 streetname = gp.Streetname;  //persist streetname
                 gameActionCtr = gp.GameActionCtr;  //persist action ctr  
 
-                using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt", true))
-                {
-                    sw.WriteLine(line_in);
-                }
+                //using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt", true))
+                //{
+                   // sw.WriteLine(line_in);  //removed to save resources. can put back if necessary
+                //}
             }
            
             {
@@ -130,46 +130,47 @@ namespace testJson
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(5, Stage[0].Length - 5));
                             Amount = decimal.Parse(Stage[0].Value.Substring(6, Stage[0].Length - 6)) * -1;
                             Action = "bet";
-                            Player = line_in.Substring(0, line_in.IndexOf(":"));
+                            Player = line_in.Substring(0, line_in.IndexOf(": "));
                             GameActionCtr++;
                             break;
 
                         case 3:  //BLIND  
                             //rgxStage = new Regex(@"\s\d+");
-                            rgxStage = new Regex(@"\s\$.+");
+                            rgxStage = new Regex(@"blind.+\$.+");
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "blind";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2)) * -1;
-                            Player = line_in.Substring(0, line_in.IndexOf(":"));
+                            //Amount = decimal.Parse(Stage[0].Value.Substring(7, Stage[0].Length - 7)) * -1;
+                            Amount = decimal.Parse(Stage[0].Value.Substring(Stage[0].Value.IndexOf("$") + 1, Stage[0].Length - (Stage[0].Value.IndexOf("$") + 1) )) * -1;
+                            Player = line_in.Substring(0, line_in.IndexOf(": "));
                             GameActionCtr ++;
                             break;
 
                         case 4:   //FOLD
                             Action = "fold";
                             Amount = 0;
-                            Player = line_in.Substring(0, line_in.IndexOf(":"));
+                            Player = line_in.Substring(0, line_in.IndexOf(": "));
                             GameActionCtr++;
                             break;
 
                         case 5:  //CALL
                             //rgxStage = new Regex(@"\s\d+");
-                            rgxStage = new Regex(@"\s\$.+");
+                            rgxStage = new Regex(@"calls\s\$.+");
                             Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
                             Action = "call";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 1));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 2)) * -1;
-                            Player = line_in.Substring(0, line_in.IndexOf(":"));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(7, Stage[0].Length - 7)) * -1;
+                            Player = line_in.Substring(0, line_in.IndexOf(": "));
                             GameActionCtr++;
                             break;
 
                         case 6:  //WIN
                             //rgxStage = new Regex(@"\d+\sfrom\s");
-                            rgxStage = new Regex(@"\$.+\sfrom\s");
+                            rgxStage = new Regex(@"collected\s\$.+\sfrom\s");
                             Stage = rgxStage.Matches(line_in);
                             Action = "win";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(0, Stage[0].Length - 6));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(1, Stage[0].Length - 6));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(11, Stage[0].Length - 16));
                             rgxStage = new Regex(@".+\scollect");
                             Player = line_in.Substring(0, line_in.Replace(": collect", " collect").IndexOf(" collect"));
                             GameActionCtr++;
@@ -178,7 +179,7 @@ namespace testJson
                         case 7:  //CHECK
                             Action = "check";
                             Amount = 0;
-                            Player = line_in.Substring(0, line_in.IndexOf(":"));
+                            Player = line_in.Substring(0, line_in.IndexOf(": checks"));
                             GameActionCtr++;
                             break;
 
@@ -206,7 +207,7 @@ namespace testJson
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(1, Stage[0].Length - 2));
                             //Amount = decimal.Parse(Stage[0].Value.Substring(2, Stage[0].Length - 5));
                             Amount = decimal.Parse(line_in.Substring(line_in.Replace(" and is all-in", "").IndexOf("to $") + 4, line_in.Replace(" and is all-in", "").Length - line_in.Replace(" and is all-in", "").IndexOf("to $") - 4)) * -1;
-                            Player = line_in.Substring(0, line_in.Replace(" and is all-in", "").IndexOf(":"));
+                            Player = line_in.Substring(0, line_in.Replace(" and is all-in", "").IndexOf(": "));
                             GameActionCtr++;
                             break;
 
@@ -221,12 +222,12 @@ namespace testJson
 
                         case 12:  //Return
                             //rgxStage = new Regex(@"\d+\sfrom\s");
-                            rgxStage = new Regex(@"\$\d.+\)");
+                            rgxStage = new Regex(@"\$.+\)\s");
                             rgxStage =  rgxStage.Matches(line_in).Count == 0 ? new Regex(@"\$\d\)") : rgxStage;
                             Stage = rgxStage.Matches(line_in);
                             Action = "bet_returned";
                             //Amount = Convert.ToInt32(Stage[0].Value.Substring(0, Stage[0].Length - 6));
-                            Amount = decimal.Parse(Stage[0].Value.Substring(1,Stage[0].Length - 2));
+                            Amount = decimal.Parse(Stage[0].Value.Substring(1,Stage[0].Length - 3));
                             rgxStage = new Regex(@"returned to\s.+");
                             Stage = rgxStage.Matches(line_in);
                             Player = Stage[0].Value.Replace("returned to ","");
@@ -373,7 +374,7 @@ namespace testJson
                 }
             }
 
-            Console.WriteLine(line_in);
+            //Console.WriteLine(line_in);
 
         }
 
