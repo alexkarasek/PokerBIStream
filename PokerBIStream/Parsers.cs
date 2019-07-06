@@ -183,13 +183,14 @@ namespace testJson
                             GameActionCtr++;
                             break;
 
-                        //case 8:  //ANTE
-                        //    rgxStage = new Regex(@"ante\s\d+");
-                        //    Stage = rgxStage.Matches(line);
-                        //    action = "ante";
-                        //    amount = Stage[0].Value.Substring(5, Stage[0].Length - 5);
-                        //    player = line.Substring(0, line.IndexOf(@":"));
-                        //    break;
+                        case 8:  //ANTE
+                            rgxStage = new Regex(@"ante.+\$.+");
+                            Stage = rgxStage.Matches(line_in.Replace(" and is all-in", ""));
+                            Action = "ante";
+                            Amount = decimal.Parse(Stage[0].Value.Substring(Stage[0].Value.IndexOf("$") + 1, Stage[0].Length - (Stage[0].Value.IndexOf("$") + 1))) * -1;
+                            Player = line_in.Substring(0, line_in.IndexOf(": "));
+                            GameActionCtr++;
+                            break;
 
                         case 9:  //NEW STREET
                             if (line_in.Replace("HOLE CARDS", "Pre-flop").Substring(4, line_in.IndexOf("***", 4) - 5) != "SUMMARY"

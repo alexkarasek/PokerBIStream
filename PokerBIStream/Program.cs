@@ -40,7 +40,7 @@ namespace testJson
             }
 
             //Console.WriteLine(sr.ReadToEnd());
-
+            Console.WriteLine("Done Processing Files");
             Console.ReadLine();
 
             //TODO: Add logic to copy log files to ADLS
