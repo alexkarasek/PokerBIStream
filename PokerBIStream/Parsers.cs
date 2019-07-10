@@ -7,6 +7,7 @@ using System.Text.RegularExpressions;
 using System.Runtime.Serialization.Json;
 using PokerBIStream;
 using System.Dynamic;
+using System.Security.Cryptography.X509Certificates;
 
 namespace testJson
 {
@@ -63,6 +64,7 @@ namespace testJson
         public string Player { get; set; }
         public int GameActionCtr { get; set; }
         public int Seatnumber { get; set; }
+        public int ButtonSeat { get; set; }
 
         public LineParser(string line_in, string streetname ,int gameactionctr)
         {
@@ -249,6 +251,7 @@ namespace testJson
                             rgxStage = new Regex(@"\'.+\'");
                             Stage = rgxStage.Matches(line_in);
                             TableName = Stage[0].Value.Substring(1, Stage[0].Value.Length - 2);
+                            ButtonSeat = Convert.ToInt32(line_in.Substring(line_in.Length - 15, 1));
                             break;
 
                     }
@@ -265,6 +268,33 @@ namespace testJson
         
         public GameParser(string line_in, Games g, string streetname, int gameActionCtr, string url, string key, string archivepath, List<Bets> bets) 
         {
+            //find index of button
+            int buttonindex = g.seats.FindIndex(a => a.seatno == g.buttonseat);
+
+            if (line_in.IndexOf(" posts small blind ") > 1)
+            {
+                for (var i = 0; i < g.seats.Count ; i++)
+                {
+                    int buttonoffset = i <= buttonindex ? buttonindex - i : g.seats.Count() - (i - buttonindex);
+                    Console.WriteLine("Name is {0} and seatindex is {1} and button index is {2} and playercount is {3} and button offset is {4}", g.seats[i].playername, i, buttonindex, g.seats.Count(), buttonoffset);
+
+                    if (buttonoffset <= 1)
+                    {
+                        //Console.WriteLine("Postion is Late");
+                        //todo: assign postion flag
+                    }
+                    else if (buttonoffset >= (g.seats.Count() - 2))
+                    {
+                        //Console.WriteLine("Position is Early");
+                        //todo: assign postion flag
+                    }
+                    else
+                    {
+                        //Console.WriteLine("Position is Middle");
+                        //todo: assign postion flag
+                    }
+                }
+            }
 
             LineParser lp = new LineParser(line_in, streetname, gameActionCtr);
             if (streetname != lp.Streetname)
@@ -330,6 +360,7 @@ namespace testJson
             else if (lp.TableName != null)
             {
                 g.tablename = lp.TableName;
+                g.buttonseat = lp.ButtonSeat;
             }
             else if (lp.Streetname != "" && lp.Action != null)  //assign Actions values
             {

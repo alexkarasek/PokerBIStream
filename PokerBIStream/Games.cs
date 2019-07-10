@@ -16,6 +16,7 @@ namespace testJson
         public string sitename;
         public string tablename;
         public string limits;
+        public int buttonseat;
         public List<Seats> seats = new List<Seats>();
         public List<Actions> actions = new List<Actions>();
         public override string ToString()
@@ -47,6 +48,7 @@ namespace testJson
     {
         public string playername;
         public int seatno;
+        public string position;
         //public int startingchips;
         //public int isButton;
         //public int isBB;
