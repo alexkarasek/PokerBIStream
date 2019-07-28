@@ -69,4 +69,25 @@ namespace testJson
         public string playername { get; set; }
         public decimal betsum { get; set; }
     }
+
+    public class ga_payload
+    {
+        //[JsonProperty(PropertyName = "id")]
+        public string gameid;
+        public string timestamp;
+        public string sitename;
+        public string tablename;
+        public string limits;
+        public string streetname;
+        public int gameactionid;
+        public string action;
+        public string player;
+        public decimal amount;
+        public override string ToString()
+        {
+            return JsonConvert.SerializeObject(this);
+        }
+    }
 }
+
+  

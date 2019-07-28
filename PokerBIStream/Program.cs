@@ -28,7 +28,7 @@ namespace testJson
             string url = configuration["EndpointUrl"];
             string key = configuration["PrimaryKey"];
 
-          
+
             //Loop through log file directory and pass each filename into parser
             string[] fileEntries = Directory.GetFiles(inputpath);
             foreach (string fileName in fileEntries)

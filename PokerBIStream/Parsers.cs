@@ -276,7 +276,7 @@ namespace testJson
                 for (var i = 0; i < g.seats.Count ; i++)
                 {
                     int buttonoffset = i <= buttonindex ? buttonindex - i : g.seats.Count() - (i - buttonindex);
-                    Console.WriteLine("Name is {0} and seatindex is {1} and button index is {2} and playercount is {3} and button offset is {4}", g.seats[i].playername, i, buttonindex, g.seats.Count(), buttonoffset);
+                    //Console.WriteLine("Name is {0} and seatindex is {1} and button index is {2} and playercount is {3} and button offset is {4}", g.seats[i].playername, i, buttonindex, g.seats.Count(), buttonoffset);
 
                     if (buttonoffset <= 1)
                     {
@@ -399,6 +399,24 @@ namespace testJson
 
                             sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + g.sitename + "|" + g.tablename + "|" + g.limits + "|" + lp.Streetname + "|" + lp.GameActionCtr.ToString() + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
 
+                            //Added to pass to Azure Event Hub
+                            ga_payload ga_Payload = new ga_payload();
+
+                            ga_Payload.gameid = g.gameid.ToString();
+                            ga_Payload.timestamp = g.timestamp.ToString();
+                            ga_Payload.sitename = g.sitename;
+                            ga_Payload.tablename = g.tablename;
+                            ga_Payload.limits = g.limits;
+                            ga_Payload.streetname = lp.Streetname;
+                            ga_Payload.gameactionid = lp.GameActionCtr;
+                            ga_Payload.action = lp.Action;
+                            ga_Payload.player = lp.Player;
+                            ga_Payload.amount = lp.Amount;
+
+                            StreamData streamData = new StreamData();
+                            //// cosmosDb.GetStartedDemo(url, key, g).Wait();
+                            streamData.MainAsync(ga_Payload).Wait();
+
                         }
                     }
 
@@ -406,7 +424,7 @@ namespace testJson
                 }
             }
 
-            //Console.WriteLine(line_in);
+            Console.WriteLine(line_in);
 
         }
 
