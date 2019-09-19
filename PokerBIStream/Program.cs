@@ -31,10 +31,12 @@ namespace testJson
 
             //Loop through log file directory and pass each filename into parser
             string[] fileEntries = Directory.GetFiles(inputpath);
+            int ictr = 0;
             foreach (string fileName in fileEntries)
             {
                string inputfile_in = inputpath + Path.GetFileName(fileName);   //file to read
-
+                ictr++;
+                Console.WriteLine("Processing file " + ictr.ToString() + " of " + fileEntries.Length.ToString());
                 FileParser fp = new FileParser(inputfile_in, url, key, archivepath);
 
             }

@@ -8,6 +8,7 @@ using System.Runtime.Serialization.Json;
 using PokerBIStream;
 using System.Dynamic;
 using System.Security.Cryptography.X509Certificates;
+using System.Runtime.CompilerServices;
 
 namespace testJson
 {
@@ -27,23 +28,22 @@ namespace testJson
 
             while ((line_in = sr.ReadLine()) != null)
             {
-                GameParser gp = new GameParser(line_in, g, streetname, gameActionCtr, url, key, archivepath, bets); //, lines);
+                GameParser gp = new GameParser(line_in, g, streetname, gameActionCtr, url, key, archivepath, bets); 
                 streetname = gp.Streetname;  //persist streetname
                 gameActionCtr = gp.GameActionCtr;  //persist action ctr  
-
-                //using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt", true))
-                //{
-                   // sw.WriteLine(line_in);  //removed to save resources. can put back if necessary
-                //}
             }
            
+
+            //AT THIS POINT g CONTAINS ALL GAME DETAILS (FOR LAST GAME IN FILE)
             {
                 ////CosmosDb cosmosDb = new CosmosDb(url, key, g);
                 //// cosmosDb.GetStartedDemo(url, key, g).Wait();
-                using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
-                {
-                    sw2.WriteLine(g);
-                }
+                //using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                //{
+                //    sw2.WriteLine(g);
+                //}
+
+                WriteOutput writeOutput = new WriteOutput(g, archivepath);
             }
 
         }
@@ -310,14 +310,27 @@ namespace testJson
             if (lp.NewGame == 1)  //start of new game. print Games object from previous game
             {
 
+                //AT THIS POINT ALL GAME DETAILS FROM PREVIOUS GAME ARE IN g
                 if (g.gameid != null)
                 {
                     ////CosmosDb cosmosDb = new CosmosDb(url, key, g);
                     ////cosmosDb.GetStartedDemo(url, key, g).Wait();
-                    using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
-                    {
-                        sw2.WriteLine(g);
-                    }
+                    ///
+
+
+                    //using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                    //{
+                    //    sw2.WriteLine(g);
+                    //}
+
+                    //StreamData streamData = new StreamData();
+                    ////// cosmosDb.GetStartedDemo(url, key, g).Wait();
+                    ////streamData.MainAsync(ga_Payload).Wait();
+                    //streamData.MainAsync(g).Wait();
+
+                    WriteOutput writeOutput = new WriteOutput(g, archivepath);
+
+                    //Console.WriteLine(g.ToString());  //WRITE ENTIRE JSON OBJECT AS STRING
 
                     //MemoryStream ms = new MemoryStream();
                     //DataContractJsonSerializer j = new DataContractJsonSerializer(typeof(Games));
@@ -344,12 +357,13 @@ namespace testJson
                 g.limits = lp.Limits;
                 g.sitename = lp.SiteName;
 
+                //TODO: REMOVE AFTER MOVING TO SAME SPOT AS JSON
                 //prep output file
-                using (StreamWriter sw3 = new StreamWriter(archivepath + "Text\\" + g.gameid + ".txt"))
-                {
-                    sw3.WriteLine("GameId" + "|" + "Timestamp" + "|" + "SiteName" + "|" + "TableName" + "|" + "Limits" + "|" + "StreetName" + "|" + "GameActionId" + "|" + "Action" + "|" + "Player" + "|" + "Amount");//);
+                //using (StreamWriter sw3 = new StreamWriter(archivepath + "Text\\" + g.gameid + ".txt"))
+                //{
+                //    sw3.WriteLine("GameId" + "|" + "Timestamp" + "|" + "SiteName" + "|" + "TableName" + "|" + "Limits" + "|" + "StreetName" + "|" + "GameActionId" + "|" + "Action" + "|" + "Player" + "|" + "Amount");//);
 
-                }
+                //}
 
                 ////delete file if it already exists for this game
                 //using (StreamWriter sw = new StreamWriter(archivepath + "Verbose\\" + g.gameid + ".txt"))
@@ -397,25 +411,29 @@ namespace testJson
                                
                             }
 
-                            sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + g.sitename + "|" + g.tablename + "|" + g.limits + "|" + lp.Streetname + "|" + lp.GameActionCtr.ToString() + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
+                            //TODO: REPLACE WITH CODE TO DESERIALIZE g (WITH JSON OUTPUT ABOVE)
+                            //{
+                            //    sw3.WriteLine(g.gameid.ToString() + "|" + g.timestamp.ToString() + "|" + g.sitename + "|" + g.tablename + "|" + g.limits + "|" + lp.Streetname + "|" + lp.GameActionCtr.ToString() + "|" + lp.Action + "|" + lp.Player + "|" + lp.Amount.ToString());//);
 
-                            //Added to pass to Azure Event Hub
-                            ga_payload ga_Payload = new ga_payload();
+                            //    //Added to pass to Azure Event Hub
+                            //    ga_payload ga_Payload = new ga_payload();
 
-                            ga_Payload.gameid = g.gameid.ToString();
-                            ga_Payload.timestamp = g.timestamp.ToString();
-                            ga_Payload.sitename = g.sitename;
-                            ga_Payload.tablename = g.tablename;
-                            ga_Payload.limits = g.limits;
-                            ga_Payload.streetname = lp.Streetname;
-                            ga_Payload.gameactionid = lp.GameActionCtr;
-                            ga_Payload.action = lp.Action;
-                            ga_Payload.player = lp.Player;
-                            ga_Payload.amount = lp.Amount;
+                            //    ga_Payload.gameid = g.gameid.ToString();
+                            //    ga_Payload.timestamp = g.timestamp.ToString();
+                            //    ga_Payload.sitename = g.sitename;
+                            //    ga_Payload.tablename = g.tablename;
+                            //    ga_Payload.limits = g.limits;
+                            //    ga_Payload.streetname = lp.Streetname;
+                            //    ga_Payload.gameactionid = lp.GameActionCtr;
+                            //    ga_Payload.action = lp.Action;
+                            //    ga_Payload.player = lp.Player;
+                            //    ga_Payload.amount = lp.Amount;
 
-                            StreamData streamData = new StreamData();
-                            //// cosmosDb.GetStartedDemo(url, key, g).Wait();
-                            streamData.MainAsync(ga_Payload).Wait();
+                            //    //StreamData streamData = new StreamData();
+                            //    ////// cosmosDb.GetStartedDemo(url, key, g).Wait();
+                            //    ////streamData.MainAsync(ga_Payload).Wait();
+                            //    //streamData.MainAsync(g).Wait();
+                            //}
 
                         }
                     }
@@ -447,6 +465,28 @@ namespace testJson
             L.Clear();
         }
 
+    }
+
+    public class WriteOutput
+    {
+        public WriteOutput(Games g, string archivepath)
+        {
+            //Stream to Event Hub
+            if (1 == 0) //TODO: Add Streaming logic
+            {
+                StreamData streamData = new StreamData();
+                streamData.MainAsync(g).Wait();
+            }
+
+            //Write to Local JSON
+            if(1 ==1)  //TODO: Add parameter to trigger logic
+            {
+                using (StreamWriter sw2 = new StreamWriter(archivepath + "JSON\\" + g.gameid + ".json"))
+                {
+                    sw2.WriteLine(g);  //entire game stored in Games class object
+                }
+            }
+        }
     }
 
 
