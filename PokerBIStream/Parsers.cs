@@ -442,7 +442,7 @@ namespace testJson
                 }
             }
 
-            Console.WriteLine(line_in);
+            //Console.WriteLine(line_in);  NO NEED TO Write every line
 
         }
 
@@ -471,6 +471,7 @@ namespace testJson
     {
         public WriteOutput(Games g, string archivepath)
         {
+            Console.WriteLine(g.gameid);
             //Stream to Event Hub
             if (1 == 0) //TODO: Add Streaming logic
             {

@@ -27,6 +27,18 @@ namespace testJson
             string site = configuration["site"];
             string url = configuration["EndpointUrl"];
             string key = configuration["PrimaryKey"];
+            string ClearArchiveDir = configuration["ClearArchiveDir"];
+
+            if(ClearArchiveDir == "Y")
+            {
+                // Delete all files in a directory    
+                string[] files = Directory.GetFiles(archivepath + "JSON\\");
+                foreach (string file in files)
+                {
+                    File.Delete(file);
+                    Console.WriteLine($"{file} is deleted.");
+                }
+            }
 
 
             //Loop through log file directory and pass each filename into parser
